@@ -1,0 +1,873 @@
+[
+  {
+    "id": "N001",
+    "genero": "Manual",
+    "titulo": "Como montar um marcador de canto",
+    "campo": "Cotidiano",
+    "ano": 6,
+    "icone": "✂️",
+    "texto": [
+      "Separe um quadrado de papel de 12 centímetros de lado. Dobre-o ao meio na diagonal. Vire o triângulo com a ponta para cima.",
+      "Dobre os dois cantos inferiores até a ponta. Abra essas duas dobras. Abaixe apenas a camada da frente da ponta até o centro da base.",
+      "Agora levante os cantos inferiores e encaixe cada um no bolso formado. Encaixe o marcador no canto da página. Use papel fino, pois o papel grosso dificulta a última dobra."
+    ],
+    "questoes": [
+      {
+        "enunciado": "Qual é a medida do papel antes da primeira dobra?",
+        "resposta": "Um quadrado de 12 centímetros de lado.",
+        "trecho": "12 centímetros de lado"
+      },
+      {
+        "enunciado": "Por que o texto usa verbos como “separe”, “dobre” e “encaixe”?",
+        "resposta": "Eles orientam diretamente a ação do leitor, passo a passo."
+      },
+      {
+        "enunciado": "O que a palavra “pois” introduz no último período?",
+        "resposta": "A razão para preferir papel fino: o papel grosso dificulta a dobra.",
+        "trecho": "pois o papel grosso dificulta a última dobra."
+      }
+    ]
+  },
+  {
+    "id": "N002",
+    "genero": "Carta pessoal",
+    "titulo": "Do outro lado da praça",
+    "campo": "Cotidiano",
+    "ano": 6,
+    "icone": "✉️",
+    "texto": [
+      "Salvador, 8 de agosto.",
+      "Lia,",
+      "Na terça passei pela praça onde a gente montava cabanas de jornal. O quiosque ganhou tinta azul, mas o banco torto continua no mesmo lugar. Sentei ali e, por um minuto, quase ouvi você dizendo que nossa cabana resistiria até a próxima chuva.",
+      "Aqui a escola começou a emprestar jogos. Guardei um quebra-cabeça para quando você vier. Se der, me escreve contando como é o recreio aí.",
+      "Um abraço apertado, Dani."
+    ],
+    "questoes": [
+      {
+        "enunciado": "A quem Dani escreve e o que pede no fim?",
+        "resposta": "Escreve a Lia e pede que ela conte como é o recreio na nova escola.",
+        "trecho": "me escreve contando como é o recreio aí"
+      },
+      {
+        "enunciado": "O que o banco desperta em Dani?",
+        "resposta": "A lembrança das brincadeiras compartilhadas e a saudade de Lia."
+      },
+      {
+        "enunciado": "Como o texto revela proximidade entre remetente e destinatária?",
+        "resposta": "Usa o primeiro nome, a expressão informal “a gente” e a despedida “Um abraço apertado”."
+      }
+    ]
+  },
+  {
+    "id": "N003",
+    "genero": "Notícia",
+    "titulo": "Biblioteca abre aos sábados",
+    "campo": "Imprensa",
+    "ano": 7,
+    "icone": "🗞️",
+    "texto": [
+      "A Biblioteca do Alto abrirá aos sábados a partir de 14 de junho, das 9h às 13h, para empréstimos e devoluções. O novo horário foi anunciado pela coordenação na quarta-feira.",
+      "Segundo a coordenação, a decisão responde a pedidos de moradores que trabalham nos dias úteis. O funcionamento de segunda a sexta permanece das 8h às 17h.",
+      "Durante o primeiro mês, a biblioteca vai registrar o número de atendimentos aos sábados para avaliar a continuidade do horário."
+    ],
+    "questoes": [
+      {
+        "enunciado": "Qual mudança é informada no primeiro parágrafo?",
+        "resposta": "A biblioteca passará a abrir aos sábados, das 9h às 13h.",
+        "trecho": "das 9h às 13h"
+      },
+      {
+        "enunciado": "A abertura aos sábados é definitiva? Justifique.",
+        "resposta": "O texto não garante isso. O número de atendimentos será usado para decidir se o horário continua.",
+        "trecho": "para avaliar a continuidade do horário"
+      },
+      {
+        "enunciado": "Que função tem a expressão “Segundo a coordenação”?",
+        "resposta": "Identifica a fonte da justificativa apresentada para a mudança."
+      }
+    ]
+  },
+  {
+    "id": "N004",
+    "genero": "Reportagem",
+    "titulo": "A praça que ganhou sombra",
+    "campo": "Imprensa",
+    "ano": 8,
+    "icone": "🌳",
+    "texto": [
+      "Às duas da tarde, a praça do bairro do Sol já esteve vazia. Hoje, Izabel, que vende frutas na esquina, puxa um banco para perto dos ipês. “A sombra demorou, mas voltou”, diz ela.",
+      "A associação de moradores plantou 38 mudas há seis anos. Registros da associação apontam que 30 sobreviveram. A bióloga Marina Alves explica que as espécies foram escolhidas considerando o tamanho das raízes e a largura das calçadas.",
+      "A transformação é desigual. No ponto de ônibus do lado sul ainda não há sombra. Para a associação, esse será o próximo trecho de plantio."
+    ],
+    "questoes": [
+      {
+        "enunciado": "Como os depoimentos de Izabel e da bióloga se complementam?",
+        "resposta": "Izabel relata a experiência de quem usa a praça. A bióloga explica o critério técnico para escolher as árvores."
+      },
+      {
+        "enunciado": "O que impede concluir que a praça toda já tem sombra?",
+        "resposta": "O ponto de ônibus do lado sul ainda permanece sem sombra.",
+        "trecho": "No ponto de ônibus do lado sul ainda não há sombra"
+      },
+      {
+        "enunciado": "Que efeito tem começar pela cena de Izabel em vez dos números?",
+        "resposta": "A cena aproxima o leitor da experiência cotidiana antes de apresentar os dados e a explicação."
+      }
+    ]
+  },
+  {
+    "id": "N005",
+    "genero": "Artigo de opinião",
+    "titulo": "O recreio também precisa de silêncio",
+    "campo": "Imprensa",
+    "ano": 8,
+    "icone": "💬",
+    "texto": [
+      "O recreio é um intervalo para todos, mas a escola costuma planejá-lo como se todos descansassem do mesmo jeito. Defendo que cada escola reserve um espaço tranquilo, de uso livre.",
+      "Uma área com bancos e livros permite que quem se cansa do ruído volte à aula com mais disposição. A quadra pode continuar aberta. Há quem chame a proposta de desperdício de espaço. No entanto, uma sala ociosa ou um canto coberto do pátio já pode atender a esse grupo.",
+      "Se a escola oferece diferentes formas de aprender, pode oferecer diferentes formas de descansar."
+    ],
+    "questoes": [
+      {
+        "enunciado": "Qual proposta o autor defende?",
+        "resposta": "A criação de um espaço tranquilo de uso livre no recreio.",
+        "trecho": "reserve um espaço tranquilo, de uso livre"
+      },
+      {
+        "enunciado": "Qual objeção aparece e como o autor responde?",
+        "resposta": "A objeção é o suposto desperdício de espaço. O autor sugere aproveitar uma sala ociosa ou um canto coberto."
+      },
+      {
+        "enunciado": "Qual relação “No entanto” estabelece?",
+        "resposta": "Apresenta uma resposta que se opõe à ideia de que a proposta desperdiça espaço."
+      }
+    ]
+  },
+  {
+    "id": "N006",
+    "genero": "Carta do leitor",
+    "titulo": "O ponto que ficou de fora",
+    "campo": "Imprensa",
+    "ano": 7,
+    "icone": "📮",
+    "texto": [
+      "À redação do Jornal do Sol,",
+      "A reportagem sobre a arborização da praça mostrou o valor do trabalho da associação. Como usuária da linha 38, agradeço por terem mencionado que o ponto do lado sul ainda está descoberto.",
+      "Sugiro que o jornal ouça também quem espera o ônibus ali ao meio-dia. Uma árvore ajudaria, mas, até que cresça, precisamos de uma cobertura.",
+      "Atenciosamente, Joana Reis, moradora do bairro do Sol."
+    ],
+    "questoes": [
+      {
+        "enunciado": "Que reportagem motiva a carta?",
+        "resposta": "Uma reportagem sobre a arborização da praça.",
+        "trecho": "reportagem sobre a arborização da praça"
+      },
+      {
+        "enunciado": "Por que Joana propõe uma cobertura mesmo apoiando o plantio?",
+        "resposta": "Porque a árvore levaria tempo para crescer e o ponto precisa de proteção desde já."
+      },
+      {
+        "enunciado": "Como a carta constrói uma crítica respeitosa?",
+        "resposta": "Reconhece o mérito da reportagem, propõe uma nova escuta e mantém uma despedida formal."
+      }
+    ]
+  },
+  {
+    "id": "N007",
+    "genero": "Editorial",
+    "titulo": "A ponte cabe no orçamento?",
+    "campo": "Imprensa",
+    "ano": 9,
+    "icone": "🏛️",
+    "texto": [
+      "A reforma da passarela do Córrego Claro entrou na pauta da Câmara. Para este jornal, recuperar a passagem deve ser prioridade, desde que o município divulgue o custo e o prazo antes da contratação.",
+      "A passarela encurta o trajeto de estudantes e trabalhadores. Desde a interdição, o desvio acrescenta vinte minutos a pé. Essa economia de tempo justifica a urgência, mas não dispensa a fiscalização.",
+      "Cabe à Câmara cobrar um cronograma público e acompanhar sua execução. A pressa só serve ao bairro quando vem acompanhada de transparência."
+    ],
+    "questoes": [
+      {
+        "enunciado": "Qual posição a publicação assume?",
+        "resposta": "Defende priorizar a reforma e condiciona seu apoio à divulgação do custo e do prazo.",
+        "trecho": "desde que o município divulgue o custo e o prazo"
+      },
+      {
+        "enunciado": "Que expressão mostra que a opinião é institucional?",
+        "resposta": "“Para este jornal”, pois apresenta a posição assumida pelo veículo.",
+        "trecho": "Para este jornal"
+      },
+      {
+        "enunciado": "Quais dados e argumentos sustentam a urgência?",
+        "resposta": "A passarela atende estudantes e trabalhadores e o desvio acrescenta vinte minutos de caminhada."
+      }
+    ]
+  },
+  {
+    "id": "N008",
+    "genero": "Anúncio publicitário",
+    "titulo": "Dê outra volta ao seu livro",
+    "campo": "Imprensa",
+    "ano": 7,
+    "icone": "📚",
+    "texto": [
+      "FEIRA DE TROCAS • Traga um livro, leve outra história.",
+      "Sábado, 10h às 14h, no pátio da Escola do Horizonte. A cada livro em bom estado entregue, você recebe um vale para escolher outro. Gibis também valem.",
+      "Realização: Grêmio do Horizonte."
+    ],
+    "questoes": [
+      {
+        "enunciado": "O que o público precisa fazer para receber um vale?",
+        "resposta": "Entregar um livro em bom estado.",
+        "trecho": "livro em bom estado"
+      },
+      {
+        "enunciado": "Que efeito tem a expressão “leve outra história”?",
+        "resposta": "É um convite que destaca a experiência de descobrir outra leitura e não só a troca do objeto."
+      },
+      {
+        "enunciado": "Como o destaque no título ajuda quem vê a peça de passagem?",
+        "resposta": "Permite identificar o evento rapidamente antes de ler data, local e regras."
+      }
+    ]
+  },
+  {
+    "id": "N009",
+    "genero": "Propaganda",
+    "titulo": "Um copo a menos por dia",
+    "campo": "Imprensa",
+    "ano": 7,
+    "icone": "💧",
+    "texto": [
+      "Sua garrafa também tem lugar na mochila.",
+      "Traga uma garrafa reutilizável. Encha no bebedouro e deixe o copo descartável de lado.",
+      "Campanha do coletivo ambiental da escola. Na peça, uma fileira de cinco copos descartáveis é substituída pela imagem de uma única garrafa."
+    ],
+    "questoes": [
+      {
+        "enunciado": "Qual comportamento a campanha tenta estimular?",
+        "resposta": "Levar e reutilizar uma garrafa para reduzir o uso de copos descartáveis.",
+        "trecho": "Traga uma garrafa reutilizável"
+      },
+      {
+        "enunciado": "Como a imagem reforça o pedido?",
+        "resposta": "Opõe vários copos a uma garrafa e mostra visualmente como um objeto reutilizável substitui descartáveis."
+      },
+      {
+        "enunciado": "Que efeito produz falar em “sua garrafa” e “sua mochila”?",
+        "resposta": "O texto se dirige diretamente ao leitor e aproxima a ação de sua rotina."
+      }
+    ],
+    "visual": {
+      "tipo": "etapas",
+      "titulo": "Troque os copos pela garrafa",
+      "dados": [
+        [
+          "🥤🥤🥤🥤🥤",
+          "Cinco copos descartáveis"
+        ],
+        [
+          "🚰",
+          "Uma garrafa reutilizável"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "N010",
+    "genero": "Meme",
+    "titulo": "Segundo o arquivo",
+    "campo": "Imprensa",
+    "ano": 7,
+    "icone": "💻",
+    "texto": [
+      "Quando digo “vou salvar só a versão final”…"
+    ],
+    "questoes": [
+      {
+        "enunciado": "Qual contradição cria o humor?",
+        "resposta": "A pessoa promete salvar uma única versão final, mas a lista mostra várias versões com esse nome."
+      },
+      {
+        "enunciado": "O que as reticências fazem na primeira linha?",
+        "resposta": "Criam expectativa para a sequência que desmente a promessa."
+      },
+      {
+        "enunciado": "Que experiência do público o meme pressupõe?",
+        "resposta": "A familiaridade com a prática de renomear arquivos a cada revisão."
+      }
+    ],
+    "visual": {
+      "tipo": "arquivos",
+      "titulo": "Pasta Trabalho",
+      "dados": [
+        [
+          "📄",
+          "final.docx"
+        ],
+        [
+          "📄",
+          "final_agora.docx"
+        ],
+        [
+          "📄",
+          "final_de_verdade.docx"
+        ],
+        [
+          "📄",
+          "final_de_verdade_2.docx"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "N011",
+    "genero": "Regulamento",
+    "titulo": "A sala de instrumentos",
+    "campo": "Vida pública",
+    "ano": 7,
+    "icone": "🎵",
+    "texto": [
+      "Art. 1º O empréstimo de instrumentos é gratuito e destinado aos estudantes cadastrados.",
+      "Art. 2º O prazo de devolução é de sete dias corridos. § 1º A renovação por igual prazo será permitida uma única vez, desde que outro estudante não tenha reservado o instrumento.",
+      "Art. 3º Ao receber o instrumento, o estudante deve comunicar ao atendente qualquer dano que encontrar."
+    ],
+    "questoes": [
+      {
+        "enunciado": "Por quantos dias um estudante pode ficar com o instrumento se conseguir renovar?",
+        "resposta": "Por 14 dias corridos, somando os sete iniciais à única renovação pelo mesmo prazo."
+      },
+      {
+        "enunciado": "Em que situação a renovação não pode ocorrer?",
+        "resposta": "Quando outro estudante já reservou o instrumento.",
+        "trecho": "desde que outro estudante não tenha reservado o instrumento"
+      },
+      {
+        "enunciado": "Qual é a finalidade de comunicar um dano no recebimento?",
+        "resposta": "Registrar que o dano já existia e permitir que a equipe avalie o estado do instrumento."
+      }
+    ]
+  },
+  {
+    "id": "N012",
+    "genero": "Resenha",
+    "titulo": "Uma cidade em miniatura",
+    "campo": "Arte e literatura",
+    "ano": 8,
+    "icone": "🎬",
+    "texto": [
+      "No curta fictício Rua de Papel, Nara monta uma cidade de caixas para convencer a família a manter a mercearia do avô aberta. A história dura só quinze minutos e quase não tem falas.",
+      "O filme conquista pela atenção aos objetos. A cada caixa aberta, o som de uma porta real mistura passado e presente. Já a decisão da família acontece depressa demais, enfraquecendo a tensão construída na primeira metade.",
+      "Mesmo com esse final apressado, vale assistir ao curta com atenção ao som."
+    ],
+    "questoes": [
+      {
+        "enunciado": "Que informação do primeiro parágrafo resume o enredo?",
+        "resposta": "Nara monta uma cidade de caixas para tentar convencer a família a manter a mercearia aberta."
+      },
+      {
+        "enunciado": "Identifique um elogio e uma ressalva da resenha.",
+        "resposta": "A resenha elogia o uso dos objetos e do som e critica a rapidez da decisão no final."
+      },
+      {
+        "enunciado": "Por que a recomendação final inclui “com atenção ao som”?",
+        "resposta": "Porque o som ajuda a ligar tempos diferentes e é um dos méritos destacados na avaliação.",
+        "trecho": "o som de uma porta real mistura passado e presente"
+      }
+    ]
+  },
+  {
+    "id": "N013",
+    "genero": "Redação dissertativo-argumentativa",
+    "titulo": "Quando a escola escuta",
+    "campo": "Vida pública",
+    "ano": 9,
+    "icone": "📝",
+    "texto": [
+      "A participação estudantil torna mais representativas as decisões escolares. Para isso, ouvir alunos exige canais acessíveis e retorno às propostas recebidas.",
+      "Uma assembleia em horário único pode excluir quem depende do transporte escolar. Uma urna física e um formulário acessível ampliam as possibilidades de consulta. Contudo, recolher sugestões sem dar resposta enfraquece a confiança no processo.",
+      "Por isso, a direção e o grêmio devem revisar mensalmente as sugestões e publicar um quadro com as propostas, as decisões e suas justificativas, preservando o anonimato. Assim, os estudantes podem acompanhar os resultados da própria participação."
+    ],
+    "questoes": [
+      {
+        "enunciado": "Qual é a tese defendida na introdução?",
+        "resposta": "A escuta com canais acessíveis e retorno às propostas melhora a representatividade das decisões escolares."
+      },
+      {
+        "enunciado": "Por que o texto menciona o transporte escolar?",
+        "resposta": "É um exemplo concreto de barreira à participação em uma assembleia com horário único."
+      },
+      {
+        "enunciado": "Na proposta final, identifique quem age, qual ação realiza e para quê.",
+        "resposta": "A direção e o grêmio analisam as sugestões e publicam decisões justificadas para que estudantes acompanhem o efeito da participação."
+      }
+    ]
+  },
+  {
+    "id": "N014",
+    "genero": "Gráfico",
+    "titulo": "A circulação de livros em abril",
+    "campo": "Estudo e pesquisa",
+    "ano": 6,
+    "icone": "📊",
+    "texto": [
+      "O gráfico apresenta os empréstimos semanais na biblioteca de uma escola durante abril. Os dados são simulados.",
+      "Uma feira de leitura ocorreu durante a terceira semana. A biblioteca registrou os totais, sem perguntar aos usuários por que decidiram emprestar livros."
+    ],
+    "questoes": [
+      {
+        "enunciado": "Em qual semana houve mais empréstimos e quantos foram?",
+        "resposta": "Na terceira semana, com 42 empréstimos."
+      },
+      {
+        "enunciado": "Quantos empréstimos a terceira semana teve a mais que a primeira?",
+        "resposta": "24 empréstimos a mais, pois 42 menos 18 é 24."
+      },
+      {
+        "enunciado": "Os dados provam que a feira causou o aumento? Explique.",
+        "resposta": "Não. A feira e o pico coincidem, mas o gráfico não mede os motivos dos empréstimos.",
+        "trecho": "sem perguntar aos usuários"
+      }
+    ],
+    "visual": {
+      "tipo": "grafico",
+      "titulo": "Empréstimos por semana",
+      "dados": [
+        [
+          "Semana 1",
+          18
+        ],
+        [
+          "Semana 2",
+          24
+        ],
+        [
+          "Semana 3",
+          42
+        ],
+        [
+          "Semana 4",
+          29
+        ]
+      ]
+    }
+  },
+  {
+    "id": "N015",
+    "genero": "Tabela",
+    "titulo": "Horários do laboratório",
+    "campo": "Estudo e pesquisa",
+    "ano": 6,
+    "icone": "🗓️",
+    "texto": [
+      "Consulte a tabela para planejar sua visita. A oficina tem duração de 45 minutos e exige inscrição. O plantão é por ordem de chegada.",
+      "Rafa estuda até as 14h e só pode ficar na escola até as 16h. Quer fazer uma oficina completa."
+    ],
+    "questoes": [
+      {
+        "enunciado": "Qual oficina Rafa consegue frequentar integralmente?",
+        "resposta": "A oficina de quinta às 15h, que termina às 15h45."
+      },
+      {
+        "enunciado": "Por que a oficina de terça não atende Rafa?",
+        "resposta": "Começa às 15h30 e acaba às 16h15, depois do horário em que Rafa precisa sair."
+      },
+      {
+        "enunciado": "Que preparação a tabela e o aviso exigem para fazer uma oficina?",
+        "resposta": "Conferir dia e horário e fazer inscrição.",
+        "trecho": "exige inscrição"
+      }
+    ],
+    "visual": {
+      "tipo": "tabela",
+      "titulo": "Programação semanal",
+      "cabecalho": [
+        "Dia",
+        "Horário",
+        "Atividade"
+      ],
+      "dados": [
+        [
+          "Terça",
+          "15h30",
+          "Oficina"
+        ],
+        [
+          "Quarta",
+          "14h30",
+          "Plantão"
+        ],
+        [
+          "Quinta",
+          "15h",
+          "Oficina"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "N016",
+    "genero": "Infográfico",
+    "titulo": "Da casca à horta",
+    "campo": "Estudo e pesquisa",
+    "ano": 7,
+    "icone": "🌱",
+    "texto": [
+      "A composteira da escola transforma parte dos resíduos do lanche em adubo. O infográfico resume as etapas do projeto.",
+      "Uma turma monitora umidade e cheiro. Quando a mistura fica encharcada, ela acrescenta folhas secas."
+    ],
+    "questoes": [
+      {
+        "enunciado": "Que etapa vem imediatamente após separar as cascas?",
+        "resposta": "Misturar as cascas com folhas secas."
+      },
+      {
+        "enunciado": "Por que as setas são importantes no infográfico?",
+        "resposta": "Mostram o sentido de leitura e a ordem das etapas do processo."
+      },
+      {
+        "enunciado": "O que a turma faz se a mistura fica encharcada?",
+        "resposta": "Acrescenta folhas secas.",
+        "trecho": "ela acrescenta folhas secas"
+      }
+    ],
+    "visual": {
+      "tipo": "etapas",
+      "titulo": "Como a escola faz a compostagem",
+      "dados": [
+        [
+          "🍌",
+          "Separe as cascas"
+        ],
+        [
+          "🍂",
+          "Misture com folhas secas"
+        ],
+        [
+          "🌡️",
+          "Monitore a umidade"
+        ],
+        [
+          "🌱",
+          "Aplique o adubo na horta"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "N017",
+    "genero": "Verbete",
+    "titulo": "Mutirão",
+    "campo": "Estudo e pesquisa",
+    "ano": 7,
+    "icone": "📖",
+    "texto": [
+      "mutirão. Substantivo masculino. Trabalho feito em conjunto por pessoas que colaboram para uma tarefa de interesse comum.",
+      "Exemplo: “Num mutirão, moradores pintaram os brinquedos da praça.”",
+      "Em textos sobre a vida urbana, a palavra também pode nomear uma ação organizada de atendimento concentrado, como um mutirão de vacinação."
+    ],
+    "questoes": [
+      {
+        "enunciado": "Qual é o sentido de “mutirão” no exemplo da praça?",
+        "resposta": "Trabalho coletivo dos moradores para pintar os brinquedos."
+      },
+      {
+        "enunciado": "Que informação aparece logo depois da palavra de entrada?",
+        "resposta": "A classificação gramatical: substantivo masculino.",
+        "trecho": "Substantivo masculino"
+      },
+      {
+        "enunciado": "Que função cumpre o último parágrafo?",
+        "resposta": "Apresenta uma extensão de uso da palavra para ações organizadas de atendimento intensivo."
+      }
+    ]
+  },
+  {
+    "id": "N018",
+    "genero": "Relato",
+    "titulo": "A primeira coleta no riacho",
+    "campo": "Estudo e pesquisa",
+    "ano": 7,
+    "icone": "🔎",
+    "texto": [
+      "Na sexta-feira, acompanhei a turma ao riacho do Cedro. Às 9h, chegamos à ponte e fotografamos a margem. A água parecia escura de longe, mas no frasco era quase transparente.",
+      "Depois, o grupo registrou a hora, o local e a cor da amostra. Eu tinha escrito “água limpa” no caderno. A professora pediu que eu trocasse por “água quase transparente”. Entendi que a primeira expressão era uma conclusão e a segunda descrevia o que eu tinha observado."
+    ],
+    "questoes": [
+      {
+        "enunciado": "Que ações a turma realizou antes de preencher o registro?",
+        "resposta": "Chegou à ponte, fotografou a margem e observou a amostra no frasco."
+      },
+      {
+        "enunciado": "Por que “quase transparente” é mais adequado no registro?",
+        "resposta": "Descreve o aspecto visível sem concluir algo sobre a qualidade da água."
+      },
+      {
+        "enunciado": "Que marcas indicam que o narrador participou da visita?",
+        "resposta": "Os verbos em primeira pessoa, como “acompanhei”, e o relato da anotação no próprio caderno.",
+        "trecho": "acompanhei a turma ao riacho do Cedro"
+      }
+    ]
+  },
+  {
+    "id": "N019",
+    "genero": "Seminário",
+    "titulo": "Por que medir a sombra?",
+    "campo": "Estudo e pesquisa",
+    "ano": 8,
+    "icone": "🎙️",
+    "texto": [
+      "Bom dia. Nós vamos mostrar como a sombra muda no pátio ao longo da manhã. Primeiro, observem as duas fotos do telhado, tiradas às 8h e às 11h do mesmo ponto.",
+      "Notem que a sombra recobre todos os bancos na primeira foto, mas alcança só um banco na segunda. Essa comparação nos ajudou a escolher onde colocar a mesa de leitura.",
+      "Em resumo, fotografar do mesmo ponto tornou a comparação mais clara. Agora, queremos ouvir as perguntas de vocês."
+    ],
+    "questoes": [
+      {
+        "enunciado": "Como a abertura organiza a escuta do público?",
+        "resposta": "Apresenta o tema e indica o material que deve ser observado primeiro."
+      },
+      {
+        "enunciado": "Por que fotografar do mesmo ponto ajuda?",
+        "resposta": "Mantém o enquadramento comparável e permite perceber com mais clareza a diferença na sombra."
+      },
+      {
+        "enunciado": "Que elementos revelam que se trata de uma exposição oral?",
+        "resposta": "A saudação, comandos ao público, menção às fotos e convite às perguntas.",
+        "trecho": "Agora, queremos ouvir as perguntas de vocês."
+      }
+    ]
+  },
+  {
+    "id": "N020",
+    "genero": "Conto",
+    "titulo": "A chave sem porta",
+    "campo": "Arte e literatura",
+    "ano": 8,
+    "icone": "🗝️",
+    "texto": [
+      "Bia achou uma chave embaixo da cadeira da rodoviária. No chaveiro, alguém havia escrito “quarta-feira”. Era terça. Mesmo assim, ela perdeu o primeiro ônibus para procurar a porta correspondente.",
+      "Encontrou um homem que pendurava cartazes de objetos perdidos. Ele olhou a chave e sorriu. Quarta-feira era o nome da gata que gostava de carregar coisas brilhantes. A chave pertencia à caixa onde ele guardava suas fotografias.",
+      "Bia pegou o ônibus seguinte. Pela janela, viu a gata dormir sobre uma pilha de cartazes, abraçada a uma colher."
+    ],
+    "questoes": [
+      {
+        "enunciado": "Que decisão de Bia dá início à busca?",
+        "resposta": "Ela decide perder o primeiro ônibus para descobrir que porta a chave abriria."
+      },
+      {
+        "enunciado": "Que expectativa a palavra “quarta-feira” cria e como o conto a desfaz?",
+        "resposta": "Parece indicar um dia da semana, mas é o nome da gata.",
+        "trecho": "Quarta-feira era o nome da gata"
+      },
+      {
+        "enunciado": "Como o último detalhe reforça a explicação do homem?",
+        "resposta": "A colher confirma o hábito da gata de pegar objetos brilhantes."
+      }
+    ]
+  },
+  {
+    "id": "N021",
+    "genero": "Crônica",
+    "titulo": "O banco da frente",
+    "campo": "Arte e literatura",
+    "ano": 8,
+    "icone": "🚌",
+    "texto": [
+      "Todo dia, às seis e dez, o mesmo homem sentava no banco da frente do ônibus. O resto de nós fingia não reparar. Eu fingia tão bem que sabia até a cor da mochila dele: verde, com um remendo amarelo.",
+      "Na segunda, ele não veio. Dois passageiros olharam para o banco. Na terça, quatro. Quando voltou, na quarta, alguém perguntou se estava tudo bem.",
+      "Ele disse que tinha trocado o turno. Depois de um silêncio curto, uma senhora apresentou-se. Descobrimos que o banco da frente, sozinho, já tinha feito metade das apresentações."
+    ],
+    "questoes": [
+      {
+        "enunciado": "Onde ocorre a situação cotidiana narrada?",
+        "resposta": "Num ônibus que o narrador e os demais passageiros usam com frequência."
+      },
+      {
+        "enunciado": "O que torna irônica a afirmação de que o narrador finge bem?",
+        "resposta": "O nível de detalhe sobre a mochila mostra que reparava muito no homem.",
+        "trecho": "sabia até a cor da mochila dele"
+      },
+      {
+        "enunciado": "O que significa dizer que o banco fez metade das apresentações?",
+        "resposta": "A presença ou ausência habitual do passageiro criou laços e motivou a conversa."
+      }
+    ]
+  },
+  {
+    "id": "N022",
+    "genero": "Fábula",
+    "titulo": "A formiga e o vaga-lume",
+    "campo": "Arte e literatura",
+    "ano": 6,
+    "icone": "🐜",
+    "texto": [
+      "Uma formiga atravessava a trilha com uma semente. Ao ver o vaga-lume, disse: “Você devia carregar alguma coisa útil em vez de piscar tanto.”",
+      "Logo o céu escureceu e a formiga perdeu a entrada do formigueiro. O vaga-lume pousou junto à abertura e acendeu sua luz. A formiga entrou e, ao voltar para agradecer, deixou metade da semente ao lado dele.",
+      "Cada ajuda tem seu modo de pesar."
+    ],
+    "questoes": [
+      {
+        "enunciado": "Como o vaga-lume ajuda a formiga?",
+        "resposta": "Ilumina a entrada do formigueiro quando ela não consegue achá-la.",
+        "trecho": "pousou junto à abertura e acendeu sua luz"
+      },
+      {
+        "enunciado": "O que a divisão da semente sugere?",
+        "resposta": "A formiga reconhece o valor da ajuda e retribui com o que tem."
+      },
+      {
+        "enunciado": "Explique a lição proposta pelo último período.",
+        "resposta": "Contribuições diferentes podem ser igualmente valiosas, conforme a necessidade."
+      }
+    ]
+  },
+  {
+    "id": "N023",
+    "genero": "Poema",
+    "titulo": "Sinais da chuva",
+    "campo": "Arte e literatura",
+    "ano": 7,
+    "icone": "🌧️",
+    "texto": [
+      "Chove fino no telhado,\nchove frio no quintal.\nCada gota escreve um risco\nno caderno de cristal.",
+      "No vidro, a rua se dobra.\nNa poça, o céu perde o chão.\nE o mundo, por um momento,\ncabe dentro de uma mão."
+    ],
+    "questoes": [
+      {
+        "enunciado": "Que objeto pode ser o “caderno de cristal”? Justifique.",
+        "resposta": "O vidro da janela, pois as gotas traçam riscos sobre ele e o vidro aparece em seguida."
+      },
+      {
+        "enunciado": "O que a repetição de “chove” faz nos dois primeiros versos?",
+        "resposta": "Cria ritmo e reforça a continuidade da chuva."
+      },
+      {
+        "enunciado": "Como a descrição da poça muda a maneira de olhar a rua?",
+        "resposta": "A poça reflete o céu e faz uma parte do mundo parecer caber em uma superfície pequena.",
+        "trecho": "Na poça, o céu perde o chão."
+      }
+    ]
+  },
+  {
+    "id": "N024",
+    "genero": "Tirinha",
+    "titulo": "Economia de palavras",
+    "campo": "Arte e literatura",
+    "ano": 7,
+    "icone": "💭",
+    "texto": [
+      "Na biblioteca, Rui pede silêncio com o dedo nos lábios. A colega responde mostrando um papel. Ao final, o som vem de um objeto que Rui deixou ligado."
+    ],
+    "questoes": [
+      {
+        "enunciado": "O que gera a surpresa no último quadro?",
+        "resposta": "O alarme do próprio Rui quebra o silêncio que ele pediu."
+      },
+      {
+        "enunciado": "Como o último quadro contrasta com o primeiro?",
+        "resposta": "O gesto silencioso é substituído pelo barulho visível na onomatopeia “BIP! BIP!”."
+      },
+      {
+        "enunciado": "Por que o papel do segundo quadro ajuda na construção do humor?",
+        "resposta": "A colega atende ao pedido até ao responder, deixando mais evidente a contradição de Rui."
+      }
+    ],
+    "visual": {
+      "tipo": "quadros",
+      "dados": [
+        [
+          "🤫",
+          "Rui pede silêncio."
+        ],
+        [
+          "📝",
+          "A colega mostra um papel: “Tá bom”."
+        ],
+        [
+          "⏰",
+          "BIP! BIP! O alarme de Rui toca."
+        ]
+      ]
+    }
+  },
+  {
+    "id": "N025",
+    "genero": "Charge",
+    "titulo": "Sombra em obras",
+    "campo": "Imprensa",
+    "ano": 8,
+    "icone": "☀️",
+    "texto": [
+      "Na praça, uma placa anuncia “Mais sombra para todos”. A única sombra é a pequena mancha produzida pela própria placa. Duas pessoas disputam espaço nela."
+    ],
+    "questoes": [
+      {
+        "enunciado": "Qual promessa pública está em questão?",
+        "resposta": "A promessa de oferecer mais sombra para quem usa a praça.",
+        "trecho": "Mais sombra para todos"
+      },
+      {
+        "enunciado": "Qual é o alvo da crítica?",
+        "resposta": "Anúncios de melhorias públicas que ainda não se concretizaram."
+      },
+      {
+        "enunciado": "Como a imagem transforma a placa numa ironia?",
+        "resposta": "A placa anuncia muita sombra, mas só oferece a sua própria sombra minúscula."
+      }
+    ],
+    "visual": {
+      "tipo": "charge",
+      "titulo": "Charge da praça",
+      "dados": [
+        [
+          "☀️",
+          "MAIS SOMBRA PARA TODOS"
+        ],
+        [
+          "👤👤",
+          "Dois moradores se espremem na pequena sombra projetada pela placa."
+        ]
+      ]
+    }
+  },
+  {
+    "id": "N026",
+    "genero": "História em quadrinhos",
+    "titulo": "O caminho da água",
+    "campo": "Arte e literatura",
+    "ano": 8,
+    "icone": "🚲",
+    "texto": [
+      "Depois da chuva, Luísa encontra a rua alagada e segue a corrente com o irmão. O caminho termina diante de um bueiro tapado. Em vez de abrir a tampa, os dois registram a localização e pedem ajuda à equipe responsável."
+    ],
+    "questoes": [
+      {
+        "enunciado": "O que conecta a rua alagada ao bueiro na sequência?",
+        "resposta": "O traço azul da corrente guia a leitura entre os lugares."
+      },
+      {
+        "enunciado": "Qual pista aponta uma possível causa do problema?",
+        "resposta": "As folhas acumuladas sobre a grade indicam uma obstrução."
+      },
+      {
+        "enunciado": "Como o último quadro contribui para o desfecho?",
+        "resposta": "Mostra a solução escolhida: usar o telefone para comunicar a localização e pedir ajuda."
+      }
+    ],
+    "visual": {
+      "tipo": "quadros",
+      "dados": [
+        [
+          "🚲 🌊",
+          "Luísa: “A água vem de onde?”"
+        ],
+        [
+          "🌊 🍂",
+          "Irmão: “Olha as folhas na grade!”"
+        ],
+        [
+          "📱",
+          "Luísa: “Vou mandar a localização para a equipe.”"
+        ]
+      ]
+    }
+  }
+]

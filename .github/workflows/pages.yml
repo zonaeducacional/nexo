@@ -1,0 +1,42 @@
+name: Publicar Nexo no GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: nexo-pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - name: Preparar Rust para WebAssembly
+        run: rustup target add wasm32-unknown-unknown
+      - name: Testar o motor Rust
+        run: cargo test --locked --manifest-path engine/Cargo.toml
+      - name: Gerar o site
+        run: python3 scripts/build.py
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.pages.outputs.page_url }}
+    steps:
+      - name: Publicar
+        id: pages
+        uses: actions/deploy-pages@v4

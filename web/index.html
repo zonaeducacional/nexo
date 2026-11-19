@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="theme-color" content="#183c32" />
+    <meta
+      name="description"
+      content="Biblioteca de atividades de leitura e interpretação em língua portuguesa."
+    />
+    <title>Nexo</title>
+    <link rel="icon" href="./nexo.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="./style.css" />
+    <script type="module" src="./app.js"></script>
+  </head>
+  <body>
+    <header class="bar">
+      <div class="wrap toolbar">
+        <a href="#catalogo" class="brand"
+          ><span class="logo" aria-hidden="true">N</span> Nexo</a
+        >
+        <nav aria-label="Menu principal">
+          <a href="#catalogo" id="nav-catalogo">Acervo</a>
+          <a href="#colecoes" id="nav-colecoes">Coleções</a>
+        </nav>
+        <button type="button" id="ajuda" class="quiet">Como usar</button>
+      </div>
+    </header>
+    <main id="app" class="wrap"><p role="status">Carregando o acervo…</p></main>
+    <footer class="wrap footer">
+      <strong>Nexo</strong
+      ><span>Leitura e interpretação em língua portuguesa</span>
+    </footer>
+    <dialog id="modal" aria-labelledby="modal-title">
+      <div id="modal-content"></div>
+    </dialog>
+  </body>
+</html>

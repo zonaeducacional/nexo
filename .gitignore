@@ -1,0 +1,6 @@
+/dist/
+/target/
+/src-tauri/target/
+/engine/target/
+
+/src-tauri/gen/

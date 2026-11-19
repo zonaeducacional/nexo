@@ -1,0 +1,19 @@
+{
+  "productName": "Nexo",
+  "version": "0.1.0",
+  "identifier": "br.zonaeducacional.nexo",
+  "build": {
+    "beforeBuildCommand": "python3 scripts/build.py",
+    "beforeDevCommand": "python3 scripts/build.py",
+    "frontendDist": "../dist"
+  },
+  "app": {
+    "windows": [
+      {"title": "Nexo", "width": 1280, "height": 850, "minWidth": 440, "minHeight": 560}
+    ],
+    "security": {
+      "csp": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; connect-src 'self' ipc: http://ipc.localhost; object-src 'none'; base-uri 'none'"
+    }
+  },
+  "bundle": {"active": true, "icon": ["icons/icon.png"]}
+}
