@@ -1,6 +1,6 @@
 # Nexo
 
-Biblioteca de leitura em português do Brasil para os anos finais do Ensino Fundamental. O acervo reúne 26 gêneros em 26 fichas autorais e 78 questões abertas. As atividades trabalham busca de informações, inferência, coesão, análise de argumentos, finalidade, efeitos de linguagem e leitura de elementos visuais em diálogo com a [BNCC de Língua Portuguesa](https://www.gov.br/mec/pt-br/escola-em-tempo-integral/BNCC_EI_EF_110518_versaofinal.pdf).
+Biblioteca de leitura em português do Brasil para os anos finais do Ensino Fundamental. O acervo reúne 26 gêneros em fichas baseadas em materiais publicados, com 10 questões abertas por ficha e 260 ao todo. Cada ficha credita a fonte e identifica seu trecho, síntese ou roteiro de leitura. Os textos integrais e as peças de terceiros podem ser consultados nos links da ficha. Veja o [alinhamento pedagógico](ALINHAMENTO.md) com o Saeb e a BNCC.
 
 O gabarito orientativo de cada ficha aparece após o envio de todas as respostas preenchidas. As respostas abertas são conferidas pelo próprio estudante ou pelo professor. As tentativas, coleções e modelos ficam no armazenamento local e podem ser exportados. No GitHub Pages, o bloqueio é pedagógico. Quem examinar os arquivos públicos poderá acessar as respostas.
 
@@ -26,7 +26,7 @@ cargo tauri dev
 cargo tauri build
 ```
 
-O Tauri empacota os mesmos arquivos do site e disponibiliza o acervo offline. Os instaladores são gerados em `src-tauri/target/release/bundle/`.
+O Tauri empacota os arquivos das fichas para consulta offline. Os materiais originais vinculados a sites externos exigem internet. Os instaladores são gerados em `src-tauri/target/release/bundle/`.
 
 ## Impressão e Typst
 
@@ -51,4 +51,4 @@ Em **Settings → Pages → Build and deployment → Source**, selecione **GitHu
 
 ## Referência
 
-O [Trama](https://github.com/aaronFortuno/trama), de Aaron Fortuno, serviu de referência para o fluxo de catálogo, visualização, coleções, impressão e gabaritos com pistas. O Nexo tem interface e conteúdo próprios. Os textos jornalísticos, nomes, locais e dados criados para as atividades são fictícios ou simulados.
+O [Trama](https://github.com/aaronFortuno/trama), de Aaron Fortuno, serviu de referência para o fluxo de catálogo, visualização, coleções, impressão e gabaritos com pistas. O Nexo tem interface e atividades próprias. O catálogo principal reúne exemplos publicados. As fichas autorais da versão inicial continuam acessíveis por seus links e nas coleções existentes. As reproduções de Agostini e McCay em domínio público estão creditadas nas fichas, com links para o Wikimedia Commons.

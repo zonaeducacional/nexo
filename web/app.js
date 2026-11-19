@@ -52,6 +52,7 @@ let solutionVisible = false;
 let evidenceVisible = true;
 let zoom = 1;
 let readings;
+let catalogReadings;
 let complete;
 const all = (id) => readings.find((r) => r.id === id);
 const answers = (r) => state.respostas[r.id]?.valores ?? [];
@@ -109,7 +110,7 @@ const colors = {
 };
 const hero = `<section class="hero">
   <div class="hero-copy"><p class="eyebrow">Língua portuguesa · 6º ao 9º ano</p><h1>Biblioteca de leitura</h1>
-  <p>Explore diferentes gêneros, responda às atividades e confira os comentários de cada questão.</p></div>
+  <p>Leia textos e materiais publicados. Cada ficha traz dez questões e um gabarito comentado.</p></div>
   <div class="hero-art" aria-hidden="true"><svg viewBox="0 0 470 290" preserveAspectRatio="xMidYMid slice">
     <defs><pattern id="dots" width="15" height="15" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#749377"/></pattern></defs>
     <rect width="470" height="290" fill="url(#dots)"/><circle cx="259" cy="155" r="118" fill="#dceda4"/>
@@ -124,15 +125,15 @@ function filtered() {
   const pool =
     activeCollection && collection()
       ? collection().ids.map(all).filter(Boolean)
-      : readings;
+      : catalogReadings;
   const results = pool.filter(
     (r) =>
       (!query.genero || r.genero === query.genero) &&
       (!query.ano || r.ano === Number(query.ano)) &&
       (!query.campo || r.campo === query.campo) &&
-      normalize([r.id, r.titulo, r.genero, ...r.texto].join(' ')).includes(
-        normalize(query.busca),
-      ),
+      normalize(
+        [r.id, r.titulo, r.genero, r.fonte?.credito, ...r.texto].join(' '),
+      ).includes(normalize(query.busca)),
   );
   if (query.ordem === 'titulo')
     results.sort((a, b) => a.titulo.localeCompare(b.titulo, 'pt-BR'));
@@ -166,9 +167,9 @@ function catalog() {
     ${buttons(`${activeCollection ? button('Voltar ao acervo', 'leave') : ''}${button('Imprimir lote', 'batch', 'quiet', 'id="batch"')}`)}</section>
     <div class="filters">
     <label>Buscar<input id="busca" type="search" placeholder="Título, gênero ou código" value="${esc(query.busca)}"></label>
-    <label>Gênero<select id="genero">${options([['', 'Todos'], ...sets(readings, 'genero').map((x) => [x, x])], query.genero)}</select></label>
-    <label>Campo<select id="campo">${options([['', 'Todos'], ...sets(readings, 'campo').map((x) => [x, x])], query.campo)}</select></label>
-    <label>Ano sugerido<select id="ano">${options([['', 'Todos'], ...sets(readings, 'ano').map((x) => [x, x + 'º ano'])], query.ano)}</select></label>
+    <label>Gênero<select id="genero">${options([['', 'Todos'], ...sets(catalogReadings, 'genero').map((x) => [x, x])], query.genero)}</select></label>
+    <label>Campo<select id="campo">${options([['', 'Todos'], ...sets(catalogReadings, 'campo').map((x) => [x, x])], query.campo)}</select></label>
+    <label>Ano sugerido<select id="ano">${options([['', 'Todos'], ...sets(catalogReadings, 'ano').map((x) => [x, x + 'º ano'])], query.ano)}</select></label>
     </div>
     <div class="reader-nav"><button type="button" data-action="clear">Limpar filtros</button>
     <label>Ordenar <select id="ordem">${options(
@@ -197,6 +198,31 @@ function visual(r) {
   if (v.tipo === 'tabela') {
     html = `<table class="data-table"><thead><tr>${v.cabecalho.map((x) => `<th scope="col">${esc(x)}</th>`).join('')}</tr></thead><tbody>
       ${v.dados.map((row) => `<tr>${row.map((x) => `<td>${esc(x)}</td>`).join('')}</tr>`).join('')}</tbody></table>`;
+  } else if (v.tipo === 'imagem') {
+    const imagePath = './fontes/' + encodeURIComponent(v.arquivo);
+    html = `<a class="source-image" href="${imagePath}" target="_blank" rel="noopener" aria-label="Ampliar imagem"><img src="${imagePath}" alt="${esc(v.alt)}"></a>`;
+  } else if (v.tipo === 'series') {
+    const percent = (n) =>
+      n.toLocaleString('pt-BR', { minimumFractionDigits: 1 }) + '%';
+    html = `<div class="series-graph">${v.dados
+      .map(
+        ([label, ...values]) => `
+      <div class="series-group"><strong>${esc(label)}</strong>
+      ${values
+        .map(
+          (
+            n,
+            i,
+          ) => `<div class="series-bar series-bar-${i}"><span>${esc(v.series[i])}</span>
+      <meter min="0" max="${v.maximo}" value="${n}" aria-label="${esc(label + ', ' + v.series[i])}"></meter>
+      <span>${percent(n)}</span></div>`,
+        )
+        .join('')}</div>`,
+      )
+      .join('')}</div>`;
+  } else if (v.tipo === 'ciclo') {
+    html = `<ol class="cycle">${v.dados.map(([, label]) => `<li>${esc(label)}</li>`).join('')}</ol>
+      <p class="cycle-return">O ciclo retorna à fase dos ovos.</p>`;
   } else if (v.tipo === 'grafico') {
     html = `<div class="bars">${v.dados.map(([label, n]) => `<div class="barline"><span>${esc(label)}</span><meter aria-label="${esc(label)}" min="0" max="50" value="${n}"></meter><b>${n}</b></div>`).join('')}</div>`;
   } else if (v.tipo === 'arquivos') {
@@ -231,6 +257,31 @@ function marked(p, r, show) {
   return html + esc(p.slice(cursor));
 }
 
+function sourceNote(r) {
+  const source = r.fonte;
+  if (!source) return '';
+  const link = (url, label) =>
+    `<a href="${esc(url)}" target="_blank" rel="noopener noreferrer">${esc(label)}</a>`;
+  return `<aside class="source-note" aria-label="Fonte da leitura">
+    <p><strong>${esc(source.credito)}</strong></p>
+    <p>${esc(source.nota)}</p>
+    <div class="source-links">${link(source.url, 'Abrir material original')}
+    ${source.complemento ? link(source.complemento.url, source.complemento.titulo) : ''}</div>
+    <span class="only-print source-url">${esc(source.url)}</span>
+  </aside>`;
+}
+
+function relatedReadings(ids) {
+  if (!ids?.length) return '';
+  return `<p class="related-readings">${ids
+    .map(all)
+    .map(
+      (item) =>
+        `<a href="#ficha/${item.id}">Consultar ficha de ${esc(item.genero.toLowerCase())}</a>`,
+    )
+    .join(' · ')}</p>`;
+}
+
 function sheet(r, show, interactive) {
   const f = config(r);
   const c = state.fichas[r.id] ?? {};
@@ -244,6 +295,7 @@ function sheet(r, show, interactive) {
   return `<article class="sheet ${interactive ? '' : 'batch-sheet'}" style="--reading-font:${font};--print-font:${size}pt;--reading-size:${(size / 12) * (interactive ? zoom : 1) * 1.12}rem;--reading-leading:${leading};--question-gap:${Number(f.espaco)}mm">
   <div class="print-header">${esc(f.cabecalho)} ${c.codigo ? ' · ' + esc(c.codigo) : ''}<div>Nome: ________________________________________ Data: ____/____/____</div></div>
   <p class="eyebrow">${esc(r.genero)} · ${r.ano}º ano · ${r.id}</p><h1>${esc(r.titulo)}</h1>
+  ${sourceNote(r)}
   <div class="text">${r.texto.map((p) => `<p>${marked(p, r, show)}</p>`).join('')}</div>
   ${f.figuras ? visual(r) : ''}
   <section class="activity"><h2>${!interactive && show ? 'Gabarito comentado' : 'Atividade'}</h2>
@@ -253,6 +305,7 @@ function sheet(r, show, interactive) {
       (q, i) => `<div class="question">
   <label class="control" ${interactive ? `for="q-${i}"` : ''}><strong>${i + 1}. ${esc(q.enunciado)}</strong>
   ${interactive ? `<textarea id="q-${i}" data-question="${i}" rows="3" maxlength="5000" required ${unlocked(r) ? 'readonly' : ''} placeholder="Escreva sua resposta">${esc(answers(r)[i])}</textarea>` : ''}</label>
+  ${interactive ? relatedReadings(q.leituras) : q.leituras ? `<p class="status">Leitura complementar: ${q.leituras.map((id) => esc(all(id).titulo)).join(', ')}</p>` : ''}
   <div class="print-lines" aria-hidden="true">${printLines}</div>
   ${
     show
@@ -292,7 +345,10 @@ function numberControl(f, key, label) {
 }
 function reader(r, retain = false) {
   currentReading = r;
-  const list = lastList.some((x) => x.id === r.id) ? lastList : readings;
+  const baseList = r.arquivo
+    ? readings.filter((item) => item.arquivo)
+    : catalogReadings;
+  const list = lastList.some((x) => x.id === r.id) ? lastList : baseList;
   const i = list.indexOf(r);
   const f = config(r);
   const offset = window.scrollY;
@@ -616,6 +672,14 @@ function typst(r, show) {
     '#text("Nome: ________________________________________  Data: ____/____/____")',
     '#heading(level: 1, text(' + str(r.titulo) + '))',
     '#text(' + str(r.genero + ' · ' + r.ano + 'º ano · ' + r.id) + ')',
+    ...(r.fonte
+      ? [
+          '#text(' + str(r.fonte.credito) + ')',
+          '#emph(text(' + str(r.fonte.nota) + '))',
+          '#link(' + str(r.fonte.url) + ')[Material original]',
+          '#text(' + str(r.fonte.url) + ')',
+        ]
+      : []),
     ...r.texto.map((p) =>
       p
         .split('\n')
@@ -624,14 +688,24 @@ function typst(r, show) {
     ),
   ];
   if (f.figuras && r.visual) {
-    const { tipo, titulo, cabecalho, dados } = r.visual;
+    const { tipo, titulo, cabecalho, dados, series, alt } = r.visual;
     if (titulo) segments.push('#strong(text(' + str(titulo) + '))');
-    if (tipo === 'tabela') {
-      const cells = [...cabecalho, ...dados.flat()].map(
+    if (tipo === 'imagem') {
+      segments.push('#text(' + str(alt) + ')');
+    } else if (tipo === 'tabela' || tipo === 'series') {
+      const headers = cabecalho ?? ['Faixa etária', ...series];
+      const rows =
+        tipo === 'series'
+          ? dados.map(([label, ...values]) => [
+              label,
+              ...values.map((n) => n.toLocaleString('pt-BR') + '%'),
+            ])
+          : dados;
+      const cells = [...headers, ...rows.flat()].map(
         (x) => 'text(' + str(x) + ')',
       );
       segments.push(
-        '#table(columns: ' + cabecalho.length + ', ' + cells.join(', ') + ')',
+        '#table(columns: ' + headers.length + ', ' + cells.join(', ') + ')',
       );
     } else if (tipo === 'grafico') {
       for (const [label, n] of dados)
@@ -657,6 +731,16 @@ function typst(r, show) {
   );
   r.questoes.forEach((q, i) => {
     segments.push('#strong(text(' + str(i + 1 + '. ' + q.enunciado) + '))');
+    for (const id of q.leituras ?? []) {
+      const related = all(id);
+      segments.push(
+        '#link(' +
+          str(related.fonte.url) +
+          ', text(' +
+          str('Leitura complementar: ' + related.titulo) +
+          '))',
+      );
+    }
     if (show) {
       segments.push('#text(' + str('Resposta possível: ' + q.resposta) + ')');
       if (q.trecho)
@@ -701,10 +785,11 @@ document.querySelector('#ajuda').addEventListener('click', () =>
     'Como usar o Nexo',
     `
   <p>Busque uma ficha por título, gênero ou código. Use os filtros para encontrar leituras por ano e campo de atuação.</p>
+  <p>Em cada ficha, abra o material original da fonte indicada. Algumas atividades também pedem a consulta de outra ficha.</p>
   <p>Escreva todas as respostas e selecione <strong>Enviar respostas</strong> para abrir o gabarito comentado. Os trechos destacados ajudam a conferir algumas respostas.</p>
   <p>Imprima uma ficha ou um lote. No navegador, escolha <strong>Salvar como PDF</strong> no diálogo de impressão. No visor também é possível baixar a fonte Typst para editar e compilar.</p>
   <p>As respostas, coleções e preferências ficam neste dispositivo. Exporte uma cópia de segurança em Coleções.</p>
-  <p><a target="_blank" rel="noopener" href="https://www.gov.br/mec/pt-br/escola-em-tempo-integral/BNCC_EI_EF_110518_versaofinal.pdf">Consultar a BNCC</a></p>`,
+  <p><a target="_blank" rel="noopener" href="https://www.gov.br/mec/pt-br/escola-em-tempo-integral/BNCC_EI_EF_110518_versaofinal.pdf">Consultar a BNCC</a> · <a target="_blank" rel="noopener" href="https://github.com/zonaeducacional/nexo/blob/main/ALINHAMENTO.md">Alinhamento pedagógico para docentes</a></p>`,
   ),
 );
 
@@ -785,7 +870,7 @@ document.addEventListener('click', (e) => {
       const c = state.colecoes[key];
       dialog(
         'Adicionar fichas',
-        `<form id="add-many-form"><div class="dialog-list">${readings.map((item) => `<label><input type="checkbox" name="id" value="${item.id}" ${c.ids.includes(item.id) ? 'checked disabled' : ''}>${esc(item.titulo)}</label>`).join('')}</div>${buttons('<button class="primary" type="submit">Adicionar</button>')}</form>`,
+        `<form id="add-many-form"><div class="dialog-list">${catalogReadings.map((item) => `<label><input type="checkbox" name="id" value="${item.id}" ${c.ids.includes(item.id) ? 'checked disabled' : ''}>${esc(item.titulo)}</label>`).join('')}</div>${buttons('<button class="primary" type="submit">Adicionar</button>')}</form>`,
       );
       modal.querySelector('form').addEventListener('submit', (evt) => {
         evt.preventDefault();
@@ -948,6 +1033,7 @@ try {
   if (!acervo.ok || !wasm.ok)
     throw new Error('Recursos do acervo indisponíveis');
   readings = await acervo.json();
+  catalogReadings = readings.filter((r) => !r.arquivo);
   const { instance } = await WebAssembly.instantiate(await wasm.arrayBuffer());
   complete = instance.exports.atividade_completa;
   route();

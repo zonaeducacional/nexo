@@ -1,0 +1,39 @@
+# Referências pedagógicas do acervo
+
+As fichas do catálogo trazem dez questões abertas por gênero. A seleção privilegia habilidades que podem ser observadas em cada material. Para os anos finais, usamos como referências os 21 descritores da matriz histórica do Saeb do 9º ano, a matriz alinhada à BNCC e as práticas de leitura, análise linguística e escuta da BNCC. Os 21 descritores aparecem ao longo do conjunto. O Saeb não estabelece uma lista de dez descritores específicos por gênero. As questões do Nexo são autorais e formativas.
+
+- [Matrizes e escalas do Saeb, Inep](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/saeb/matrizes-e-escalas)
+- [Matriz histórica de Língua Portuguesa, Inep](https://download.inep.gov.br/educacao_basica/prova_brasil_saeb/menu_do_professor/o_que_cai_nas_provas/Matriz_de_Referencia_de_Lingua_Portuguesa.pdf)
+- [Matriz de Linguagens alinhada à BNCC, Inep](https://download.inep.gov.br/educacao_basica/saeb/matriz-de-referencia-de-linguagens_BNCC.pdf)
+- [BNCC do Ensino Fundamental, MEC](https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf)
+
+A coluna Saeb indica o descritor predominante de cada questão, em ordem. As habilidades da BNCC são referências para o conjunto da ficha, incluindo práticas relacionadas à análise do gênero. Os anos indicados no catálogo são sugestões de uso. O professor pode mediar o acesso a textos históricos, materiais em inglês e gêneros de maior complexidade.
+
+| Ficha | Gênero e material | Saeb por questão | BNCC de referência |
+| --- | --- | --- | --- |
+| R001 | Manual · [Higienização das mãos em serviços de alimentação](https://www.gov.br/anvisa/pt-br/centraisdeconteudo/publicacoes/alimentos/manuais-guias-e-orientacoes/cartilha-boas-praticas-para-servicos-de-alimentacao.pdf/@@download/file#page=25) | D1, D9, D15, D3, D11, D12, D19, D5, D4, D13 | EF06LP05, EF67LP37 |
+| R002 | Carta pessoal · [Carta a Joaquim Nabuco, 6 de dezembro de 1904](https://pt.wikisource.org/wiki/Revista_do_Brasil/Volume_5/N%C3%BAmero_17/Cartas_In%C3%A9ditas) | D1, D12, D2, D13, D3, D15, D4, D17, D19, D6 | EF06LP12, EF67LP37 |
+| R003 | Notícia · [De 2010 a 2022, população brasileira cresce 6,5% e chega a 203,1 milhões](https://www.gov.br/planejamento/pt-br/assuntos/noticias/2023/junho/de-2010-a-2022-populacao-brasileira-cresce-6-5-e-chega-a-203-1-milhoes) | D1, D6, D3, D9, D4, D14, D12, D15, D2, D20 | EF69LP03, EF69LP17, EF06LP02 |
+| R004 | Reportagem · [Censo 2022: população quilombola tem perfil jovem e maioria masculina](https://agenciabrasil.ebc.com.br/geral/noticia/2024-05/censo-2022-populacao-quilombola-tem-perfil-jovem-e-maioria-masculina) | D1, D3, D4, D8, D14, D15, D12, D5, D9, D20 | EF69LP03, EF69LP17, EF69LP30 |
+| R005 | Artigo de opinião · [A porta entreaberta: bibliotecas públicas e a crise do leitor no Brasil](https://jornal.usp.br/artigos/a-porta-entreaberta-bibliotecas-publicas-e-a-crise-do-leitor-no-brasil/) | D7, D8, D3, D21, D14, D13, D11, D15, D4, D12 | EF69LP17, EF89LP04, EF89LP06 |
+| R006 | Carta do leitor · [Leitor diz que proibir celular na sala de aula é uma tarefa hercúlea](https://www1.folha.uol.com.br/paineldoleitor/2024/10/leitor-diz-que-proibir-celular-na-sala-de-aula-e-uma-tarefa-herculea.shtml) | D1, D3, D13, D12, D11, D14, D8, D21, D20, D19 | EF69LP01, EF69LP17, EF67LP04, EF67LP05 |
+| R007 | Editorial · [Saúde é democracia: ontem, hoje e sempre](https://www.scielo.br/j/sdeb/a/wk9B4tNs7dgLrtd9Bq6DdJd/?lang=pt) | D1, D7, D8, D3, D12, D14, D11, D18, D4, D12 | EF69LP17, EF89LP04, EF89LP06 |
+| R008 | Anúncio publicitário · [Sabonete de Reuter no Diário da Manhã](https://hemeroteca-pdf.bn.gov.br/572748/per572748_1921_00242.pdf) | D1, D12, D3, D19, D14, D5, D13, D9, D4, D20 | EF69LP02, EF69LP04, EF69LP17 |
+| R009 | Propaganda · [Cartaz verde do Clube do Zé Gotinha](https://bvsms.saude.gov.br/bvs/publicacoes/catalogo_ze_gotinha_brasil.pdf#page=64) | D1, D12, D5, D13, D19, D4, D3, D5, D9, D20 | EF69LP02, EF69LP04, EF69LP17 |
+| R010 | Meme · [Nazaré Confusa](https://museudememes.com.br/collection/nazare-confusa) | D1, D5, D16, D4, D20, D12, D5, D4, D2, D21 | EF69LP05, EF69LP17 |
+| R011 | Regulamento · [Decreto nº 7.962 de 2013: contratação no comércio eletrônico](https://www2.camara.leg.br/legin/fed/decret/2013/decreto-7962-15-marco-2013-775557-publicacaooriginal-139266-pe.html) | D6, D1, D19, D9, D4, D3, D2, D15, D11, D12 | EF69LP20, EF69LP27 |
+| R012 | Resenha · [Resenha de Ideias para adiar o fim do mundo](https://www.scielo.br/j/mana/a/bjBknT5rNzkS7wvwyHKDzPw/?lang=pt) | D1, D9, D14, D3, D7, D8, D4, D12, D17, D20 | EF69LP45, EF89LP33 |
+| R013 | Redação dissertativo-argumentativa · [Redação de Mariane Clementino Barbosa no Enem 2023](https://download.inep.gov.br/publicacoes/institucionais/avaliacoes_e_exames_da_educacao_basica/a_redacao_no_enem_2024_cartilha_do_participante.pdf#page=55) | D6, D7, D8, D11, D2, D15, D14, D9, D12, D4 | EF89LP04, EF89LP06, EF89LP29 |
+| R014 | Gráfico · [Distribuição da população brasileira por idade, 2012 e 2022](https://agenciadenoticias.ibge.gov.br/media/com_mediaibge/arquivos/1cd893a10b3cabf31fc31e994531632f.pdf#page=3) | D5, D1, D5, D5, D4, D12, D9, D14, D6, D20 | EF69LP29, EF69LP33 |
+| R015 | Tabela · [Prévia do Censo 2022 por grandes regiões](https://ftp.ibge.gov.br/Censos/Censo_Demografico_2022/Previa_da_Populacao/POP2022_Brasil_e_UFs.pdf) | D1, D5, D5, D3, D12, D9, D4, D5, D20, D14 | EF69LP29, EF69LP33 |
+| R016 | Infográfico · [Ciclo de vida do Aedes aegypti](https://drive.prefeitura.sp.gov.br/cidade/secretarias/upload/chamadas/aedes_aegypt_2020_mobile_1581100855.pdf#page=10) | D1, D5, D5, D3, D12, D4, D5, D9, D13, D20 | EF69LP29, EF69LP33 |
+| R017 | Verbete · [Saudade](https://pt.wiktionary.org/wiki/saudade) | D1, D5, D3, D4, D5, D9, D17, D15, D20, D12 | EF69LP30, EF69LP34, EF67LP37 |
+| R018 | Relato · [Relato do encontro a bordo na Carta de Pero Vaz de Caminha](https://www.bibliotecajuridica.sp.gov.br/wp-content/uploads/sites/5/2024/09/Carta-A-Pero-Vaz-de-Caminha.pdf) | D1, D10, D13, D14, D15, D2, D4, D9, D12, D20 | EF69LP29, EF69LP47, EF89LP33 |
+| R019 | Seminário · [Desafios da ciência e da inovação e a Fiocruz do futuro](https://www.youtube.com/watch?v=1Ys_cNhXVHk) | D1, D13, D9, D5, D8, D3, D14, D17, D4, D12 | EF69LP38, EF69LP40, EF69LP43 |
+| R020 | Conto · [Um apólogo](https://pt.wikisource.org/wiki/Um_Ap%C3%B3logo) | D10, D1, D1, D8, D4, D18, D10, D3, D16, D6 | EF69LP44, EF69LP47, EF89LP33 |
+| R021 | Crônica · [Crônica da Abolição](https://pt.wikisource.org/wiki/Cr%C3%B4nica_da_Aboli%C3%A7%C3%A3o) | D1, D10, D16, D14, D17, D13, D4, D11, D6, D20 | EF69LP44, EF69LP47, EF89LP33 |
+| R022 | Fábula · [A cigarra e a formiga](https://pt.wikisource.org/wiki/Fabulas_de_Narizinho/A_cigarra_e_a_formiga) | D10, D1, D20, D21, D18, D17, D11, D3, D15, D12 | EF69LP44, EF69LP47, EF67LP28 |
+| R023 | Poema · [Canção do Exílio](https://pt.wikisource.org/wiki/Can%C3%A7%C3%A3o_do_Ex%C3%ADlio_%28Gon%C3%A7alves_Dias%29) | D1, D2, D3, D6, D19, D18, D4, D17, D19, D20 | EF69LP48, EF69LP54, EF67LP28 |
+| R024 | Tirinha · [Peanuts: felicidade e um cachorro quentinho](https://featureassets.gocomics.com/assets/ba30f050f87d013014e9001dd8b71c47?optimizer=image&quality=85&width=1200) | D1, D5, D4, D17, D17, D6, D9, D12, D3, D20 | EF69LP05, EF69LP47, EF67LP28 |
+| R025 | Charge · [Cenas da escravidão](https://commons.wikimedia.org/wiki/File:SCENAS_da_escravid%C3%A3o_patrocinadas_pelo_partido_da_Ordem,_sob_o_glorioso_e_s%C3%A1bio_reinado_do_Senhor_D._Pedro_11_o_Grande..._Revista_Ilustrada,_Rio_de_Janei-_ro,_n._427,_18_fev._1886.jpg) | D1, D5, D16, D8, D12, D4, D3, D9, D14, D20 | EF69LP05, EF69LP17 |
+| R026 | História em quadrinhos · [Little Nemo in Slumberland: a primeira aventura](https://commons.wikimedia.org/wiki/File:Little_Nemo_1905-10-15.jpg) | D1, D10, D5, D11, D4, D5, D17, D9, D5, D10 | EF69LP47, EF89LP33 |

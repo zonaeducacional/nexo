@@ -1,5 +1,1722 @@
 [
   {
+    "genero": "Manual",
+    "campo": "Cotidiano",
+    "ano": 6,
+    "icone": "✂️",
+    "id": "R001",
+    "titulo": "Higienização das mãos em serviços de alimentação",
+    "fonte": {
+      "credito": "Anvisa · Cartilha sobre boas práticas para serviços de alimentação, cap. 10, p. 25–27",
+      "url": "https://www.gov.br/anvisa/pt-br/centraisdeconteudo/publicacoes/alimentos/manuais-guias-e-orientacoes/cartilha-boas-praticas-para-servicos-de-alimentacao.pdf/@@download/file#page=25",
+      "nota": "Roteiro de leitura · consulte as instruções e ilustrações no capítulo indicado."
+    },
+    "texto": [
+      "O capítulo é dirigido a quem manipula alimentos. A instrução começa com água corrente e segue para a fricção com sabonete, incluindo a palma, o dorso, as unhas e os espaços entre os dedos.",
+      "A sequência continua com o enxágue e a secagem. Na orientação específica da cartilha, a aplicação de antisséptico aparece como o último passo. Os desenhos mostram as ações e um esquema separado indica regiões das mãos que costumam ficar esquecidas."
+    ],
+    "questoes": [
+      {
+        "enunciado": "Que produto o manual indica para esfregar as mãos no segundo passo?",
+        "resposta": "Sabonete."
+      },
+      {
+        "enunciado": "Qual indicação do segundo passo dá mais precisão à ação principal de esfregar?",
+        "resposta": "O tempo aproximado e a indicação de quais superfícies devem ser esfregadas detalham o modo de realizar a ação."
+      },
+      {
+        "enunciado": "No segundo passo, que informação a palavra “inclusive” acrescenta?",
+        "resposta": "Inclui as unhas e o espaço entre os dedos nas regiões a serem lavadas."
+      },
+      {
+        "enunciado": "O que significa “dorso” nesse contexto?",
+        "resposta": "É a superfície externa da mão, oposta à palma.",
+        "trecho": "dorso"
+      },
+      {
+        "enunciado": "Por que retirar o sabonete deve acontecer antes da secagem?",
+        "resposta": "O enxágue remove o sabonete. Só depois a secagem retira a água do enxágue."
+      },
+      {
+        "enunciado": "Por que o texto apresenta as orientações em passos numerados?",
+        "resposta": "Para indicar uma ordem que o leitor pode seguir enquanto realiza o procedimento."
+      },
+      {
+        "enunciado": "Que efeito têm verbos como “utilize” e “seque” na cartilha?",
+        "resposta": "O imperativo dirige a ação ao leitor e dá às frases valor de instrução."
+      },
+      {
+        "enunciado": "O que as cores do esquema da página 27 informam que as figuras da página 25 não mostram sozinhas?",
+        "resposta": "As cores distinguem zonas da mão conforme a frequência com que ficam esquecidas; as outras imagens mostram como executar os passos."
+      },
+      {
+        "enunciado": "Uma pessoa esfregou só as palmas. Que problema se pode inferir a partir do esquema e do texto?",
+        "resposta": "Ela deixou de higienizar outras superfícies, como dorso, unhas e áreas entre os dedos."
+      },
+      {
+        "enunciado": "Que elementos indicam que o destinatário é um manipulador de alimentos?",
+        "resposta": "O contexto da cartilha de boas práticas e o vínculo final entre a lavagem e a manipulação dos alimentos."
+      }
+    ]
+  },
+  {
+    "genero": "Carta pessoal",
+    "campo": "Cotidiano",
+    "ano": 6,
+    "icone": "✉️",
+    "id": "R002",
+    "titulo": "Carta a Joaquim Nabuco, 6 de dezembro de 1904",
+    "fonte": {
+      "credito": "Machado de Assis · Revista do Brasil, seção Cartas Inéditas",
+      "url": "https://pt.wikisource.org/wiki/Revista_do_Brasil/Volume_5/N%C3%BAmero_17/Cartas_In%C3%A9ditas",
+      "nota": "Síntese e expressões da carta · localize a carta de 6 de dezembro de 1904."
+    },
+    "texto": [
+      "Rio de Janeiro, 6 de dezembro de 1904. “Meu caro Nabuco.”",
+      "Machado já ia responder à carta de outubro quando recebeu outra, de novembro, sobre a morte de Carolina. Agradece ao amigo pelos conselhos e palavras de animação que lê repetidamente, apesar de se sentir doente e sem forças.",
+      "Ao se despedir, pede compreensão pela insistência e manda um “abraço amantíssimo”."
+    ],
+    "questoes": [
+      {
+        "enunciado": "Em que cidade e data a carta foi escrita?",
+        "resposta": "No Rio de Janeiro, em 6 de dezembro de 1904.",
+        "trecho": "Rio de Janeiro, 6 de dezembro de 1904"
+      },
+      {
+        "enunciado": "Que ocasião leva Machado a iniciar a carta com um agradecimento?",
+        "resposta": "Ele responde ao amigo que lhe escreveu palavras de apoio após a morte de Carolina."
+      },
+      {
+        "enunciado": "A que fato a expressão “desta catástrofe” se refere?",
+        "resposta": "À morte de Carolina.",
+        "trecho": "sobre a morte de Carolina"
+      },
+      {
+        "enunciado": "Quais duas formas de tratamento marcam a proximidade entre os correspondentes?",
+        "resposta": "Por exemplo, “Meu caro Nabuco” e “meu grande amigo”."
+      },
+      {
+        "enunciado": "Qual é o sentido de “animação” na passagem?",
+        "resposta": "Encorajamento e consolo, em razão do luto do destinatário da carta anterior."
+      },
+      {
+        "enunciado": "Que relação “Quando” estabelece no primeiro período do corpo da carta?",
+        "resposta": "Situa a chegada da segunda carta no momento em que Machado ia responder à primeira."
+      },
+      {
+        "enunciado": "O que a repetição em “lê e relê” sugere sobre o valor das palavras para Machado?",
+        "resposta": "O consolo do amigo recebe atenção especial e é retomado mais de uma vez."
+      },
+      {
+        "enunciado": "Como a exclamação muda o tom do agradecimento?",
+        "resposta": "Realça a emoção e a ênfase com que o remetente agradece."
+      },
+      {
+        "enunciado": "Que efeito o sufixo em “amantíssimo” produz na despedida?",
+        "resposta": "Intensifica a ideia de afeto no abraço enviado."
+      },
+      {
+        "enunciado": "Qual é o assunto que une os trechos inicial e final da carta?",
+        "resposta": "A amizade e o acolhimento do amigo diante do luto de Machado."
+      }
+    ]
+  },
+  {
+    "genero": "Notícia",
+    "campo": "Imprensa",
+    "ano": 7,
+    "icone": "🗞️",
+    "id": "R003",
+    "titulo": "De 2010 a 2022, população brasileira cresce 6,5% e chega a 203,1 milhões",
+    "fonte": {
+      "credito": "Ministério do Planejamento / IBGE · 28 de junho de 2023",
+      "url": "https://www.gov.br/planejamento/pt-br/assuntos/noticias/2023/junho/de-2010-a-2022-populacao-brasileira-cresce-6-5-e-chega-a-203-1-milhoes",
+      "nota": "Síntese e dados da notícia · abra a publicação para conferir o lide e as imagens.",
+      "complemento": {
+        "titulo": "Consultar o relatório do IBGE",
+        "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102011.pdf"
+      }
+    },
+    "texto": [
+      "Os primeiros resultados do Censo Demográfico registraram 203.062.512 habitantes em 1º de agosto de 2022, aproximadamente 12,3 milhões a mais do que em 2010. O crescimento acumulado no intervalo foi de 6,5%.",
+      "A taxa média anual de crescimento foi de 0,52%, a menor da série dos censos desde 1872. A notícia também apresenta comparações por recorte geográfico."
+    ],
+    "questoes": [
+      {
+        "enunciado": "Quantos habitantes o Brasil tinha na data de referência do levantamento?",
+        "resposta": "203.062.512 habitantes.",
+        "trecho": "203.062.512 habitantes"
+      },
+      {
+        "enunciado": "Qual é a informação que organiza o título e a abertura?",
+        "resposta": "O tamanho da população brasileira em 2022 e seu crescimento desde o censo anterior."
+      },
+      {
+        "enunciado": "O que significa “cresce 6,5%” no título?",
+        "resposta": "É a variação acumulada da população entre 2010 e 2022, em relação ao total de 2010."
+      },
+      {
+        "enunciado": "O que a forma abreviada “203,1 milhões” faz no título e o que o lide acrescenta?",
+        "resposta": "O título arredonda o número; o lide apresenta o total exato e a data de referência."
+      },
+      {
+        "enunciado": "O crescimento de 6,5% contradiz a afirmação de menor taxa anual? Por quê?",
+        "resposta": "Não. A população pode crescer acumuladamente mesmo crescendo, em média, mais devagar a cada ano."
+      },
+      {
+        "enunciado": "Como distinguir “menor taxa anual desde 1872” de uma opinião sobre o crescimento?",
+        "resposta": "A afirmação pode ser testada comparando as taxas da série histórica; uma opinião avaliaria se essa tendência é boa ou ruim."
+      },
+      {
+        "enunciado": "Qual é a finalidade do uso de data, percentuais e fonte no início da notícia?",
+        "resposta": "Informar o resultado e situar o leitor quanto ao período e à origem dos dados."
+      },
+      {
+        "enunciado": "Que intervalo o par “de… a…” delimita no título?",
+        "resposta": "Delimita o período de comparação entre os censos de 2010 e 2022."
+      },
+      {
+        "enunciado": "No lide, a expressão “Os dados” retoma quais informações apresentadas antes?",
+        "resposta": "Retoma o total de habitantes em 2022 e os números sobre o crescimento desde o censo de 2010."
+      },
+      {
+        "enunciado": "Compare a notícia com a ficha Gráfico. O que muda de um recorte para o outro?",
+        "resposta": "A notícia apresenta o crescimento e o total de habitantes; o gráfico compara como a população se distribui por idade.",
+        "leituras": [
+          "R014"
+        ]
+      }
+    ]
+  },
+  {
+    "genero": "Reportagem",
+    "campo": "Imprensa",
+    "ano": 8,
+    "icone": "🌳",
+    "id": "R004",
+    "titulo": "Censo 2022: população quilombola tem perfil jovem e maioria masculina",
+    "fonte": {
+      "credito": "Agência Brasil · 3 de maio de 2024",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2024-05/censo-2022-populacao-quilombola-tem-perfil-jovem-e-maioria-masculina",
+      "nota": "Síntese da reportagem · observe as comparações demográficas na publicação.",
+      "complemento": {
+        "titulo": "Ver os dados no IBGE",
+        "url": "https://educa.ibge.gov.br/jovens/conheca-o-brasil/populacao/22327-quilombolas.html"
+      }
+    },
+    "texto": [
+      "A reportagem examina os primeiros dados censitários de idade e sexo da população quilombola. O perfil é comparado com o conjunto da população do Brasil.",
+      "A idade mediana da população quilombola é de 31 anos, ante 35 anos no conjunto do país. Homens são ligeira maioria na população quilombola, enquanto mulheres são maioria na população total do Brasil."
+    ],
+    "questoes": [
+      {
+        "enunciado": "Que duas características populacionais aparecem na manchete?",
+        "resposta": "Perfil etário relativamente jovem e maioria masculina."
+      },
+      {
+        "enunciado": "Que sentido a palavra “perfil” tem no título?",
+        "resposta": "Conjunto de características observadas nos dados de uma população."
+      },
+      {
+        "enunciado": "O que significa dizer que o grupo tem perfil mais jovem do que o país, em vez de dizer que todos os quilombolas são jovens?",
+        "resposta": "É uma comparação da distribuição etária entre grupos. Ela admite pessoas de todas as idades em ambos."
+      },
+      {
+        "enunciado": "Que dado citado sustenta a caracterização de um perfil relativamente jovem?",
+        "resposta": "A idade mediana de 31 anos, inferior aos 35 anos da população brasileira como um todo.",
+        "trecho": "31 anos, ante 35 anos"
+      },
+      {
+        "enunciado": "Uma maioria masculina é um dado ou uma avaliação da autora? Justifique.",
+        "resposta": "É um dado verificável, pois depende da proporção registrada para os sexos no Censo."
+      },
+      {
+        "enunciado": "Que contraste aparece na comparação das maiorias por sexo?",
+        "resposta": "A maioria é masculina no grupo quilombola e feminina no total do Brasil."
+      },
+      {
+        "enunciado": "O que o texto faz além de comunicar que o IBGE divulgou números?",
+        "resposta": "Explica o que os dados dizem sobre o perfil quilombola e contextualiza os resultados com comparações."
+      },
+      {
+        "enunciado": "Que rótulos seriam necessários em um gráfico com as duas idades medianas?",
+        "resposta": "População quilombola e população total do Brasil, com a unidade em anos."
+      },
+      {
+        "enunciado": "O que é essencial para interpretar o número 31: a data de publicação ou o indicador a que se refere? Justifique.",
+        "resposta": "É essencial saber que 31 é a idade mediana da população quilombola; a data situa a divulgação."
+      },
+      {
+        "enunciado": "Como o recorte difere do texto sobre o crescimento demográfico do Brasil?",
+        "resposta": "Aqui o foco é a composição de um grupo por idade e sexo; lá, a mudança no total de habitantes entre censos.",
+        "leituras": [
+          "R003"
+        ]
+      }
+    ]
+  },
+  {
+    "genero": "Artigo de opinião",
+    "campo": "Imprensa",
+    "ano": 8,
+    "icone": "💬",
+    "id": "R005",
+    "titulo": "A porta entreaberta: bibliotecas públicas e a crise do leitor no Brasil",
+    "fonte": {
+      "credito": "Ricardo Queiroz Pinheiro · Jornal da USP, 13 de novembro de 2025",
+      "url": "https://jornal.usp.br/artigos/a-porta-entreaberta-bibliotecas-publicas-e-a-crise-do-leitor-no-brasil/",
+      "nota": "Síntese do artigo · leia a abertura e a discussão sobre o Paradoxo da Porta Aberta no original."
+    },
+    "texto": [
+      "O autor escreve a partir da experiência de bibliotecário. Para ele, a oferta digital de livros não resolve por si só as desigualdades de acesso e a falta de mediação de leitura. Bibliotecas públicas são espaços de convivência, permanência e acesso cultural.",
+      "O texto vê um paradoxo entre a promessa de acesso universal e a precariedade que impede a continuidade desse acesso. O autor menciona usos como estudar e abrigar-se, assim como a situação de moradores de áreas sem bibliotecas."
+    ],
+    "questoes": [
+      {
+        "enunciado": "Qual ideia o artigo sustenta sobre a função de uma biblioteca pública?",
+        "resposta": "É um espaço de acesso à cultura e de mediação da leitura que também oferece convivência e permanência."
+      },
+      {
+        "enunciado": "Como a menção a pessoas que estudam ou se abrigam na biblioteca fortalece a tese?",
+        "resposta": "Mostra usos concretos que ultrapassam o empréstimo de livros e dão corpo à ideia de espaço público."
+      },
+      {
+        "enunciado": "Que sentido “porta entreaberta” ganha no título?",
+        "resposta": "Sugere que há abertura ao público, mas o acesso está limitado por desigualdades e pela precariedade institucional."
+      },
+      {
+        "enunciado": "Que interpretação da crise de leitura o autor questiona e qual propõe?",
+        "resposta": "Questiona atribuir o problema apenas ao indivíduo. Propõe examinar acesso, tempo, espaço e mediação."
+      },
+      {
+        "enunciado": "Qual é a diferença entre o fato de o autor ser bibliotecário e a defesa de que a biblioteca é indispensável?",
+        "resposta": "A profissão é verificável; a defesa é uma posição argumentada no artigo."
+      },
+      {
+        "enunciado": "Qual é o efeito de o autor se apresentar a partir de sua atividade profissional?",
+        "resposta": "Identifica a perspectiva da qual fala e constrói credibilidade baseada na experiência."
+      },
+      {
+        "enunciado": "Que consequência o autor associa à descontinuidade das políticas de biblioteca?",
+        "resposta": "O acesso fica irregular e passa a depender do esforço de quem mantém e frequenta esses espaços."
+      },
+      {
+        "enunciado": "Que oposição organiza o paradoxo da porta aberta?",
+        "resposta": "A instituição promete acesso universal, mas convive com falta de continuidade e recursos.",
+        "trecho": "a promessa de acesso universal e a precariedade"
+      },
+      {
+        "enunciado": "Por que ampliar apenas o acervo digital é insuficiente segundo a lógica do texto?",
+        "resposta": "Porque não garante companhia, formação de leitores nem condições materiais para participar da vida cultural."
+      },
+      {
+        "enunciado": "Que elementos permitem ler o texto como artigo de opinião?",
+        "resposta": "A assinatura individual, a tese e os argumentos sobre um problema público."
+      }
+    ]
+  },
+  {
+    "genero": "Carta do leitor",
+    "campo": "Imprensa",
+    "ano": 7,
+    "icone": "📮",
+    "id": "R006",
+    "titulo": "Leitor diz que proibir celular na sala de aula é uma tarefa hercúlea",
+    "fonte": {
+      "credito": "Wagner Negreiros · Painel do Leitor, Folha de S.Paulo, 2 de outubro de 2024",
+      "url": "https://www1.folha.uol.com.br/paineldoleitor/2024/10/leitor-diz-que-proibir-celular-na-sala-de-aula-e-uma-tarefa-herculea.shtml",
+      "nota": "Síntese da carta e da seção · no original, localize a mensagem assinada por Wagner Negreiros."
+    },
+    "texto": [
+      "O professor relata ter repetido a ordem para guardar o celular mais de vinte vezes em uma aula de 45 minutos. Ele avalia que as interrupções prejudicam a explicação e a compreensão do conteúdo.",
+      "A mensagem integra uma sequência de reações dos leitores a uma notícia sobre professores que relataram agressões ao restringir celulares. Na mesma seção, Renata de Souza Santos defende sanções para garantir a aplicação de uma eventual regra."
+    ],
+    "questoes": [
+      {
+        "enunciado": "Que episódio pessoal o professor usa como exemplo?",
+        "resposta": "Em uma aula de 45 minutos, pediu que guardassem o celular mais de vinte vezes.",
+        "trecho": "mais de vinte vezes em uma aula de 45 minutos"
+      },
+      {
+        "enunciado": "Qual o significado de “hercúlea” no título?",
+        "resposta": "Muito difícil e exigente; a expressão alude à força e aos trabalhos de Hércules."
+      },
+      {
+        "enunciado": "Como o remetente se apresenta e por que isso importa?",
+        "resposta": "Apresenta-se como professor; sua fala se baseia na experiência direta da sala de aula."
+      },
+      {
+        "enunciado": "Por que a publicação cabe na seção Painel do Leitor?",
+        "resposta": "É uma manifestação assinada de um leitor sobre assunto noticiado pelo veículo."
+      },
+      {
+        "enunciado": "Que consequência o autor atribui às interrupções constantes?",
+        "resposta": "Aula menos objetiva e maior dificuldade de acompanhar o conteúdo."
+      },
+      {
+        "enunciado": "Distinga dado relatado e avaliação na carta.",
+        "resposta": "A contagem de repetições é um dado do relato pessoal. A ideia de que todos saem perdendo é uma avaliação."
+      },
+      {
+        "enunciado": "A lembrança de uma aula funciona como exemplo pessoal ou como pesquisa ampla? Explique.",
+        "resposta": "É exemplo pessoal; reforça o testemunho, mas não mede o que acontece em todas as escolas."
+      },
+      {
+        "enunciado": "Em que diferem a carta de Wagner e a de Renata?",
+        "resposta": "Wagner descreve a dificuldade vivida em aula. Renata argumenta que é necessário prever sanções para a regra funcionar."
+      },
+      {
+        "enunciado": "Por que a notícia mencionada e a carta não têm a mesma função?",
+        "resposta": "A notícia divulga relatos e apuração; a carta retoma o assunto a partir do ponto de vista de um leitor."
+      },
+      {
+        "enunciado": "Que efeito a escolha de “hercúlea” produz em lugar de “difícil”?",
+        "resposta": "Intensifica a dificuldade e torna a avaliação mais expressiva."
+      }
+    ]
+  },
+  {
+    "genero": "Editorial",
+    "campo": "Imprensa",
+    "ano": 9,
+    "icone": "🏛️",
+    "id": "R007",
+    "titulo": "Saúde é democracia: ontem, hoje e sempre",
+    "fonte": {
+      "credito": "Ana Maria Costa, Lucia Souto e Maria Lucia Frizon Rizzotto · editorial da revista Saúde em Debate, 2017",
+      "url": "https://www.scielo.br/j/sdeb/a/wk9B4tNs7dgLrtd9Bq6DdJd/?lang=pt",
+      "nota": "Síntese do editorial · leia o texto publicado na revista do Centro Brasileiro de Estudos de Saúde."
+    },
+    "texto": [
+      "O editorial parte da mudança na direção do Cebes, definida em simpósio nacional em 2017, para defender a retomada das bandeiras de democracia e saúde como direito. O texto relaciona desigualdade e exclusão às condições de vida e ao processo de saúde e doença.",
+      "Ao falar em passado e futuro, o editorial retoma a trajetória política da entidade e anuncia sua posição diante dos desafios daquele momento."
+    ],
+    "questoes": [
+      {
+        "enunciado": "Que acontecimento institucional abre o editorial?",
+        "resposta": "A mudança na direção do Cebes, definida no V Simpósio Nacional.",
+        "trecho": "mudança na direção do Cebes"
+      },
+      {
+        "enunciado": "Qual posicionamento a publicação defende?",
+        "resposta": "Que a luta pela democracia e pela saúde como direito deve seguir orientando o Cebes."
+      },
+      {
+        "enunciado": "Como a discussão sobre desigualdade sustenta essa posição?",
+        "resposta": "Mostra que as condições sociais afetam a saúde e fornece base para tratá-la como direito coletivo."
+      },
+      {
+        "enunciado": "O que significa “bandeiras” no contexto político do editorial?",
+        "resposta": "Princípios ou causas defendidas por uma organização."
+      },
+      {
+        "enunciado": "Qual é a função desse texto no número da revista?",
+        "resposta": "Apresentar uma posição editorial e articular as prioridades públicas do Cebes."
+      },
+      {
+        "enunciado": "Separe um fato institucional de uma tomada de posição.",
+        "resposta": "O simpósio e a mudança de direção são fatos relatados. A prioridade atribuída à democracia e à saúde é uma posição defendida."
+      },
+      {
+        "enunciado": "Que relação o texto estabelece entre exclusão e saúde?",
+        "resposta": "A exclusão piora condições de vida, que influenciam o processo de saúde e doença."
+      },
+      {
+        "enunciado": "Que efeito dá ao título a sequência “ontem, hoje e sempre”?",
+        "resposta": "Reforça a continuidade histórica do compromisso e projeta sua permanência."
+      },
+      {
+        "enunciado": "Por que o editorial recorre ao passado para falar do momento de 2017?",
+        "resposta": "Para mostrar que a agenda proposta se vincula à história da entidade, o que legitima seu compromisso atual."
+      },
+      {
+        "enunciado": "Em comparação com a notícia do Censo, como a escolha dos fatos serve à finalidade do editorial?",
+        "resposta": "O editorial usa fatos institucionais, como a mudança de direção, para defender uma posição. A notícia organiza números e datas para comunicar o resultado do levantamento.",
+        "leituras": [
+          "R003"
+        ]
+      }
+    ]
+  },
+  {
+    "genero": "Anúncio publicitário",
+    "campo": "Imprensa",
+    "ano": 7,
+    "icone": "📚",
+    "id": "R008",
+    "titulo": "Sabonete de Reuter no Diário da Manhã",
+    "fonte": {
+      "credito": "Diário da Manhã · edição de 4 de junho de 1921, Hemeroteca Digital Brasileira",
+      "url": "https://hemeroteca-pdf.bn.gov.br/572748/per572748_1921_00242.pdf",
+      "nota": "Roteiro de leitura da peça · no PDF da edição, procure “Sabonete de Reuter”."
+    },
+    "texto": [
+      "O anúncio associa o produto ao cuidado da pele e promete a purificação dos poros. Usa a interpelação direta ao público com o verbo “sentirá”, sugerindo que a experiência de uso confirmaria a promessa.",
+      "A peça integra uma edição de jornal impresso. Localize o nome do produto no anúncio e compare a maneira de apresentá-lo com a campanha do Zé Gotinha no acervo."
+    ],
+    "questoes": [
+      {
+        "enunciado": "Que produto a publicidade divulga?",
+        "resposta": "O Sabonete de Reuter."
+      },
+      {
+        "enunciado": "Qual ação interessa ao anunciante?",
+        "resposta": "Que o público se interesse pelo sabonete e o compre ou experimente."
+      },
+      {
+        "enunciado": "O que “purifica” faz o leitor associar ao produto?",
+        "resposta": "Limpeza ou remoção de impurezas da pele.",
+        "trecho": "purificação dos poros"
+      },
+      {
+        "enunciado": "Que efeito persuasivo tem o futuro do verbo “sentirá”?",
+        "resposta": "Projeta confiança no resultado e convida o leitor a imaginar o benefício após o uso."
+      },
+      {
+        "enunciado": "A promessa de purificar os poros constitui comprovação no anúncio? Por quê?",
+        "resposta": "É uma alegação do anunciante. Comprovação exigiria evidência independente ou testes apresentados."
+      },
+      {
+        "enunciado": "O que o destaque dado ao nome do produto permite a quem folheia o jornal?",
+        "resposta": "Reconhecer rapidamente o produto e separá-lo das demais informações da página."
+      },
+      {
+        "enunciado": "Que público é construído pelo apelo ao cuidado da pele?",
+        "resposta": "Leitores que valorizam limpeza e cuidados pessoais e podem adquirir o produto."
+      },
+      {
+        "enunciado": "Qual informação é central na peça: a data do jornal ou o benefício atribuído ao sabonete? Por quê?",
+        "resposta": "O benefício é central no anúncio porque dá motivo à compra. A data situa seu contexto histórico."
+      },
+      {
+        "enunciado": "Por que a peça interpela o leitor sobre o que ele sentirá?",
+        "resposta": "Procura tornar o benefício pessoal e imaginável, aproximando a promessa da experiência do consumidor."
+      },
+      {
+        "enunciado": "O que difere entre a finalidade desse anúncio e a do cartaz do Zé Gotinha?",
+        "resposta": "O anúncio promove um bem de consumo; o cartaz orienta uma ação coletiva de saúde.",
+        "leituras": [
+          "R009"
+        ]
+      }
+    ]
+  },
+  {
+    "genero": "Propaganda",
+    "campo": "Imprensa",
+    "ano": 7,
+    "icone": "💧",
+    "id": "R009",
+    "titulo": "Cartaz verde do Clube do Zé Gotinha",
+    "fonte": {
+      "credito": "Ministério da Saúde · catálogo Zé Gotinha do Brasil, p. 62",
+      "url": "https://bvsms.saude.gov.br/bvs/publicacoes/catalogo_ze_gotinha_brasil.pdf#page=64",
+      "nota": "Roteiro do cartaz histórico · localize a peça verde, com o jardim e a data de 20 de junho."
+    },
+    "texto": [
+      "O cartaz verde reúne um chamado para levar crianças menores de cinco anos ao posto de vacinação e o personagem Zé Gotinha. A proteção mobilizada na campanha é contra a paralisia infantil.",
+      "O texto se dirige a quem pode levar as crianças ao posto, e a mascote cria um ponto de reconhecimento que também pode atrair a atenção do público infantil."
+    ],
+    "questoes": [
+      {
+        "enunciado": "A partir do cartaz, identifique a faixa etária da convocação.",
+        "resposta": "Crianças com menos de cinco anos.",
+        "trecho": "crianças menores de cinco anos"
+      },
+      {
+        "enunciado": "Que ação pública a peça pretende promover?",
+        "resposta": "Levar as crianças da faixa indicada ao posto para a vacinação contra a poliomielite."
+      },
+      {
+        "enunciado": "Como a mascote ajuda o leitor a identificar a campanha?",
+        "resposta": "A figura do Zé Gotinha cria uma identidade visual reconhecível e permite associar a peça à vacinação."
+      },
+      {
+        "enunciado": "Quem recebe o benefício e quem é diretamente convocado a agir?",
+        "resposta": "As crianças recebem a vacina; pais, responsáveis e cuidadores são convocados a levá-las."
+      },
+      {
+        "enunciado": "Que efeito tem o imperativo em “Leve”?",
+        "resposta": "Faz um chamado direto ao público e indica a conduta esperada."
+      },
+      {
+        "enunciado": "Que informação sobre a facilidade de acesso o cartaz procura sugerir ao mencionar o posto mais próximo?",
+        "resposta": "Sugere que a vacinação pode ser buscada perto do local em que o público vive."
+      },
+      {
+        "enunciado": "Por que a palavra “clube” pode aproximar o cartaz do público infantil?",
+        "resposta": "Evoca participação e pertencimento, ideias familiares em atividades para crianças."
+      },
+      {
+        "enunciado": "O posto indicado e a faixa etária cumprem a mesma função da mascote? Explique.",
+        "resposta": "São informações operacionais da campanha; a mascote dá identidade e apelo afetivo."
+      },
+      {
+        "enunciado": "Qual dado é indispensável para o responsável agir e qual elemento pode ser visto como apoio visual?",
+        "resposta": "Quem deve ser levado e onde são informações indispensáveis; a mascote apoia a identificação da campanha."
+      },
+      {
+        "enunciado": "Como o propósito social do cartaz se distingue do anúncio do sabonete?",
+        "resposta": "O cartaz mobiliza para uma medida de saúde pública; o anúncio promove consumo.",
+        "leituras": [
+          "R008"
+        ]
+      }
+    ]
+  },
+  {
+    "genero": "Meme",
+    "campo": "Imprensa",
+    "ano": 7,
+    "icone": "💻",
+    "id": "R010",
+    "titulo": "Nazaré Confusa",
+    "fonte": {
+      "credito": "#MUSEUdeMEMES · acervo da Universidade Federal Fluminense",
+      "url": "https://museudememes.com.br/collection/nazare-confusa",
+      "nota": "Roteiro de leitura da montagem com quatro quadros · consulte a imagem no acervo."
+    },
+    "texto": [
+      "O meme reutiliza o rosto de Nazaré Tedesco, personagem da novela Senhora do Destino, em diferentes expressões. Uma versão popular sobrepõe fórmulas e figuras matemáticas aos quadros.",
+      "Na circulação digital, essa versão funciona como reação visual diante de situações percebidas como difíceis de entender."
+    ],
+    "questoes": [
+      {
+        "enunciado": "De que obra vem a personagem usada na montagem?",
+        "resposta": "Da novela Senhora do Destino."
+      },
+      {
+        "enunciado": "Quais dois componentes visuais precisam ser lidos juntos para entender a reação?",
+        "resposta": "As expressões do rosto e as fórmulas ou figuras matemáticas sobrepostas.",
+        "trecho": "sobrepõe fórmulas e figuras matemáticas"
+      },
+      {
+        "enunciado": "Qual é a base do humor quando a montagem aparece diante de uma situação banal?",
+        "resposta": "O esforço exagerado sugerido pelos cálculos contrasta com a simplicidade da situação."
+      },
+      {
+        "enunciado": "Se a imagem responde ao anúncio de uma regra confusa, que posição o usuário pode estar expressando?",
+        "resposta": "Pode sinalizar que não entendeu a regra ou que a considera complicada."
+      },
+      {
+        "enunciado": "O que muda entre os quadros tal como apareciam na novela e a versão com fórmulas?",
+        "resposta": "O rosto sai de uma narrativa televisiva e torna-se reação reutilizável, com as fórmulas acrescentando um novo contexto."
+      },
+      {
+        "enunciado": "Por que essa versão continua compreensível sem uma frase explicativa?",
+        "resposta": "A expressão facial combinada com os cálculos comunica confusão ou esforço mental de imediato."
+      },
+      {
+        "enunciado": "Por que sobrepor símbolos complexos é mais expressivo do que escrever apenas “não entendi”?",
+        "resposta": "A sobreposição encena o esforço de decifrar e exagera visualmente a dificuldade."
+      },
+      {
+        "enunciado": "Que conhecimento do meio digital ajuda a interpretar a publicação como meme?",
+        "resposta": "Reconhecer que a montagem circula como resposta a contextos diversos e recebe novos sentidos conforme o uso."
+      },
+      {
+        "enunciado": "Em uma conversa, como se identifica a que a reação do meme se refere?",
+        "resposta": "Pela ligação com a mensagem, imagem ou acontecimento imediatamente retomado na conversa."
+      },
+      {
+        "enunciado": "Duas pessoas usam a mesma montagem, uma diante de sua própria dúvida e outra em crítica a uma explicação. O que muda?",
+        "resposta": "A primeira ironiza a própria confusão; a segunda avalia negativamente a clareza da explicação."
+      }
+    ]
+  },
+  {
+    "genero": "Regulamento",
+    "campo": "Vida pública",
+    "ano": 7,
+    "icone": "🎵",
+    "id": "R011",
+    "titulo": "Decreto nº 7.962 de 2013: contratação no comércio eletrônico",
+    "fonte": {
+      "credito": "Presidência da República · Decreto nº 7.962, de 15 de março de 2013, arts. 1º, 2º, 4º e 5º",
+      "url": "https://www2.camara.leg.br/legin/fed/decret/2013/decreto-7962-15-marco-2013-775557-publicacaooriginal-139266-pe.html",
+      "nota": "Roteiro de leitura do regulamento · consulte os artigos e seus incisos na fonte."
+    },
+    "texto": [
+      "O decreto regulamenta aspectos do Código de Defesa do Consumidor na contratação eletrônica. O artigo 2º enumera informações que devem ter destaque no meio utilizado para a oferta, incluindo identificação do fornecedor, características e despesas adicionais.",
+      "O artigo 4º trata de atendimento e facilidades para o consumidor. O artigo 5º trata do exercício do direito de arrependimento. Entre outras medidas, prevê que o consumidor possa manifestar o arrependimento pela mesma ferramenta usada para contratar."
+    ],
+    "questoes": [
+      {
+        "enunciado": "O que o decreto regulamenta, segundo o artigo 1º?",
+        "resposta": "A contratação no comércio eletrônico sob as regras do Código de Defesa do Consumidor.",
+        "trecho": "regulamenta aspectos do Código de Defesa do Consumidor na contratação eletrônica"
+      },
+      {
+        "enunciado": "Dê dois exemplos de informações de identificação do fornecedor previstas no artigo 2º.",
+        "resposta": "Nome empresarial e número de inscrição no CPF ou no CNPJ. Endereços físico e eletrônico também aparecem."
+      },
+      {
+        "enunciado": "Que sentido a forma verbal “devem” tem no artigo 2º?",
+        "resposta": "Indica obrigação jurídica dos fornecedores."
+      },
+      {
+        "enunciado": "Em que ponto do artigo 2º se procura a regra sobre despesas de entrega e seguros?",
+        "resposta": "No inciso IV, sobre discriminação das despesas adicionais ou acessórias."
+      },
+      {
+        "enunciado": "Uma loja divulga o preço do produto, mas oculta gastos de entrega. Que problema a norma permite identificar?",
+        "resposta": "O fornecedor não dá visibilidade a uma despesa adicional, obrigatória quando houver."
+      },
+      {
+        "enunciado": "O que “arrependimento” significa no artigo 5º?",
+        "resposta": "Exercício do direito de desistir da contratação nas condições jurídicas aplicáveis."
+      },
+      {
+        "enunciado": "A expressão “mesma ferramenta” no parágrafo 1º do artigo 5º remete a quê?",
+        "resposta": "Ao meio eletrônico usado para contratar."
+      },
+      {
+        "enunciado": "Que sentido a expressão “sem prejuízo” tem quando o decreto menciona outros meios de exercer o direito?",
+        "resposta": "O uso da mesma ferramenta é garantido e outros meios oferecidos podem continuar disponíveis."
+      },
+      {
+        "enunciado": "Que efeito o artigo 5º atribui ao arrependimento sobre contratos acessórios?",
+        "resposta": "Eles são rescindidos sem ônus para o consumidor."
+      },
+      {
+        "enunciado": "Por que o texto separa regras por artigos, incisos e parágrafos?",
+        "resposta": "Para organizar as obrigações, facilitar a localização e explicitar o alcance de cada regra."
+      }
+    ]
+  },
+  {
+    "genero": "Resenha",
+    "campo": "Estudo e pesquisa",
+    "ano": 9,
+    "icone": "🎬",
+    "id": "R012",
+    "titulo": "Resenha de Ideias para adiar o fim do mundo",
+    "fonte": {
+      "credito": "Kasandra Conceição Castro · revista Mana, v. 29, n. 2, 2023",
+      "url": "https://www.scielo.br/j/mana/a/bjBknT5rNzkS7wvwyHKDzPw/?lang=pt",
+      "nota": "Síntese da resenha · consulte a ficha bibliográfica e a abertura do original."
+    },
+    "texto": [
+      "A resenhista apresenta Ailton Krenak, liderança indígena do Vale do Rio Doce, e informa que o livro se formou a partir de duas conferências e uma entrevista em Portugal. A obra questiona uma ideia de humanidade definida por padrões europeus.",
+      "Para Castro, o livro combina reflexão, comparação de modos de vida, provocação e crítica da modernidade. A resenhista destaca a contestação da separação entre humanidade e natureza."
+    ],
+    "questoes": [
+      {
+        "enunciado": "Quem escreveu a resenha e quem escreveu o livro resenhado?",
+        "resposta": "Kasandra Conceição Castro escreveu a resenha. Ailton Krenak escreveu o livro."
+      },
+      {
+        "enunciado": "Qual informação sobre a formação do livro ajuda a entender sua origem oral?",
+        "resposta": "A obra resultou de duas conferências e uma entrevista.",
+        "trecho": "duas conferências e uma entrevista"
+      },
+      {
+        "enunciado": "Identifique uma informação bibliográfica e uma apreciação da resenhista.",
+        "resposta": "A autoria de Krenak é uma informação. Entender o texto como provocação e crítica é uma apreciação de Castro."
+      },
+      {
+        "enunciado": "No contexto da resenha, o que significa “eurocêntrica”?",
+        "resposta": "Que toma valores e experiências europeias como centro ou padrão geral."
+      },
+      {
+        "enunciado": "Que crítica de Krenak a resenha põe em destaque?",
+        "resposta": "A uma ideia de humanidade universal moldada por um padrão europeu e afastada da natureza."
+      },
+      {
+        "enunciado": "Por que a resenhista apresenta o lugar de origem e a atuação de Krenak?",
+        "resposta": "Orienta o leitor sobre a trajetória e a perspectiva de quem formula a crítica."
+      },
+      {
+        "enunciado": "Que expectativa a palavra “provocação” cria para o leitor do livro?",
+        "resposta": "Espera-se um texto que desafie crenças e convide a rever escolhas e formas de pensar."
+      },
+      {
+        "enunciado": "Que dupla tarefa a resenha realiza em relação ao público da revista?",
+        "resposta": "Apresenta o conteúdo e oferece uma interpretação ou apreciação crítica da obra."
+      },
+      {
+        "enunciado": "Qual é o efeito das interrogações sobre a ideia de humanidade retomadas pela resenhista?",
+        "resposta": "Explicitam questões abertas do livro e convidam a questionar uma categoria tratada como óbvia."
+      },
+      {
+        "enunciado": "Como distinguir a voz de Krenak da voz de Castro ao ler a resenha?",
+        "resposta": "A resenha atribui ideias a Krenak e as resume ou comenta. A seleção do que destacar e sua avaliação são da resenhista."
+      }
+    ]
+  },
+  {
+    "genero": "Redação dissertativo-argumentativa",
+    "campo": "Vida pública",
+    "ano": 9,
+    "icone": "📝",
+    "id": "R013",
+    "titulo": "Redação de Mariane Clementino Barbosa no Enem 2023",
+    "fonte": {
+      "credito": "Mariane Clementino Barbosa · A Redação do Enem 2024, Cartilha do Participante do Inep, exemplo 7, p. 53",
+      "url": "https://download.inep.gov.br/publicacoes/institucionais/avaliacoes_e_exames_da_educacao_basica/a_redacao_no_enem_2024_cartilha_do_participante.pdf#page=55",
+      "nota": "Síntese da redação publicada · leia o texto da participante antes do comentário oficial.",
+      "complemento": {
+        "titulo": "Ler a mesma redação em página alternativa",
+        "url": "https://dequestoes.com.br/enem/2023/redacao/7/"
+      }
+    },
+    "texto": [
+      "A redação aborda a invisibilidade do trabalho de cuidado feito por mulheres. Começa com uma situação da série Grey’s Anatomy e aponta dois obstáculos no Brasil: a desinformação da população e a ineficiência estatal.",
+      "O desenvolvimento relaciona a divisão histórica de tarefas ao primeiro obstáculo e discute as limitações de políticas no segundo. A intervenção propõe que o governo federal promova oficinas nas escolas para dar visibilidade ao tema entre jovens."
+    ],
+    "questoes": [
+      {
+        "enunciado": "Qual é o recorte temático da redação?",
+        "resposta": "Os obstáculos para reconhecer e enfrentar a invisibilidade do trabalho de cuidado realizado por mulheres no Brasil."
+      },
+      {
+        "enunciado": "Que duas causas formam a tese da participante?",
+        "resposta": "Falta de conhecimento da população sobre o assunto e ineficiência do Estado.",
+        "trecho": "a desinformação da população e a ineficiência estatal"
+      },
+      {
+        "enunciado": "Qual a função argumentativa do episódio de Grey’s Anatomy?",
+        "resposta": "Ilustra como responsabilidades de cuidado podem recair sobre a mulher e afetar sua trajetória profissional."
+      },
+      {
+        "enunciado": "Como a divisão histórica das tarefas ajuda a explicar a invisibilidade atual?",
+        "resposta": "A atribuição dos afazeres domésticos às mulheres naturalizou esse trabalho e dificultou seu reconhecimento público."
+      },
+      {
+        "enunciado": "Na abertura, o que “Fora da ficção” retoma?",
+        "resposta": "A situação ilustrada na série, de que o texto passa para o contexto brasileiro."
+      },
+      {
+        "enunciado": "Qual a função de “Ademais” no terceiro parágrafo?",
+        "resposta": "Acrescenta a discussão do segundo obstáculo, a inércia governamental."
+      },
+      {
+        "enunciado": "O exemplo da série é ilustração ou evidência empírica da realidade brasileira? Justifique.",
+        "resposta": "É uma ilustração ficcional. Uma afirmação sobre o Brasil exigiria pesquisa, dados ou outros registros."
+      },
+      {
+        "enunciado": "Qual é a medida central da conclusão, e que dois detalhes especificam sua execução?",
+        "resposta": "O governo federal deve implementar um programa de oficinas. O texto indica escolas públicas e privadas e o público de 10 a 18 anos."
+      },
+      {
+        "enunciado": "O que distingue esse texto de uma reportagem sobre trabalho de cuidado?",
+        "resposta": "A redação defende uma tese em resposta à proposta do exame e conclui com uma intervenção."
+      },
+      {
+        "enunciado": "Qual dos obstáculos a proposta de oficinas enfrenta de forma mais direta?",
+        "resposta": "A falta de conhecimento. Uma ação educativa atua diretamente na informação e no debate entre os jovens."
+      }
+    ]
+  },
+  {
+    "genero": "Gráfico",
+    "campo": "Estudo e pesquisa",
+    "ano": 6,
+    "icone": "📊",
+    "id": "R014",
+    "titulo": "Distribuição da população brasileira por idade, 2012 e 2022",
+    "fonte": {
+      "credito": "IBGE · apresentação sobre características gerais dos moradores, PNAD Contínua",
+      "url": "https://agenciadenoticias.ibge.gov.br/media/com_mediaibge/arquivos/1cd893a10b3cabf31fc31e994531632f.pdf#page=3",
+      "nota": "Gráfico redesenhado com dados publicados · o recorte mostra quatro faixas do gráfico de 2012 e 2022."
+    },
+    "texto": [
+      "Cada par de barras corresponde a uma faixa etária. O comprimento representa a participação daquele grupo no total da população brasileira no ano, em porcentagem.",
+      "As faixas da figura são um recorte. Consulte a apresentação completa para ver os outros grupos."
+    ],
+    "questoes": [
+      {
+        "enunciado": "Que informação o comprimento de cada barra representa?",
+        "resposta": "A participação percentual daquele grupo etário na população do ano indicado."
+      },
+      {
+        "enunciado": "Qual era o percentual de pessoas de 65 anos ou mais em 2022?",
+        "resposta": "10,5%."
+      },
+      {
+        "enunciado": "Qual faixa do recorte recuou de 2012 para 2022?",
+        "resposta": "De 0 a 4 anos, de 7,4% para 6,8%."
+      },
+      {
+        "enunciado": "Quanto a participação de pessoas de 65 anos ou mais aumentou, em pontos percentuais?",
+        "resposta": "2,8 pontos percentuais: 10,5 menos 7,7."
+      },
+      {
+        "enunciado": "Pode-se concluir que diminuiu o número absoluto de crianças de 0 a 4 anos apenas pelas barras? Explique.",
+        "resposta": "Não. As barras mostram proporções; é preciso saber a população total de cada ano para calcular o número de crianças."
+      },
+      {
+        "enunciado": "Por que agrupar as barras em pares, em vez de mostrar apenas um ano?",
+        "resposta": "Permite comparar a mesma faixa etária em dois momentos."
+      },
+      {
+        "enunciado": "Que papel cumpre o aviso de que o gráfico é um recorte?",
+        "resposta": "Evita interpretar os quatro grupos como se cobrissem toda a população ou somassem 100%."
+      },
+      {
+        "enunciado": "Qual conclusão é verificável: “a proporção de idosos subiu” ou “o país envelheceu rápido demais”?",
+        "resposta": "A primeira se verifica pelas barras. “Rápido demais” envolve um juízo e exige um critério adicional."
+      },
+      {
+        "enunciado": "Que tendência os extremos de idade ilustram no período?",
+        "resposta": "A participação das crianças de 0 a 4 anos diminui e a das pessoas de 65 anos ou mais aumenta."
+      },
+      {
+        "enunciado": "Em que o gráfico difere da notícia dos 203,1 milhões?",
+        "resposta": "O gráfico informa composição etária em porcentagens. A notícia apresenta o total de habitantes e sua variação em outro intervalo.",
+        "leituras": [
+          "R003"
+        ]
+      }
+    ],
+    "visual": {
+      "tipo": "series",
+      "titulo": "População residente por faixa de idade (%) · recorte",
+      "maximo": 18,
+      "series": [
+        "2012",
+        "2022"
+      ],
+      "dados": [
+        [
+          "0 a 4 anos",
+          7.4,
+          6.8
+        ],
+        [
+          "30 a 39 anos",
+          15.8,
+          15.9
+        ],
+        [
+          "40 a 49 anos",
+          13.0,
+          14.2
+        ],
+        [
+          "65 anos ou mais",
+          7.7,
+          10.5
+        ]
+      ]
+    }
+  },
+  {
+    "genero": "Tabela",
+    "campo": "Estudo e pesquisa",
+    "ano": 6,
+    "icone": "🗓️",
+    "id": "R015",
+    "titulo": "Prévia do Censo 2022 por grandes regiões",
+    "fonte": {
+      "credito": "IBGE · divulgação de 28 de dezembro de 2022, com dados coletados até 25 de dezembro",
+      "url": "https://ftp.ibge.gov.br/Censos/Censo_Demografico_2022/Previa_da_Populacao/POP2022_Brasil_e_UFs.pdf",
+      "nota": "Recorte da tabela divulgada pelo IBGE · valores preliminares, em habitantes."
+    },
+    "texto": [
+      "A tabela apresenta a prévia para o Brasil e as cinco grandes regiões. Os dados foram publicados antes dos primeiros resultados do Censo Demográfico de 2022 divulgados em junho de 2023."
+    ],
+    "questoes": [
+      {
+        "enunciado": "Qual população consta na linha Brasil da prévia?",
+        "resposta": "207.750.291 habitantes."
+      },
+      {
+        "enunciado": "Qual região tem o maior valor e qual tem o menor?",
+        "resposta": "Sudeste, com 87.348.223; Centro-Oeste, com 16.492.326."
+      },
+      {
+        "enunciado": "Quanto a população do Sul superou a do Norte nessa prévia?",
+        "resposta": "12.850.836 habitantes, obtidos subtraindo 17.834.762 de 30.685.598."
+      },
+      {
+        "enunciado": "Que sentido tem “prévia” no título?",
+        "resposta": "Divulgação preliminar, anterior à apuração e publicação dos resultados posteriores.",
+        "trecho": "publicados antes dos primeiros resultados"
+      },
+      {
+        "enunciado": "Por que o gênero tabela facilita a consulta a esses dados?",
+        "resposta": "Alinha as regiões e os respectivos números segundo o mesmo cabeçalho e unidade, permitindo consulta e comparação."
+      },
+      {
+        "enunciado": "Qual função exerce a linha Brasil em relação às cinco linhas regionais?",
+        "resposta": "Apresenta o total nacional. Ela não é uma sexta região a ser somada às outras."
+      },
+      {
+        "enunciado": "Uma região com população menor tem necessariamente menor densidade demográfica?",
+        "resposta": "Não. Para saber a densidade é preciso também conhecer a área."
+      },
+      {
+        "enunciado": "Os pontos em “16.492.326” indicam decimais ou agrupamentos? Justifique pela unidade.",
+        "resposta": "São separadores de milhares; os valores contam habitantes em números inteiros."
+      },
+      {
+        "enunciado": "Por que 207,8 milhões nessa divulgação e 203,1 milhões na notícia de junho de 2023 não são dois números da mesma série comparável de imediato?",
+        "resposta": "A primeira cifra é preliminar e a segunda corresponde a uma publicação posterior de resultados. É preciso considerar estágio da coleta e método antes de comparar.",
+        "leituras": [
+          "R003"
+        ]
+      },
+      {
+        "enunciado": "A frase “o Sudeste é a melhor região porque tem mais habitantes” é sustentada pela tabela?",
+        "resposta": "A população superior consta dos dados, mas “melhor” é uma avaliação sem critério fornecido pela tabela."
+      }
+    ],
+    "visual": {
+      "tipo": "tabela",
+      "titulo": "Prévia por grandes regiões, em habitantes",
+      "cabecalho": [
+        "Área",
+        "População"
+      ],
+      "dados": [
+        [
+          "Brasil",
+          "207.750.291"
+        ],
+        [
+          "Norte",
+          "17.834.762"
+        ],
+        [
+          "Nordeste",
+          "55.389.382"
+        ],
+        [
+          "Sudeste",
+          "87.348.223"
+        ],
+        [
+          "Sul",
+          "30.685.598"
+        ],
+        [
+          "Centro-Oeste",
+          "16.492.326"
+        ]
+      ]
+    }
+  },
+  {
+    "genero": "Infográfico",
+    "campo": "Estudo e pesquisa",
+    "ano": 7,
+    "icone": "🌱",
+    "id": "R016",
+    "titulo": "Ciclo de vida do Aedes aegypti",
+    "fonte": {
+      "credito": "Prefeitura de São Paulo / Covisa · ilustração de M. O. Matos Jr., cartilha Aedes aegypti",
+      "url": "https://drive.prefeitura.sp.gov.br/cidade/secretarias/upload/chamadas/aedes_aegypt_2020_mobile_1581100855.pdf#page=10",
+      "nota": "Diagrama redesenhado a partir da peça · no PDF, procure a seção “Ciclo de vida do Aedes aegypti”."
+    },
+    "texto": [
+      "A peça municipal apresenta ovos, larva, pupa e mosquito adulto ao redor de uma seta circular. Cada imagem é acompanhada do nome da fase.",
+      "A mesma página traz o canal de atendimento 156 e identifica os órgãos responsáveis pela comunicação."
+    ],
+    "questoes": [
+      {
+        "enunciado": "Quais são as quatro fases identificadas no esquema?",
+        "resposta": "Ovos, larva, pupa e adulto.",
+        "trecho": "ovos, larva, pupa e mosquito adulto"
+      },
+      {
+        "enunciado": "Por que a seta do original é circular?",
+        "resposta": "Indica que a sequência recomeça, do adulto para uma nova geração de ovos."
+      },
+      {
+        "enunciado": "Onde começa o caminho se o leitor tomar a fase dos ovos como ponto de partida?",
+        "resposta": "Nos ovos. Depois vêm larva, pupa, adulto e, na continuidade do ciclo, novos ovos."
+      },
+      {
+        "enunciado": "O que designa “pupa” no esquema?",
+        "resposta": "A fase que vem depois da larva e antes do adulto."
+      },
+      {
+        "enunciado": "Qual é a finalidade do diagrama na cartilha?",
+        "resposta": "Explicar visualmente a transformação do mosquito e facilitar o reconhecimento das fases."
+      },
+      {
+        "enunciado": "Por que uma seta apenas do ovo até o adulto deixaria parte da informação de fora?",
+        "resposta": "Daria a impressão de um processo com final definitivo e ocultaria a renovação do ciclo."
+      },
+      {
+        "enunciado": "Como desenhos e legendas trabalham juntos?",
+        "resposta": "Os desenhos mostram a aparência de cada fase; a legenda permite associar a imagem ao nome correspondente."
+      },
+      {
+        "enunciado": "O telefone 156 descreve uma fase ou serve de informação complementar? Explique.",
+        "resposta": "É informação complementar para obter orientação do município."
+      },
+      {
+        "enunciado": "Que pistas do suporte indicam a instituição que fala ao público?",
+        "resposta": "A identificação da Secretaria Municipal da Saúde, da Covisa, do SUS e o serviço de atendimento municipal."
+      },
+      {
+        "enunciado": "O que o esquema oferece de diferente de um parágrafo que enumera as quatro fases?",
+        "resposta": "Mostra a ordem e a repetição do ciclo de modo visual, permitindo seguir as relações sem ler uma descrição longa."
+      }
+    ],
+    "visual": {
+      "tipo": "ciclo",
+      "titulo": "Ciclo do Aedes aegypti · adaptação do esquema",
+      "dados": [
+        [
+          "1",
+          "Ovos"
+        ],
+        [
+          "2",
+          "Larva"
+        ],
+        [
+          "3",
+          "Pupa"
+        ],
+        [
+          "4",
+          "Adulto"
+        ]
+      ]
+    }
+  },
+  {
+    "genero": "Verbete",
+    "campo": "Estudo e pesquisa",
+    "ano": 7,
+    "icone": "📖",
+    "id": "R017",
+    "titulo": "Saudade",
+    "fonte": {
+      "credito": "Wikcionário em português · entrada “saudade”, seção Substantivo",
+      "url": "https://pt.wiktionary.org/wiki/saudade",
+      "nota": "Síntese do verbete · observe as acepções, a tabela de número e os recursos de navegação da fonte."
+    },
+    "texto": [
+      "A entrada apresenta saudade como substantivo feminino, cujo plural é saudades. Distingue sentidos ligados à lembrança afetuosa e ao sentimento pela distância ou ausência de alguém ou de algo.",
+      "O texto dispõe as acepções em lista. Há também separação silábica e links para palavras relacionadas."
+    ],
+    "questoes": [
+      {
+        "enunciado": "Qual é a classe da palavra e qual é seu plural?",
+        "resposta": "Substantivo. O plural é saudades.",
+        "trecho": "substantivo feminino, cujo plural é saudades"
+      },
+      {
+        "enunciado": "Como a tabela ajuda a encontrar o plural?",
+        "resposta": "Ela coloca a forma correspondente na coluna “Plural”, ao lado da forma singular."
+      },
+      {
+        "enunciado": "Em “sinto saudade dos recreios de antigamente”, que ideia está em jogo?",
+        "resposta": "Lembrança afetiva acompanhada de falta ou desejo de reviver aqueles momentos."
+      },
+      {
+        "enunciado": "Por que a saudade pode envolver objetos e lugares, além de pessoas?",
+        "resposta": "O verbete abrange lembranças e faltas relacionadas a coisas, experiências ou lugares distantes ou já ausentes."
+      },
+      {
+        "enunciado": "Em que situação consultar esse verbete seria especialmente útil?",
+        "resposta": "Para esclarecer um sentido da palavra, sua grafia, seu gênero ou sua forma de plural."
+      },
+      {
+        "enunciado": "Qual é a diferença entre “feminino” e as definições numeradas?",
+        "resposta": "“Feminino” informa o gênero gramatical. As definições apresentam acepções."
+      },
+      {
+        "enunciado": "O que os pontos internos em “sau.da.de” representam?",
+        "resposta": "Divisão silábica da palavra."
+      },
+      {
+        "enunciado": "Na descrição “distantes, ou que ficam muito tempo sem se ver”, que relação é marcada por “ou”?",
+        "resposta": "Apresenta condições alternativas para a ausência ou distância."
+      },
+      {
+        "enunciado": "Se saudade aparece na leitura de Canção do Exílio como ideia inferida, o que muda em relação ao verbete?",
+        "resposta": "O verbete explica sentidos gerais da palavra. O poema sugere o sentimento por imagens, lembranças e desejo de voltar.",
+        "leituras": [
+          "R023"
+        ]
+      },
+      {
+        "enunciado": "Que sinais de edição colaborativa e de navegação digital podem ser observados na página?",
+        "resposta": "Links internos, histórico de edição e áreas de discussão ou edição, além das seções comuns de dicionário."
+      }
+    ]
+  },
+  {
+    "genero": "Relato",
+    "campo": "Estudo e pesquisa",
+    "ano": 7,
+    "icone": "🔎",
+    "id": "R018",
+    "titulo": "Relato do encontro a bordo na Carta de Pero Vaz de Caminha",
+    "fonte": {
+      "credito": "Pero Vaz de Caminha · Carta a D. Manuel, 1500, passagem do encontro na nau",
+      "url": "https://www.bibliotecajuridica.sp.gov.br/wp-content/uploads/sites/5/2024/09/Carta-A-Pero-Vaz-de-Caminha.pdf",
+      "nota": "Roteiro do trecho narrativo · procure no PDF o episódio do colar, do castiçal e das contas de rosário."
+    },
+    "texto": [
+      "Caminha relata a entrada de dois indígenas na embarcação. Um deles olha o colar do capitão e indica a terra com as mãos. O escrivão interpreta o gesto como possível referência à existência de ouro. A reação ao castiçal sugere aos portugueses uma associação semelhante com a prata.",
+      "O relato registra também a oferta de objetos, alimentos e bebidas. Quando comenta a interpretação das contas e do colar, Caminha admite que o desejo dos portugueses influenciava a leitura que faziam dos gestos."
+    ],
+    "questoes": [
+      {
+        "enunciado": "Qual objeto do capitão atrai a atenção de um dos visitantes?",
+        "resposta": "Um colar de ouro.",
+        "trecho": "colar do capitão"
+      },
+      {
+        "enunciado": "Onde ocorre a cena e quem a narra?",
+        "resposta": "Na nau do capitão. Narra Caminha, escrivão que se inclui entre os portugueses presentes."
+      },
+      {
+        "enunciado": "Como o uso de “nós” situa o ponto de vista de quem relata?",
+        "resposta": "Identifica o narrador com o grupo português; o leitor conhece as interpretações por essa perspectiva."
+      },
+      {
+        "enunciado": "O gesto em direção à terra comprova a existência de ouro? Explique.",
+        "resposta": "Não. O gesto é observado; a associação entre o gesto e a existência de ouro é uma interpretação dos portugueses."
+      },
+      {
+        "enunciado": "Que ideia o uso de “como se” introduz ao interpretar os acenos?",
+        "resposta": "Uma hipótese sobre o que o visitante pretendia comunicar."
+      },
+      {
+        "enunciado": "Na descrição da cena, a quem “eles” se refere quando entram na nau?",
+        "resposta": "Aos dois indígenas levados à presença do capitão."
+      },
+      {
+        "enunciado": "O que o comentário sobre o desejo dos portugueses permite inferir sobre o relato?",
+        "resposta": "O narrador reconhece que expectativas próprias interferem na interpretação de uma situação incerta."
+      },
+      {
+        "enunciado": "Qual é a função dos pormenores sobre objetos e alimentos no relato?",
+        "resposta": "Tornam o encontro concreto, mostram ações e reações e dão ao destinatário elementos para acompanhar a sequência."
+      },
+      {
+        "enunciado": "Por que faz sentido ler esse trecho como relato mesmo estando dentro de uma carta?",
+        "resposta": "Narra ações presenciadas, em sequência, para informar alguém que não estava no local."
+      },
+      {
+        "enunciado": "Compare esse trecho com a carta de Machado a Nabuco. O que muda na relação com o destinatário?",
+        "resposta": "Caminha presta contas ao rei sobre uma expedição. Machado escreve a um amigo e trata de assuntos pessoais.",
+        "leituras": [
+          "R002"
+        ]
+      }
+    ]
+  },
+  {
+    "genero": "Seminário",
+    "campo": "Estudo e pesquisa",
+    "ano": 8,
+    "icone": "🎙️",
+    "id": "R019",
+    "titulo": "Desafios da ciência e da inovação e a Fiocruz do futuro",
+    "fonte": {
+      "credito": "Fiocruz · 4º seminário preparatório do IX Congresso Interno, 10 de novembro de 2021",
+      "url": "https://www.youtube.com/watch?v=1Ys_cNhXVHk",
+      "nota": "Roteiro de escuta · veja a abertura e a exposição de Helena Nader. A síntese abaixo pode apoiar a tomada de notas.",
+      "complemento": {
+        "titulo": "Ler a síntese do seminário na Fiocruz",
+        "url": "https://cee.fiocruz.br/ciencia-inovacao-desenvolvimento-social-equidade-dialogo-nos-desafios-da-fiocruz-do-futuro/"
+      }
+    },
+    "texto": [
+      "Nísia Trindade Lima abre a discussão situando a Fiocruz em um projeto de ciência para o país. Ela associa desenvolvimento sustentável a equidade, democracia, ciência e inovação. Carlos Gadelha realiza a mediação do encontro.",
+      "Na exposição, Helena Nader recorre a uma linha do tempo de 1918 a 2019 para comparar crises sanitárias. A pesquisadora defende conectar saúde humana e ambiental e questiona como ampliar o acesso a tecnologias no SUS."
+    ],
+    "questoes": [
+      {
+        "enunciado": "Qual é o tema amplo anunciado no título do seminário?",
+        "resposta": "Os desafios da ciência e da inovação e sua relação com o futuro da Fiocruz."
+      },
+      {
+        "enunciado": "Quem apresenta e quem desenvolve a comparação entre crises sanitárias? Como se reconhece a troca de papéis na gravação?",
+        "resposta": "A presidência participa da abertura e a mediação, feita por Carlos Gadelha, organiza as falas. Helena Nader desenvolve a comparação em sua exposição. A apresentação dos participantes e a mudança de locutor mostram a transição."
+      },
+      {
+        "enunciado": "Como se distinguem a abertura e a exposição de Helena Nader no andamento do encontro?",
+        "resposta": "A abertura apresenta o tema e sua relevância. A exposição aprofunda um recorte com exemplos e argumentos."
+      },
+      {
+        "enunciado": "O que uma linha do tempo permite visualizar na exposição?",
+        "resposta": "A ordem dos episódios sanitários e o longo período em que ocorreram.",
+        "trecho": "uma linha do tempo de 1918 a 2019"
+      },
+      {
+        "enunciado": "Como a série de crises ajuda a argumentação da pesquisadora?",
+        "resposta": "Dá exemplos concretos para discutir o que se aprendeu com as crises e o que ainda falta nas políticas."
+      },
+      {
+        "enunciado": "No contexto da exposição, que ideia “saúde única” procura transmitir?",
+        "resposta": "A ligação entre diferentes dimensões da saúde, incluindo a humana e a ambiental."
+      },
+      {
+        "enunciado": "Dê um exemplo de fato registrado e um de avaliação da conferencista.",
+        "resposta": "A linha do tempo inclui a pandemia de 1918 e a Covid-19 a partir de 2019. A avaliação de que se aprendeu pouco em políticas é da conferencista."
+      },
+      {
+        "enunciado": "Que efeito tem formular uma pergunta sobre como levar novas tecnologias ao SUS?",
+        "resposta": "Abre uma questão para debate e chama atenção para obstáculos práticos de acesso."
+      },
+      {
+        "enunciado": "Por que ouvir representantes de áreas distintas combina com o objetivo do seminário?",
+        "resposta": "O problema envolve políticas, pesquisa, ambiente e acesso; perspectivas diferentes ajudam a examiná-lo."
+      },
+      {
+        "enunciado": "Por que o registro audiovisual é útil para estudar esse gênero?",
+        "resposta": "Preserva a alternância de falas, o papel da mediação e os recursos visuais usados na exposição."
+      }
+    ]
+  },
+  {
+    "genero": "Conto",
+    "campo": "Arte e literatura",
+    "ano": 8,
+    "icone": "🗝️",
+    "id": "R020",
+    "titulo": "Um apólogo",
+    "fonte": {
+      "credito": "Machado de Assis · Várias histórias, 1896",
+      "url": "https://pt.wikisource.org/wiki/Um_Ap%C3%B3logo",
+      "nota": "Síntese do conto de feição alegórica · acompanhe os diálogos e o desfecho no original."
+    },
+    "texto": [
+      "Agulha e linha discutem sobre qual realiza o trabalho mais importante. A agulha afirma abrir o caminho no pano, enquanto a linha alega que é ela quem permanece unindo as partes da roupa.",
+      "Depois da costura, a linha vai ao baile no vestido da baronesa e a agulha fica na caixa. Um alfinete comenta o ocorrido. No fim, o narrador conta o caso a um professor, que o relaciona à própria experiência."
+    ],
+    "questoes": [
+      {
+        "enunciado": "Que disputa dá início à narrativa?",
+        "resposta": "Agulha e linha disputam o reconhecimento pelo trabalho de costura."
+      },
+      {
+        "enunciado": "O que acontece com as duas depois que o vestido fica pronto?",
+        "resposta": "A linha permanece na roupa levada ao baile. A agulha volta à caixa.",
+        "trecho": "a linha vai ao baile no vestido da baronesa e a agulha fica na caixa"
+      },
+      {
+        "enunciado": "Qual argumento a agulha usa a favor da própria importância?",
+        "resposta": "Alega que abre o caminho no pano, sem o qual a linha não poderia passar."
+      },
+      {
+        "enunciado": "De que maneira a linha rebate a reivindicação da agulha?",
+        "resposta": "Salienta que fica no tecido e realiza a união que mantém a roupa costurada."
+      },
+      {
+        "enunciado": "Por que a presença da linha no baile é importante para entender a disputa?",
+        "resposta": "O baile mostra que o prestígio fica com quem aparece no resultado; o trabalho da agulha deixa de ser visível."
+      },
+      {
+        "enunciado": "Que efeito tem atribuir vaidade e fala a objetos de costura?",
+        "resposta": "Personifica os objetos e permite representar disputas humanas em uma cena cotidiana."
+      },
+      {
+        "enunciado": "Que marca separa a fala do professor dos acontecimentos entre os objetos?",
+        "resposta": "O narrador apresenta o professor como alguém a quem contou o caso; a fala dele pertence à moldura externa."
+      },
+      {
+        "enunciado": "O que “servir de agulha”, no sentido que o professor dá à história, quer dizer?",
+        "resposta": "Abrir caminho com seu trabalho para que outra pessoa colha a vantagem ou o reconhecimento."
+      },
+      {
+        "enunciado": "Onde se manifesta a ironia no destino da agulha?",
+        "resposta": "Ela reivindica protagonismo por abrir o caminho, mas fica esquecida quando o produto do trabalho recebe destaque."
+      },
+      {
+        "enunciado": "Que tema humano o conto desenvolve por meio da costura?",
+        "resposta": "A distribuição desigual de prestígio e recompensa entre quem torna um trabalho possível e quem dele se beneficia."
+      }
+    ]
+  },
+  {
+    "genero": "Crônica",
+    "campo": "Arte e literatura",
+    "ano": 8,
+    "icone": "🚌",
+    "id": "R021",
+    "titulo": "Crônica da Abolição",
+    "fonte": {
+      "credito": "Machado de Assis · série Bons Dias!, Gazeta de Notícias, maio de 1888",
+      "url": "https://pt.wikisource.org/wiki/Cr%C3%B4nica_da_Aboli%C3%A7%C3%A3o",
+      "nota": "Síntese da crônica · leia o episódio de Pancrácio na íntegra, incluindo a despedida final."
+    },
+    "texto": [
+      "O narrador diz que libertou Pancrácio antes da abolição legal. Oferece que ele permaneça em sua casa por um pagamento pequeno e descreve a continuidade das agressões mesmo após a alforria.",
+      "Ao revelar que quer tornar-se deputado, o narrador planeja transformar o episódio em propaganda de sua suposta grandeza, inclusive imaginando uma versão em que Pancrácio se torna professor."
+    ],
+    "questoes": [
+      {
+        "enunciado": "Que vantagem política o narrador espera obter ao divulgar seu gesto?",
+        "resposta": "Quer valorizar sua imagem junto aos eleitores e tornar-se deputado.",
+        "trecho": "quer tornar-se deputado"
+      },
+      {
+        "enunciado": "Qual contradição estrutura a experiência narrada depois da alforria?",
+        "resposta": "Pancrácio é declarado livre, mas continua submetido a baixos pagamentos e agressões."
+      },
+      {
+        "enunciado": "Por que a expressão “efeitos da liberdade”, depois de um peteleco, produz ironia?",
+        "resposta": "A expressão sugere uma conquista, mas é aplicada a uma agressão que revela a persistência da dominação."
+      },
+      {
+        "enunciado": "A condição de professor atribuída a Pancrácio é apresentada como fato consumado?",
+        "resposta": "Não. O narrador a inclui no plano de campanha e sinaliza que se trata de uma suposição."
+      },
+      {
+        "enunciado": "Que efeito tem inserir “simples suposição” entre parênteses?",
+        "resposta": "Interrompe a versão heroica e deixa o leitor perceber que um de seus detalhes foi imaginado."
+      },
+      {
+        "enunciado": "Como a reprodução das falas de Pancrácio marca diferenças entre as personagens?",
+        "resposta": "Dá ao diálogo vozes distintas e registra formas de tratamento e de fala situadas no contexto histórico e social."
+      },
+      {
+        "enunciado": "Por que o leitor deve desconfiar da autopresentação do narrador?",
+        "resposta": "O que ele considera benevolência contrasta com a violência que admite e com seu interesse eleitoral."
+      },
+      {
+        "enunciado": "Por que anunciar a alforria antes da lei é conveniente para o projeto eleitoral do narrador?",
+        "resposta": "Permite que ele se venda como generoso e adiantado em relação ao poder público."
+      },
+      {
+        "enunciado": "Que problema histórico e social a crônica coloca em foco?",
+        "resposta": "A persistência da exploração e da violência contra pessoas libertas após a mudança legal."
+      },
+      {
+        "enunciado": "Que diferença há entre a crítica nesta crônica e a crítica visual da charge de Agostini?",
+        "resposta": "A crônica deixa o narrador expor suas contradições por meio da fala. A charge contrapõe elogio aparente e cenas de violência.",
+        "leituras": [
+          "R025"
+        ]
+      }
+    ]
+  },
+  {
+    "genero": "Fábula",
+    "campo": "Arte e literatura",
+    "ano": 6,
+    "icone": "🐜",
+    "id": "R022",
+    "titulo": "A cigarra e a formiga",
+    "fonte": {
+      "credito": "Monteiro Lobato · Fábulas de Narizinho, edição de 1921, p. 7–10",
+      "url": "https://pt.wikisource.org/wiki/Fabulas_de_Narizinho/A_cigarra_e_a_formiga",
+      "nota": "Síntese das duas versões de Lobato · leia a passagem da formiga acolhedora e a da formiga que recusa ajuda."
+    },
+    "texto": [
+      "Quando as chuvas chegam, uma cigarra procura abrigo. Uma formiga a acolhe, lembrando que sua música alegrava o trabalho das vizinhas. A cigarra anima o formigueiro durante o período chuvoso.",
+      "O narrador conta em seguida um caso diferente, situado no inverno europeu: uma formiga recusa até emprestar alimento. A cigarra morre, e a primavera perde a contribuição de seu canto. No fim, o narrador compara artistas a cigarras."
+    ],
+    "questoes": [
+      {
+        "enunciado": "Que situação de conflito as duas versões têm em comum?",
+        "resposta": "A cigarra fica desamparada na estação ruim e pede ajuda à formiga."
+      },
+      {
+        "enunciado": "O que leva a primeira formiga a oferecer acolhimento?",
+        "resposta": "Ela se lembra de como o canto da cigarra distraía e aliviava o trabalho das formigas.",
+        "trecho": "sua música alegrava o trabalho das vizinhas"
+      },
+      {
+        "enunciado": "Que diferença há entre os desfechos?",
+        "resposta": "No primeiro, a cigarra é acolhida e retribui com sua música. No segundo, a ajuda é recusada e ela morre."
+      },
+      {
+        "enunciado": "Que posições sobre o valor do canto as duas formigas representam?",
+        "resposta": "Uma reconhece o canto como contribuição; a outra desconsidera seu valor, movida por avareza e inveja no relato."
+      },
+      {
+        "enunciado": "Que efeito tem apresentar insetos que conversam, trabalham e negociam?",
+        "resposta": "A personificação aproxima a história da vida humana e permite discutir solidariedade e valor da arte."
+      },
+      {
+        "enunciado": "Que efeito têm as reticências na resposta em que a cigarra diz que cantava?",
+        "resposta": "Encenam a hesitação e a dificuldade de responder em situação de fragilidade."
+      },
+      {
+        "enunciado": "Como a recusa de ajuda interfere no mundo da segunda versão?",
+        "resposta": "Sem alimento e abrigo, a cigarra morre; o canto faz falta na primavera."
+      },
+      {
+        "enunciado": "Que sentido ganha a comparação final entre artistas e cigarras?",
+        "resposta": "A arte traz ao convívio algo valioso, assim como o canto da cigarra dá alegria ou beleza ao ambiente."
+      },
+      {
+        "enunciado": "Que relação “entretanto” estabelece ao iniciar a segunda versão?",
+        "resposta": "Introduz contraste entre a formiga que acolhe e aquela que recusa ajuda."
+      },
+      {
+        "enunciado": "Como a estrutura em duas versões ajuda a construir a reflexão da fábula?",
+        "resposta": "Mostra os efeitos de duas atitudes diante da mesma necessidade e conduz a uma reflexão sobre a arte e a solidariedade."
+      }
+    ]
+  },
+  {
+    "genero": "Poema",
+    "campo": "Arte e literatura",
+    "ano": 7,
+    "icone": "🌧️",
+    "id": "R023",
+    "titulo": "Canção do Exílio",
+    "fonte": {
+      "credito": "Gonçalves Dias · Primeiros Cantos, 1846, p. 9–10",
+      "url": "https://pt.wikisource.org/wiki/Can%C3%A7%C3%A3o_do_Ex%C3%ADlio_(Gon%C3%A7alves_Dias)",
+      "nota": "Primeira estrofe em domínio público · grafia atualizada. Consulte o poema completo na fonte."
+    },
+    "texto": [
+      "Minha terra tem palmeiras,\nOnde canta o sabiá;\nAs aves, que aqui gorjeiam,\nNão gorjeiam como lá.",
+      "Na sequência, o poema retoma as lembranças da terra, amplia a comparação e termina com o desejo de voltar. A edição de referência registra Coimbra e julho de 1843 como lugar e data da composição."
+    ],
+    "questoes": [
+      {
+        "enunciado": "Quais elementos da natureza identificam a terra evocada no início?",
+        "resposta": "As palmeiras e o sabiá.",
+        "trecho": "Minha terra tem palmeiras,\nOnde canta o sabiá"
+      },
+      {
+        "enunciado": "A que lugares os advérbios “aqui” e “lá” remetem?",
+        "resposta": "“Aqui” indica o lugar onde a voz poética está. “Lá” indica a terra natal lembrada de longe."
+      },
+      {
+        "enunciado": "O que significa “gorjeiam”?",
+        "resposta": "Cantam ou emitem sons melodiosos, como as aves."
+      },
+      {
+        "enunciado": "Qual sentimento organiza o contraste entre os dois lugares?",
+        "resposta": "Saudade da terra natal, com desejo de retorno e visão afetiva de seu lugar de origem."
+      },
+      {
+        "enunciado": "Como a repetição dos versos sobre palmeiras e sabiá trabalha o tema?",
+        "resposta": "Faz essas imagens voltarem como refrão e reforça a lembrança insistente do lugar."
+      },
+      {
+        "enunciado": "Qual efeito produz repetir “mais” na segunda estrofe?",
+        "resposta": "Cria um ritmo acumulativo e atribui qualidades superiores à terra lembrada."
+      },
+      {
+        "enunciado": "Por que o poema pode sugerir uma imagem idealizada da terra?",
+        "resposta": "A voz poética seleciona qualidades, faz comparações favoráveis e vê a paisagem pela distância e pelo afeto."
+      },
+      {
+        "enunciado": "Como a disposição em versos ajuda a perceber a aproximação sonora entre “sabiá” e “lá”?",
+        "resposta": "As palavras ocupam finais de verso. A posição em destaque facilita perceber a rima."
+      },
+      {
+        "enunciado": "Como a oração final muda o modo de expressar o sentimento?",
+        "resposta": "O poema passa da evocação de imagens a um pedido explícito para que seja possível voltar."
+      },
+      {
+        "enunciado": "Como o poema exprime saudade de modo diferente do verbete do acervo?",
+        "resposta": "O verbete explica a palavra por definições. O poema faz sentir a ausência por imagens, refrão e contraste entre lugares.",
+        "leituras": [
+          "R017"
+        ]
+      }
+    ]
+  },
+  {
+    "genero": "Tirinha",
+    "campo": "Arte e literatura",
+    "ano": 7,
+    "icone": "💭",
+    "id": "R024",
+    "titulo": "Peanuts: felicidade e um cachorro quentinho",
+    "fonte": {
+      "credito": "Charles M. Schulz · tira de 25 de abril de 1960, seleção de favoritas do GoComics",
+      "url": "https://featureassets.gocomics.com/assets/ba30f050f87d013014e9001dd8b71c47?optimizer=image&quality=85&width=1200",
+      "nota": "Roteiro e apoio de vocabulário em português · abra a tira publicada para observar os quatro quadros.",
+      "complemento": {
+        "titulo": "Consultar a publicação no GoComics",
+        "url": "https://www.gocomics.com/peanuts/1960/04/25"
+      }
+    },
+    "texto": [
+      "Lucy se aproxima de Snoopy. Ela acaricia o cão, abraça-o e, ao sair, expressa uma ideia de felicidade ligada ao contato com um cachorro quentinho. O original está em inglês."
+    ],
+    "questoes": [
+      {
+        "enunciado": "Quem aparece na tira?",
+        "resposta": "Lucy e o cachorro Snoopy."
+      },
+      {
+        "enunciado": "Que mudança nas ações de Lucy se vê do primeiro ao terceiro quadro?",
+        "resposta": "Ela primeiro se aproxima, depois acaricia o cachorro e por fim o abraça.",
+        "trecho": "acaricia o cão, abraça-o"
+      },
+      {
+        "enunciado": "O que a expressão de Lucy antes da última fala sugere?",
+        "resposta": "Ela demonstra conforto, prazer ou afeto ao interagir com Snoopy."
+      },
+      {
+        "enunciado": "Que função têm as reticências no final da última frase?",
+        "resposta": "Sugerem prolongamento e deixam ressoar a observação da personagem."
+      },
+      {
+        "enunciado": "Que efeito o “MMMM!” tem no momento do abraço?",
+        "resposta": "Registra um som de satisfação que contribui para mostrar o sentimento antes da explicação verbal."
+      },
+      {
+        "enunciado": "Que ideia de felicidade a tira propõe pela fala da personagem?",
+        "resposta": "A felicidade pode ser sentida em um gesto simples de afeto e conforto."
+      },
+      {
+        "enunciado": "Qual quadro interpreta explicitamente os gestos construídos antes?",
+        "resposta": "O último, quando Lucy verbaliza o que a experiência significou para ela."
+      },
+      {
+        "enunciado": "Como a tira conta uma pequena história em tão poucos quadros?",
+        "resposta": "Seleciona uma ação simples, marca sua progressão por imagens e fecha com uma fala que dá sentido aos gestos."
+      },
+      {
+        "enunciado": "Como o abraço ajuda a compreender o sentido de “warm” no original?",
+        "resposta": "O contato corporal remete tanto ao calor físico quanto à sensação afetiva de aconchego."
+      },
+      {
+        "enunciado": "Em relação a uma frase isolada sobre felicidade, o que a sequência de imagens acrescenta?",
+        "resposta": "Mostra de onde vem a ideia: a aproximação, o carinho e o abraço que a frase interpreta."
+      }
+    ]
+  },
+  {
+    "genero": "Charge",
+    "campo": "Imprensa",
+    "ano": 9,
+    "icone": "☀️",
+    "id": "R025",
+    "titulo": "Cenas da escravidão",
+    "fonte": {
+      "credito": "Angelo Agostini · Revista Illustrada, n. 427, 18 de fevereiro de 1886",
+      "url": "https://commons.wikimedia.org/wiki/File:SCENAS_da_escravid%C3%A3o_patrocinadas_pelo_partido_da_Ordem,_sob_o_glorioso_e_s%C3%A1bio_reinado_do_Senhor_D._Pedro_11_o_Grande..._Revista_Ilustrada,_Rio_de_Janei-_ro,_n._427,_18_fev._1886.jpg",
+      "nota": "Charge histórica em domínio público · a página contém representações de violência escravista."
+    },
+    "texto": [
+      "A composição reúne cenas acompanhadas por legendas, sob um título que faz um elogio aparente ao reinado de D. Pedro II e menciona o partido da Ordem. A publicação ocorreu dois anos antes da abolição legal da escravidão no Brasil.",
+      "Observe como o título orienta a leitura da página e como as imagens, que incluem coerção e aprisionamento, entram em choque com suas palavras."
+    ],
+    "questoes": [
+      {
+        "enunciado": "Que instituição a charge tematiza e qual governante menciona?",
+        "resposta": "A escravidão e o reinado de D. Pedro II."
+      },
+      {
+        "enunciado": "Que sinais visuais de coerção aparecem no conjunto?",
+        "resposta": "Há pessoas sendo transportadas sob controle de guardas, pessoas amarradas e uma cena com grades."
+      },
+      {
+        "enunciado": "Por que “glorioso e sábio” pode ser lido de modo irônico?",
+        "resposta": "O elogio aparente é desmentido pelos atos violentos representados sob aquele reinado.",
+        "trecho": "faz um elogio aparente ao reinado de D. Pedro II"
+      },
+      {
+        "enunciado": "O que a multiplicação de episódios acrescenta à crítica?",
+        "resposta": "Apresenta um padrão de violência em várias situações e torna mais difícil reduzir as cenas a um caso isolado."
+      },
+      {
+        "enunciado": "Que finalidade a composição realiza no contexto da imprensa ilustrada?",
+        "resposta": "Denunciar a violência escravista e criticar as forças políticas associadas à sua continuidade."
+      },
+      {
+        "enunciado": "Por que a data de 1886 ajuda a interpretar a intenção da peça?",
+        "resposta": "Mostra que a charge circulou enquanto a escravidão ainda existia legalmente, no contexto da disputa abolicionista."
+      },
+      {
+        "enunciado": "Que sentido adquire “patrocinadas” quando ligado às cenas violentas?",
+        "resposta": "Acusa grupos políticos de acobertar, favorecer ou sustentar as práticas denunciadas."
+      },
+      {
+        "enunciado": "Qual o papel das legendas na montagem?",
+        "resposta": "Identificam circunstâncias de episódios particulares e ajudam a interpretar detalhes que a imagem não esclarece sozinha."
+      },
+      {
+        "enunciado": "Que cuidado o leitor deve ter antes de usar toda cena ilustrada como prova de um fato específico?",
+        "resposta": "Reconhecer a intenção crítica e a mediação do desenho; é preciso confrontá-la com outros registros para confirmar cada episódio."
+      },
+      {
+        "enunciado": "Como a ironia desta charge difere da usada na Crônica da Abolição?",
+        "resposta": "Aqui o contraste se dá entre o título elogioso e o conjunto de imagens. Na crônica emerge da fala do narrador e de sua conduta.",
+        "leituras": [
+          "R021"
+        ]
+      }
+    ],
+    "visual": {
+      "tipo": "imagem",
+      "titulo": "Cenas da escravidão · página original",
+      "arquivo": "agostini-1886.jpg",
+      "alt": "Ilustrações em fileiras mostram transporte vigiado, aprisionamento e outras violências escravistas. O título faz um elogio aparente ao reinado de D. Pedro II."
+    }
+  },
+  {
+    "genero": "História em quadrinhos",
+    "campo": "Arte e literatura",
+    "ano": 8,
+    "icone": "🚲",
+    "id": "R026",
+    "titulo": "Little Nemo in Slumberland: a primeira aventura",
+    "fonte": {
+      "credito": "Winsor McCay · New York Herald, 15 de outubro de 1905",
+      "url": "https://commons.wikimedia.org/wiki/File:Little_Nemo_1905-10-15.jpg",
+      "nota": "Página de HQ em domínio público · roteiro de leitura em português. A imagem mantém o inglês original."
+    },
+    "texto": [
+      "Um mensageiro convida Nemo a visitar o rei Morfeu. O menino monta Somnus, recebe recomendações de cuidado e é desafiado por um canguru verde para uma corrida. A montaria dispara e tropeça em uma estrela.",
+      "Nemo despenca pelo espaço em vários quadros. No último, ele desperta e cai da cama. Observe a numeração embaixo dos quadros e a diferença entre os cenários do começo, da viagem e do fim."
+    ],
+    "questoes": [
+      {
+        "enunciado": "Quem pede a presença de Nemo no mundo dos sonhos?",
+        "resposta": "O rei Morfeu, por meio de seu mensageiro."
+      },
+      {
+        "enunciado": "Qual desafio muda o rumo da viagem?",
+        "resposta": "Um canguru verde desafia Nemo para uma corrida, o que desencadeia a perda de controle da montaria."
+      },
+      {
+        "enunciado": "Como os quadros finais mostram a passagem do tempo durante a queda?",
+        "resposta": "A repetição de Nemo em posições diferentes distribui a queda em vários instantes."
+      },
+      {
+        "enunciado": "O que provoca a separação entre Nemo e a montaria?",
+        "resposta": "Somnus tropeça em uma estrela e Nemo perde sua sustentação na sela.",
+        "trecho": "A montaria dispara e tropeça em uma estrela"
+      },
+      {
+        "enunciado": "Como o último quadro muda a interpretação dos anteriores?",
+        "resposta": "A volta à cama indica que a viagem fantástica pertencia a um sonho e relaciona a queda sonhada à queda física."
+      },
+      {
+        "enunciado": "Como o leitor sabe em que ordem acompanhar os quadros da página?",
+        "resposta": "As fileiras guiam a leitura da esquerda para a direita e de cima para baixo. Os números reforçam a sequência."
+      },
+      {
+        "enunciado": "Que efeito produzem as exclamações de Nemo enquanto ele cai?",
+        "resposta": "Dão urgência e intensidade ao medo que a imagem mostra."
+      },
+      {
+        "enunciado": "Como as legendas de narração ajudam onde a imagem sozinha poderia deixar dúvidas?",
+        "resposta": "Explicam eventos como o convite, a motivação para aceitar o desafio e o despertar."
+      },
+      {
+        "enunciado": "Que efeito visual cria a passagem de cenários claros para o céu escuro da queda? Cite uma pista da imagem.",
+        "resposta": "Diferencia o ambiente ameaçador da queda e salienta o deslocamento de Nemo contra o fundo."
+      },
+      {
+        "enunciado": "Compare o desfecho desta HQ com o da tirinha de Peanuts. Como cada final reorganiza a leitura?",
+        "resposta": "Em Nemo, a cama revela que a aventura era um sonho. Em Peanuts, a última fala formula o sentido da sequência de carinho.",
+        "leituras": [
+          "R024"
+        ]
+      }
+    ],
+    "visual": {
+      "tipo": "imagem",
+      "titulo": "Primeira página publicada de Little Nemo in Slumberland",
+      "arquivo": "little-nemo.jpg",
+      "alt": "Página colorida. Nemo encontra um mensageiro perto da cama, viaja a cavalo, participa de uma corrida, cai por vários quadros pelo céu escuro e acorda ao cair da cama."
+    }
+  },
+  {
     "id": "N001",
     "genero": "Manual",
     "titulo": "Como montar um marcador de canto",
@@ -26,7 +1743,8 @@
         "resposta": "A razão para preferir papel fino: o papel grosso dificulta a dobra.",
         "trecho": "pois o papel grosso dificulta a última dobra."
       }
-    ]
+    ],
+    "arquivo": true
   },
   {
     "id": "N002",
@@ -56,7 +1774,8 @@
         "enunciado": "Como o texto revela proximidade entre remetente e destinatária?",
         "resposta": "Usa o primeiro nome, a expressão informal “a gente” e a despedida “Um abraço apertado”."
       }
-    ]
+    ],
+    "arquivo": true
   },
   {
     "id": "N003",
@@ -85,7 +1804,8 @@
         "enunciado": "Que função tem a expressão “Segundo a coordenação”?",
         "resposta": "Identifica a fonte da justificativa apresentada para a mudança."
       }
-    ]
+    ],
+    "arquivo": true
   },
   {
     "id": "N004",
@@ -113,7 +1833,8 @@
         "enunciado": "Que efeito tem começar pela cena de Izabel em vez dos números?",
         "resposta": "A cena aproxima o leitor da experiência cotidiana antes de apresentar os dados e a explicação."
       }
-    ]
+    ],
+    "arquivo": true
   },
   {
     "id": "N005",
@@ -141,7 +1862,8 @@
         "enunciado": "Qual relação “No entanto” estabelece?",
         "resposta": "Apresenta uma resposta que se opõe à ideia de que a proposta desperdiça espaço."
       }
-    ]
+    ],
+    "arquivo": true
   },
   {
     "id": "N006",
@@ -170,7 +1892,8 @@
         "enunciado": "Como a carta constrói uma crítica respeitosa?",
         "resposta": "Reconhece o mérito da reportagem, propõe uma nova escuta e mantém uma despedida formal."
       }
-    ]
+    ],
+    "arquivo": true
   },
   {
     "id": "N007",
@@ -199,7 +1922,8 @@
         "enunciado": "Quais dados e argumentos sustentam a urgência?",
         "resposta": "A passarela atende estudantes e trabalhadores e o desvio acrescenta vinte minutos de caminhada."
       }
-    ]
+    ],
+    "arquivo": true
   },
   {
     "id": "N008",
@@ -227,7 +1951,8 @@
         "enunciado": "Como o destaque no título ajuda quem vê a peça de passagem?",
         "resposta": "Permite identificar o evento rapidamente antes de ler data, local e regras."
       }
-    ]
+    ],
+    "arquivo": true
   },
   {
     "id": "N009",
@@ -269,7 +1994,8 @@
           "Uma garrafa reutilizável"
         ]
       ]
-    }
+    },
+    "arquivo": true
   },
   {
     "id": "N010",
@@ -316,7 +2042,8 @@
           "final_de_verdade_2.docx"
         ]
       ]
-    }
+    },
+    "arquivo": true
   },
   {
     "id": "N011",
@@ -344,7 +2071,8 @@
         "enunciado": "Qual é a finalidade de comunicar um dano no recebimento?",
         "resposta": "Registrar que o dano já existia e permitir que a equipe avalie o estado do instrumento."
       }
-    ]
+    ],
+    "arquivo": true
   },
   {
     "id": "N012",
@@ -372,7 +2100,8 @@
         "resposta": "Porque o som ajuda a ligar tempos diferentes e é um dos méritos destacados na avaliação.",
         "trecho": "o som de uma porta real mistura passado e presente"
       }
-    ]
+    ],
+    "arquivo": true
   },
   {
     "id": "N013",
@@ -399,7 +2128,8 @@
         "enunciado": "Na proposta final, identifique quem age, qual ação realiza e para quê.",
         "resposta": "A direção e o grêmio analisam as sugestões e publicam decisões justificadas para que estudantes acompanhem o efeito da participação."
       }
-    ]
+    ],
+    "arquivo": true
   },
   {
     "id": "N014",
@@ -448,7 +2178,8 @@
           29
         ]
       ]
-    }
+    },
+    "arquivo": true
   },
   {
     "id": "N015",
@@ -501,7 +2232,8 @@
           "Oficina"
         ]
       ]
-    }
+    },
+    "arquivo": true
   },
   {
     "id": "N016",
@@ -550,7 +2282,8 @@
           "Aplique o adubo na horta"
         ]
       ]
-    }
+    },
+    "arquivo": true
   },
   {
     "id": "N017",
@@ -578,7 +2311,8 @@
         "enunciado": "Que função cumpre o último parágrafo?",
         "resposta": "Apresenta uma extensão de uso da palavra para ações organizadas de atendimento intensivo."
       }
-    ]
+    ],
+    "arquivo": true
   },
   {
     "id": "N018",
@@ -605,7 +2339,8 @@
         "resposta": "Os verbos em primeira pessoa, como “acompanhei”, e o relato da anotação no próprio caderno.",
         "trecho": "acompanhei a turma ao riacho do Cedro"
       }
-    ]
+    ],
+    "arquivo": true
   },
   {
     "id": "N019",
@@ -633,7 +2368,8 @@
         "resposta": "A saudação, comandos ao público, menção às fotos e convite às perguntas.",
         "trecho": "Agora, queremos ouvir as perguntas de vocês."
       }
-    ]
+    ],
+    "arquivo": true
   },
   {
     "id": "N020",
@@ -661,7 +2397,8 @@
         "enunciado": "Como o último detalhe reforça a explicação do homem?",
         "resposta": "A colher confirma o hábito da gata de pegar objetos brilhantes."
       }
-    ]
+    ],
+    "arquivo": true
   },
   {
     "id": "N021",
@@ -689,7 +2426,8 @@
         "enunciado": "O que significa dizer que o banco fez metade das apresentações?",
         "resposta": "A presença ou ausência habitual do passageiro criou laços e motivou a conversa."
       }
-    ]
+    ],
+    "arquivo": true
   },
   {
     "id": "N022",
@@ -717,7 +2455,8 @@
         "enunciado": "Explique a lição proposta pelo último período.",
         "resposta": "Contribuições diferentes podem ser igualmente valiosas, conforme a necessidade."
       }
-    ]
+    ],
+    "arquivo": true
   },
   {
     "id": "N023",
@@ -744,7 +2483,8 @@
         "resposta": "A poça reflete o céu e faz uma parte do mundo parecer caber em uma superfície pequena.",
         "trecho": "Na poça, o céu perde o chão."
       }
-    ]
+    ],
+    "arquivo": true
   },
   {
     "id": "N024",
@@ -786,7 +2526,8 @@
           "BIP! BIP! O alarme de Rui toca."
         ]
       ]
-    }
+    },
+    "arquivo": true
   },
   {
     "id": "N025",
@@ -826,7 +2567,8 @@
           "Dois moradores se espremem na pequena sombra projetada pela placa."
         ]
       ]
-    }
+    },
+    "arquivo": true
   },
   {
     "id": "N026",
@@ -868,6 +2610,7 @@
           "Luísa: “Vou mandar a localização para a equipe.”"
         ]
       ]
-    }
+    },
+    "arquivo": true
   }
 ]
