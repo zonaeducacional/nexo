@@ -7,13 +7,21 @@
     "id": "R001",
     "titulo": "Higienização das mãos em serviços de alimentação",
     "fonte": {
-      "credito": "Anvisa · Cartilha sobre boas práticas para serviços de alimentação, cap. 10, p. 25–27",
+      "credito": "Anvisa · Cartilha sobre boas práticas para serviços de alimentação, 3ª ed., cap. 10, p. 25–28",
       "url": "https://www.gov.br/anvisa/pt-br/centraisdeconteudo/publicacoes/alimentos/manuais-guias-e-orientacoes/cartilha-boas-praticas-para-servicos-de-alimentacao.pdf/@@download/file#page=25",
-      "nota": "Roteiro de leitura · consulte as instruções e ilustrações no capítulo indicado."
+      "nota": "Capítulo em texto integral. Ilustrações de Ricardo Jaime Sousa Santos.",
+      "integral": true,
+      "permissao": {
+        "nome": "Reprodução com crédito, sem comercialização",
+        "url": "https://www.gov.br/anvisa/pt-br/centraisdeconteudo/publicacoes/alimentos/manuais-guias-e-orientacoes/cartilha-boas-praticas-para-servicos-de-alimentacao.pdf/@@download/file#page=2"
+      }
     },
     "texto": [
-      "O capítulo é dirigido a quem manipula alimentos. A instrução começa com água corrente e segue para a fricção com sabonete, incluindo a palma, o dorso, as unhas e os espaços entre os dedos.",
-      "A sequência continua com o enxágue e a secagem. Na orientação específica da cartilha, a aplicação de antisséptico aparece como o último passo. Os desenhos mostram as ações e um esquema separado indica regiões das mãos que costumam ficar esquecidas."
+      "Você lava as mãos corretamente?",
+      "Para lavagem correta das mãos siga os seguintes passos:",
+      "1. Utilize a água corrente para molhar as mãos;\n2. Esfregue a palma e o dorso das mãos com sabonete, inclusive as unhas e os espaços entre os dedos, por aproximadamente 15 segundos;\n3. Enxágüe bem com água corrente retirando todo o sabonete;\n4. Seque-as com papel toalha ou outro sistema de secagem eficiente;\n5. Esfregue as mãos com um pouco de produto anti-séptico.",
+      "Atenção!\nAo lavar as mãos, fique atento a alguns cuidados:\n- esfregar todas as regiões das mãos (veja a ilustração ao lado com as áreas normalmente esquecidas);\n- secar bem as mãos após a lavagem usando papel-toalha ou outro sistema de secagem eficiente.",
+      "Finalmente suas mãos estão limpas e prontas para manipular os alimentos!"
     ],
     "questoes": [
       {
@@ -46,7 +54,7 @@
         "resposta": "O imperativo dirige a ação ao leitor e dá às frases valor de instrução."
       },
       {
-        "enunciado": "O que as cores do esquema da página 27 informam que as figuras da página 25 não mostram sozinhas?",
+        "enunciado": "O que as cores do esquema das áreas das mãos informam que as figuras com os cinco passos não mostram sozinhas?",
         "resposta": "As cores distinguem zonas da mão conforme a frequência com que ficam esquecidas; as outras imagens mostram como executar os passos."
       },
       {
@@ -57,7 +65,13 @@
         "enunciado": "Que elementos indicam que o destinatário é um manipulador de alimentos?",
         "resposta": "O contexto da cartilha de boas práticas e o vínculo final entre a lavagem e a manipulação dos alimentos."
       }
-    ]
+    ],
+    "visual": {
+      "tipo": "imagem",
+      "titulo": "Passos da lavagem e áreas frequentemente esquecidas",
+      "arquivo": "anvisa-higienizacao.jpg",
+      "alt": "Cinco desenhos ilustram molhar, ensaboar, enxaguar, secar e passar antisséptico. O esquema das mãos indica em laranja áreas frequentemente esquecidas, em azul áreas pouco esquecidas e em bege as áreas não esquecidas."
+    }
   },
   {
     "genero": "Carta pessoal",
@@ -69,18 +83,27 @@
     "fonte": {
       "credito": "Machado de Assis · Revista do Brasil, seção Cartas Inéditas",
       "url": "https://pt.wikisource.org/wiki/Revista_do_Brasil/Volume_5/N%C3%BAmero_17/Cartas_In%C3%A9ditas",
-      "nota": "Síntese e expressões da carta · localize a carta de 6 de dezembro de 1904."
+      "nota": "Carta integral, com a grafia da edição.",
+      "integral": true,
+      "permissao": {
+        "nome": "Domínio público",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/deed.pt-br"
+      }
     },
     "texto": [
-      "Rio de Janeiro, 6 de dezembro de 1904. “Meu caro Nabuco.”",
-      "Machado já ia responder à carta de outubro quando recebeu outra, de novembro, sobre a morte de Carolina. Agradece ao amigo pelos conselhos e palavras de animação que lê repetidamente, apesar de se sentir doente e sem forças.",
-      "Ao se despedir, pede compreensão pela insistência e manda um “abraço amantíssimo”."
+      "Rio de Janeiro, 6 de Dezembro de 1904.",
+      "Meu caro Nabuco.",
+      "Quando ia responder a sua carta de 8 de Outubro, aqui chegada depois da morte da minha querida Carolina, trouxe-me o correio outra de 17 de Novembro, a respeito desta catastrophe. A nova carta veiu com palavras de animação, quaes poderiam ser ditas por V. São ellas cabaes e verdadeiras. Ha só um ponto, meu grande amigo: é que as lê e relê um velho homem sem forças, radicalmente enfermo. Farei o que puder para obedecer ao preceito da amizade e da bondade. Ainda uma vez obrigado!",
+      "Indo a carta anterior dir-lhe-ei que a inscripção para a academia terminou a trinta de novembro e os candidatos são o Osorio Duque Estrada, o Vicente de Carvalho e o Souza Bandeira. A candidatura do Jaceguay não appareceu; tive mesmo occasião de ouvir a este que se não apresentaria. Quanto ao Quintino não fallou a ninguém. A sua theoria das supeioridades é boa; os nomes citados são dignos, elles é que parecem recuar. Estou de accôrdo com o que V. me escreve ácerca do Assis Brazil, mas também este não se apresentou. A eleição entre os inscriptos, tem de ser feita na primeira quinzena de fevereiro. Estou prompto a servir a V. como guarda da consciência litteraria, por mais bisonho que possa ser. Ha tempo para receber as suas ordens e a sua cédula.",
+      "Adeus, meu caro amigo. Tenho estado com o nosso Graça Aranha, que trata de estabelecer casa em Petropolis, onde vae trabalhar official e litterariamente; ouvi falar de outro livro, que, para ser bello, não precisa mais que a filiação de Chanaan. O Verissimo está de ha muito restaurado. Eu, se viver do grande golpe, não o deverei menos a V. e ás suas bellas palavras, para o unico fim de resistir; não é que a vida em si me valha muito.",
+      "Releve-me a insistencia, e receba um abraço amantissimo do amigo velho",
+      "MACHADO DE ASSIS."
     ],
     "questoes": [
       {
         "enunciado": "Em que cidade e data a carta foi escrita?",
         "resposta": "No Rio de Janeiro, em 6 de dezembro de 1904.",
-        "trecho": "Rio de Janeiro, 6 de dezembro de 1904"
+        "trecho": "Rio de Janeiro, 6 de Dezembro de 1904"
       },
       {
         "enunciado": "Que ocasião leva Machado a iniciar a carta com um agradecimento?",
@@ -89,7 +112,7 @@
       {
         "enunciado": "A que fato a expressão “desta catástrofe” se refere?",
         "resposta": "À morte de Carolina.",
-        "trecho": "sobre a morte de Carolina"
+        "trecho": "depois da morte da minha querida Carolina"
       },
       {
         "enunciado": "Quais duas formas de tratamento marcam a proximidade entre os correspondentes?",
@@ -112,7 +135,7 @@
         "resposta": "Realça a emoção e a ênfase com que o remetente agradece."
       },
       {
-        "enunciado": "Que efeito o sufixo em “amantíssimo” produz na despedida?",
+        "enunciado": "Que efeito o sufixo em “amantissimo” produz na despedida?",
         "resposta": "Intensifica a ideia de afeto no abraço enviado."
       },
       {
@@ -131,7 +154,7 @@
     "fonte": {
       "credito": "Ministério do Planejamento / IBGE · 28 de junho de 2023",
       "url": "https://www.gov.br/planejamento/pt-br/assuntos/noticias/2023/junho/de-2010-a-2022-populacao-brasileira-cresce-6-5-e-chega-a-203-1-milhoes",
-      "nota": "Síntese e dados da notícia · abra a publicação para conferir o lide e as imagens.",
+      "nota": "Material de apoio · síntese da notícia e dos dados da publicação.",
       "complemento": {
         "titulo": "Consultar o relatório do IBGE",
         "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102011.pdf"
@@ -139,7 +162,8 @@
     },
     "texto": [
       "Os primeiros resultados do Censo Demográfico registraram 203.062.512 habitantes em 1º de agosto de 2022, aproximadamente 12,3 milhões a mais do que em 2010. O crescimento acumulado no intervalo foi de 6,5%.",
-      "A taxa média anual de crescimento foi de 0,52%, a menor da série dos censos desde 1872. A notícia também apresenta comparações por recorte geográfico."
+      "A taxa média anual de crescimento foi de 0,52%, a menor da série dos censos desde 1872. A notícia também apresenta comparações por recorte geográfico.",
+      "A manchete resume a variação e arredonda o total para 203,1 milhões. A abertura apresenta o número exato e o situa na data de referência. Na sequência, a notícia atribui esses dados ao Censo do IBGE, divulgado em 28 de junho de 2023."
     ],
     "questoes": [
       {
@@ -198,7 +222,7 @@
     "fonte": {
       "credito": "Agência Brasil · 3 de maio de 2024",
       "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2024-05/censo-2022-populacao-quilombola-tem-perfil-jovem-e-maioria-masculina",
-      "nota": "Síntese da reportagem · observe as comparações demográficas na publicação.",
+      "nota": "Material de apoio · síntese da reportagem e das comparações demográficas.",
       "complemento": {
         "titulo": "Ver os dados no IBGE",
         "url": "https://educa.ibge.gov.br/jovens/conheca-o-brasil/populacao/22327-quilombolas.html"
@@ -206,7 +230,8 @@
     },
     "texto": [
       "A reportagem examina os primeiros dados censitários de idade e sexo da população quilombola. O perfil é comparado com o conjunto da população do Brasil.",
-      "A idade mediana da população quilombola é de 31 anos, ante 35 anos no conjunto do país. Homens são ligeira maioria na população quilombola, enquanto mulheres são maioria na população total do Brasil."
+      "A idade mediana da população quilombola é de 31 anos, ante 35 anos no conjunto do país. Homens são ligeira maioria na população quilombola, enquanto mulheres são maioria na população total do Brasil.",
+      "O levantamento sobre o perfil etário e o sexo foi divulgado em 3 de maio de 2024. Para entender a mediana, imagine as idades enfileiradas da menor para a maior: ela indica o ponto que separa a metade mais jovem da metade mais velha. A reportagem usa a mesma medida para comparar os dois grupos."
     ],
     "questoes": [
       {
@@ -265,11 +290,47 @@
     "fonte": {
       "credito": "Ricardo Queiroz Pinheiro · Jornal da USP, 13 de novembro de 2025",
       "url": "https://jornal.usp.br/artigos/a-porta-entreaberta-bibliotecas-publicas-e-a-crise-do-leitor-no-brasil/",
-      "nota": "Síntese do artigo · leia a abertura e a discussão sobre o Paradoxo da Porta Aberta no original."
+      "nota": "Texto integral do artigo. Reprodução com crédito ao autor e ao Jornal da USP.",
+      "integral": true,
+      "permissao": {
+        "nome": "Política de uso do Jornal da USP",
+        "url": "https://jornal.usp.br/artigos/a-porta-entreaberta-bibliotecas-publicas-e-a-crise-do-leitor-no-brasil/"
+      }
     },
     "texto": [
-      "O autor escreve a partir da experiência de bibliotecário. Para ele, a oferta digital de livros não resolve por si só as desigualdades de acesso e a falta de mediação de leitura. Bibliotecas públicas são espaços de convivência, permanência e acesso cultural.",
-      "O texto vê um paradoxo entre a promessa de acesso universal e a precariedade que impede a continuidade desse acesso. O autor menciona usos como estudar e abrigar-se, assim como a situação de moradores de áreas sem bibliotecas."
+      "Escrevi este texto para não esquecer e não deixar morrer o bibliotecário de biblioteca pública que sou.",
+      "Há quanto tempo você não entra numa biblioteca?",
+      "Talvez faça anos. Talvez nem se lembre da última vez. Ou talvez nunca tenha tido uma por perto. Para alguns, a palavra ainda desperta a imagem de um prédio silencioso, estantes altas, o cheiro bom do papel. Para outros, é uma lembrança escolar, meio apagada, de um lugar que parecia distante.",
+      "Há também quem nunca tenha cruzado aquela porta, mas guarde uma ideia vaga — de que ali dentro mora algo que o País deixou de cuidar.",
+      "A verdade é que cada um de nós tem uma biblioteca na memória, mesmo que imaginária. E talvez seja justamente essa lembrança difusa, esse eco de um espaço comum, que nos ajude a entender o que estamos perdendo quando elas desaparecem. O Brasil vive um apagamento que não se resume a estatísticas: é o esvaziamento de um vínculo cultural.",
+      "Em pouco mais de uma década, o País viu fechar centenas de bibliotecas públicas e minguar o número de leitores. A perda é silenciosa, mas corrosiva. Quando uma sociedade desmonta os lugares que garantem o direito à palavra, ela não apenas empobrece intelectualmente — ela desarma a si mesma. O que está em jogo não é o futuro do livro, mas o da própria ideia de cidadania.",
+      "Por trás desse esvaziamento há algo mais profundo do que desinteresse. Há uma falha de continuidade. O Brasil sempre reconheceu a importância das bibliotecas, mas de modo intermitente — um reconhecimento que se renova a cada governo e se desfaz logo depois. São políticas que começam com entusiasmo e terminam em silêncio e sucateamento.",
+      "A Promessa da Porta Aberta foi repetida em planos, discursos e leis, mas raramente transformada em compromisso duradouro. O resultado é uma história marcada pela descontinuidade: cada avanço é seguido de um esquecimento, cada inauguração, de um abandono e portas que se fecham mesmo quando supostamente abertas.",
+      "Chamo de Promessa da Porta Aberta essa ideia que atravessa gerações: a biblioteca como espaço de todos, livre, acessível, um território onde o conhecimento circula sem barreiras. Mas a realidade sempre foi menos generosa. Em torno dessa promessa formou-se um paradoxo que nunca deixou de nos acompanhar — portas abertas, usos limitados.",
+      "No Brasil, essa contradição ganhou forma própria: bibliotecas que sobrevivem entre o reconhecimento simbólico e o desamparo material, sustentadas mais por continuidades afetivas do que por políticas públicas consistentes. Vivem de atos heroicos e evocações vazias. Mesmo assim, há algo nelas que resiste: um modo de estar junto, de partilhar o tempo, de inventar sociabilidades. Um público teimoso e renitente — é o que penso como lugar de leituras, não o prédio, mas a experiência viva que acontece quando alguém, qualquer um, atravessa a porta e decide ficar.",
+      "Mas esse modo de resistência, feito de brechas e persistências, começa a ser engolido por uma maré mais ampla. O esvaziamento das bibliotecas já não se expressa apenas na precariedade dos prédios ou na falta de verbas, mas na erosão simbólica da leitura como valor público. O que antes era uma falha institucional tornou-se um fenômeno social.",
+      "A erosão não é mais percebida apenas por quem vive o cotidiano das bibliotecas. Ela já chegou ao discurso público, atravessou o noticiário e entrou nas estatísticas oficiais. O Senado divulgou, em outubro, um levantamento alarmante sobre o estado da leitura no País: mais da metade dos brasileiros — 53% — já não se considera leitor. E entre os que ainda leem, cresce o analfabetismo funcional — gente que reconhece as palavras, mas não alcança o sentido. O País que um dia associou leitura à emancipação agora convive com uma geração que lê sem compreender, informada por telas e desamparada de mediação.",
+      "O dado mais simbólico, talvez, seja outro: apenas 5% dos entrevistados afirmaram ter na biblioteca pública sua principal forma de acesso a livros. O restante busca alternativas pagas, digitais ou simplesmente se afastou do hábito. É o retrato perfeito da Promessa da Porta Aberta transformada em ficção institucional — as portas seguem abertas, mas quase ninguém entra. A biblioteca, que deveria ser o lugar mais comum da cidade, tornou-se um território de exceção, um espaço sobrevivente num País que desaprendeu a reconhecer o público como valor.",
+      "E, como em toda crise cultural, proliferam as explicações fáceis. Há quem diga que “ninguém precisa mais de biblioteca na era da internet”, que “tudo está on-line”, que “a biblioteca pública é coisa do século 20”. São frases de conforto para quem confunde acesso com compreensão e informação com conhecimento.",
+      "A rede pode conter todos os livros do mundo, mas nenhum deles se abre sozinho. O que está desaparecendo não é o suporte, é o espaço social que praticava a mediação da leitura — mesmo corroído por ausências, improvisos e uma crônica falta de investimento. A biblioteca nunca foi perfeita, mas era uma tentativa teimosa de criar mediação pública num País que delegava a educação ao acaso e entregava a cultura ao mercado.",
+      "Essa é a falha que o discurso tecnocrático jamais reconhece: educação sem o cruzamento com a cultura não existe. A mediação da leitura — aquilo que a biblioteca pública fazia de modo silencioso e persistente — é o elo que a escola sozinha não alcança. Ler, no sentido pleno, nunca foi apenas decodificar letras; é participar de uma experiência coletiva, um gesto de partilha simbólica. É por isso que o desaparecimento das bibliotecas fere algo mais fundo do que o hábito: corrói o espaço onde a educação encontrava o mundo, onde o conhecimento se tornava vida comum.",
+      "E, apesar dos pesares, ainda há quem sustente esse fio. Bibliotecários, professores, mediadores e leitores anônimos seguem tentando manter viva a ideia de espaço público, mesmo quando tudo conspira para sua extinção. Fazem isso sem holofotes, quase sempre sem orçamento, carregando sobre os ombros uma tarefa que o Estado abandonou: criar vínculos num País que desaprendeu a ler junto. A ausência dessas mediações — do encontro entre educação e cultura — abre espaço para o vazio onde hoje prosperam o autoritarismo, a desinformação e a solidão digital. É nesse vácuo que se decide o futuro: entre o país que lê para compreender e o país que apenas consome palavras.",
+      "Há um consenso perverso que atravessa classes e discursos: a ideia de que “o brasileiro não lê”. Tanto a fala reacionária, erodida pelo preconceito, quanto a elitista, nutrida pelo desejo de distinção cultural, adoram repeti-la. Uma para justificar o desprezo; a outra, para exibir superioridade. No fundo, ambas convergem no mesmo ponto: culpam o não leitor. Fingem ignorar que a leitura não é virtude individual, mas prática social sustentada por tempo, silêncio, mediação e acesso — tudo o que o País sistematicamente nega. Dizer que o povo não lê é mais fácil do que admitir que o poder não quer que ele tenha onde ler.",
+      "A biblioteca é um corpo estranho na cidade contemporânea — e, por isso mesmo, um dos últimos lugares de comum. Ali ainda se pode entrar sem dever explicações: sem consumo, sem senha, sem justificativa. É um espaço onde o tempo não precisa provar utilidade e a presença não exige finalidade. Tudo o que a cidade tornou exceção — a gratuidade, o silêncio, o convívio entre desconhecidos — ali persiste como lembrança de que o comum ainda é possível. Cada biblioteca, por mais precária que seja, encarna essa anomalia: a de um espaço público que insiste em existir quando o comum se tornou o que há de mais raro.",
+      "Quem sustenta essa anomalia são pessoas quase invisíveis. Bibliotecários, mediadores, funcionários, leitores errantes. Servidores públicos que, mesmo sem condições, mantêm de pé um serviço que o Estado tem a obrigação de garantir, mas trata como favor. Em torno deles formam-se pequenas comunidades — vínculos frágeis e teimosos — que preservam a biblioteca como espaço público no sentido mais pleno: lugar de acesso, permanência e encontro.",
+      "E o público que a frequenta, que reinventa seus usos e transforma o cotidiano em convivência, também faz parte dessa resistência. Cada pessoa que atravessa a porta e permanece ali, lendo, descansando, se abrigando, estudando, prova que a biblioteca pública ainda cumpre sua função mais essencial: sustentar o comum quando o poder se ausenta.",
+      "Essa vitalidade cotidiana convive com uma contradição que atravessa toda a história do País. A biblioteca pública brasileira sobrevive porque é necessária, mas permanece precária porque nunca foi tratada como tal. É o coração do Paradoxo da Porta Aberta: uma instituição concebida para garantir acesso universal e, ao mesmo tempo, condenada à descontinuidade. O Estado a proclama como direito, mas a administra como exceção — com aparições bissextas e políticas descontinuadas, que começam com entusiasmo e terminam em esquecimento.",
+      "Nesse vai e vem, multiplicam-se os públicos invisíveis: os negligenciados, que nunca foram alcançados, e os apagados, que chegaram a existir nas estatísticas e depois sumiram delas. O resultado é um sistema que depende da devoção dos que o sustentam e da resistência dos que o frequentam. A promessa republicana de uma cultura comum se cumpre apenas de forma intermitente, sempre à beira do colapso, sempre recomeçando do zero.",
+      "Esses públicos invisíveis têm rosto, endereço e história. São os moradores das periferias urbanas sem biblioteca no bairro; as pessoas em situação de rua que ocupam as salas de leitura em busca de abrigo e reconhecimento; os jovens negros e pobres que não se veem representados no acervo; os idosos, marginais nas políticas de cultura, que desapareceram das prioridades públicas; as mulheres sobrecarregadas que já não encontram tempo nem oferta de espaços de convivência. Invisíveis não por ausência, mas por desatenção.",
+      "O sistema os trata como exceção quando são a regra. E é justamente nessa franja social — onde o acesso se mistura à sobrevivência — que a biblioteca pública revela seu verdadeiro sentido político: não o de templo do saber, mas o de espaço de reparação simbólica, onde o direito à palavra volta a ser negociado todos os dias.",
+      "A presença desses públicos transforma a biblioteca em espelho das contradições do País. Ali se cruzam as promessas civilizatórias e as ruínas sociais que o Estado produz e tenta esconder. O que muitos veem como “incômodo” — a diversidade de corpos, de cheiros, de usos — é, na verdade, o sinal de que a biblioteca ainda cumpre sua função pública: acolher o que o resto da cidade expulsa.",
+      "É nesse encontro entre a solenidade da instituição e a precariedade da vida que o Paradoxo da Porta Aberta se revela em sua forma mais crua. A biblioteca promete acesso universal, mas o universal, no Brasil, é sempre um campo de disputa. Cada presença indesejada lembra o poder público daquilo que ele insiste em negar: que o direito à cultura é inseparável do direito à dignidade.",
+      "É nesse convívio imperfeito que a biblioteca se torna algo maior do que o edifício que a contém. Entre a norma e o improviso, o estudo e o descanso, o silêncio e o murmúrio, forma-se um espaço de coexistência que escapa a qualquer planejamento. O lugar de leituras nasce daí: do uso múltiplo, da disputa de sentidos, das presenças que se encontram sem precisar se justificar. É a biblioteca como prática, não como ideal — onde ler pode significar estudar, abrigar-se, conversar, dormir, observar o outro. Um espaço que continua público justamente porque não impõe o que deve ser feito nele. E talvez seja essa liberdade modesta, esse comum construído na fricção, que a torne um dos últimos lugares realmente democráticos da cidade.",
+      "Chegamos a um ponto em que já não basta repetir o refrão da “biblioteca para todos”. O País precisa de políticas públicas consistentes, com financiamento estável, continuidade administrativa e compromisso social real. A intermitência é a doença crônica da cultura brasileira: cada gestão inaugura e desmonta, anuncia e esquece. É preciso romper esse ciclo de promessas vazias e reconhecer a biblioteca pública como serviço essencial, tão necessário quanto saúde e transporte. Investir nelas não é benevolência, é reparação histórica. O direito à leitura, à informação e à convivência cultural precisa deixar de ser tratado como luxo de época e passar a ser garantido como condição básica de cidadania.",
+      "A Promessa da Porta Aberta sobrevive, mas cada vez mais entre escombros. O paradoxo se aprofundou: multiplicam-se as campanhas que exaltam a leitura enquanto diminuem os leitores. O País celebra a Semana do Livro com a mesma solenidade com que fecha bibliotecas.",
+      "Enquanto o analfabetismo funcional cresce, repete-se o mantra de que “os livros podem mudar a vida das pessoas” — frase que funciona bem em propaganda institucional, mas não resiste ao chão da realidade. Livros não mudam vidas sem tempo, sem mediação, sem espaço. É por isso que a biblioteca pública continua sendo mais do que um depósito de papel: é o território material onde essa promessa ainda pode se cumprir, se houver política que a sustente.",
+      "A biblioteca pública, como lugar de leituras, é a forma concreta do comum — o ponto em que o espaço deixa de ser mera arquitetura e se converte em vida partilhada. É ali que a palavra deixa de ser mercadoria e volta a ser bem comum. Cada biblioteca, por mais frágil que pareça, é um laboratório silencioso de convivência, de escuta e de imaginação compartilhada.",
+      "Ali, o comum se pratica em gestos mínimos: um livro aberto, uma conversa breve, um tempo que se restitui ao coletivo. Em tempos de pressa e desinformação, a biblioteca é a política pública mais simples e mais radical que um país pode ter — uma porta entreaberta por onde a vida ainda insiste em entrar."
     ],
     "questoes": [
       {
@@ -282,7 +343,8 @@
       },
       {
         "enunciado": "Que sentido “porta entreaberta” ganha no título?",
-        "resposta": "Sugere que há abertura ao público, mas o acesso está limitado por desigualdades e pela precariedade institucional."
+        "resposta": "Sugere que há abertura ao público, mas o acesso está limitado por desigualdades e pela precariedade institucional.",
+        "trecho": "Paradoxo da Porta Aberta"
       },
       {
         "enunciado": "Que interpretação da crise de leitura o autor questiona e qual propõe?",
@@ -302,8 +364,7 @@
       },
       {
         "enunciado": "Que oposição organiza o paradoxo da porta aberta?",
-        "resposta": "A instituição promete acesso universal, mas convive com falta de continuidade e recursos.",
-        "trecho": "a promessa de acesso universal e a precariedade"
+        "resposta": "A instituição promete acesso universal, mas convive com falta de continuidade e recursos."
       },
       {
         "enunciado": "Por que ampliar apenas o acervo digital é insuficiente segundo a lógica do texto?",
@@ -325,11 +386,12 @@
     "fonte": {
       "credito": "Wagner Negreiros · Painel do Leitor, Folha de S.Paulo, 2 de outubro de 2024",
       "url": "https://www1.folha.uol.com.br/paineldoleitor/2024/10/leitor-diz-que-proibir-celular-na-sala-de-aula-e-uma-tarefa-herculea.shtml",
-      "nota": "Síntese da carta e da seção · no original, localize a mensagem assinada por Wagner Negreiros."
+      "nota": "Material de apoio · síntese da carta e das reações reunidas pelo jornal."
     },
     "texto": [
       "O professor relata ter repetido a ordem para guardar o celular mais de vinte vezes em uma aula de 45 minutos. Ele avalia que as interrupções prejudicam a explicação e a compreensão do conteúdo.",
-      "A mensagem integra uma sequência de reações dos leitores a uma notícia sobre professores que relataram agressões ao restringir celulares. Na mesma seção, Renata de Souza Santos defende sanções para garantir a aplicação de uma eventual regra."
+      "A mensagem integra uma sequência de reações dos leitores a uma notícia sobre professores que relataram agressões ao restringir celulares. Na mesma seção, Renata de Souza Santos defende sanções para garantir a aplicação de uma eventual regra.",
+      "A experiência do professor levou o jornal a usar a palavra “hercúlea” no título. Na carta, a avaliação final se estende à turma e ao professor: para ele, todos saem perdendo. Já a proposta de prever sanções aparece na carta de outra leitora, que discute como fazer a regra funcionar."
     ],
     "questoes": [
       {
@@ -385,17 +447,31 @@
     "fonte": {
       "credito": "Ana Maria Costa, Lucia Souto e Maria Lucia Frizon Rizzotto · editorial da revista Saúde em Debate, 2017",
       "url": "https://www.scielo.br/j/sdeb/a/wk9B4tNs7dgLrtd9Bq6DdJd/?lang=pt",
-      "nota": "Síntese do editorial · leia o texto publicado na revista do Centro Brasileiro de Estudos de Saúde."
+      "nota": "Texto integral, incluindo as referências.",
+      "integral": true,
+      "permissao": {
+        "nome": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/deed.pt-br"
+      }
     },
     "texto": [
-      "O editorial parte da mudança na direção do Cebes, definida em simpósio nacional em 2017, para defender a retomada das bandeiras de democracia e saúde como direito. O texto relaciona desigualdade e exclusão às condições de vida e ao processo de saúde e doença.",
-      "Ao falar em passado e futuro, o editorial retoma a trajetória política da entidade e anuncia sua posição diante dos desafios daquele momento."
+      "O ANO DE 2017 TERMINA COM A MUDANÇA NA DIREÇÃO do Centro Brasileiro de Estudos de Saúde (Cebes) definida no V Simpósio Nacional, no qual saiu fortalecido o consenso de que bandeiras originais da entidade, como a luta pela democracia e a saúde como direito, devem ser retomadas. O fundamento dessa diretriz para o Cebes se justifica não só pela conjuntura nacional pós-golpe de 2016 que está liquidando com os direitos conquistados na Constituição Federal de 1988, mas pela crescente tensão entre capitalismo e democracia em escala mundial que aponta para o fim do capitalismo democrático, iniciado após a Segunda Guerra Mundial.",
+      "Concordando com Streeck (2016) ao avaliar as articulações entre democracia e capitalismo no mundo contemporâneo, existe uma profunda crise da democracia sucumbida aos interesses capitalistas. O pacto social do pós-guerra que alinhavava capitalismo com democracia e que mantinha os mercados domesticados ou mesmo disciplinados pela democracia está em ruptura, o que ocasiona a desestruturação da formação social do capitalismo democrático. Para o autor, na mesma medida que o capitalismo global avançou, as democracias nacionais recuaram invertendo a lógica até então vigente. Sob essa perspectiva, a democracia passou a ser dominada pelos mercados, alterando o contrato social do pós-guerra e o equilíbrio que se mantinha entre os interesses do capital e os interesses dos cidadãos. Como resultado, as democracias estão cada vez mais limitadas em sua capacidade de atuar, uma vez que não têm controle sobre as bases materiais do capitalismo.",
+      "O predomínio vigente do capitalismo financeiro e a insustentável e injusta concentração de riqueza e renda para uma parcela menor que 1% de pessoas expõem a inviabilidade do projeto ultraneoliberal em curso. A exclusão dos outros 99% tem consequências diretas sobre a qualidade e sobre os modos de vida delas, cujas repercussões estão presentes na determinação social do processo saúde/doença.",
+      "O Brasil amarga tempos difíceis, e nossa democracia sucumbe aos interesses antipopulares do capitalismo. O golpe imposto ao País para atender especialmente aos interesses das petroleiras tem esvaziado as possibilidades de recuperação da economia e conduz a um destino inexorável de país periférico. Para isso, e como consequência, nossa democracia vem sendo mutilada com a conivência e participação de todos os poderes. O Congresso tem realizado alterações na Constituição - sem o aval do povo, destruindo direitos sociais universais básicos de cidadania - e, no meio de artimanhas e manobras, abre mão da soberania nacional e da própria democracia.",
+      "Os retrocessos no campo da saúde são imensos e difíceis de serem revertidos, desde o congelamento dos recursos por 20 anos, passando pelo desmonte de políticas e programas e pela destruição das bases das relações interfederativas, cuja intenção e cujo propósito parecem ser de deixar a saúde em terra arrasada.",
+      "Por tudo isso, o Cebes de hoje tem a clareza de que os desafios são imensos, o que amplia sua responsabilidade no sentido de enfrentar e resistir, tendo como base compromissos políticos, e como fonte de inspiração a sua longa e histórica luta que resultou na conquista do direito universal à saúde, na Constituição de 1988, e na retomada democrática em nosso País. Seremos intransigentes na defesa da seguridade social e do Sistema Único de Saúde (SUS) constitucional.",
+      "As repercussões das crises econômica e política sobre a saúde estão evidentes, e a situação de saúde se agrava na medida em que o sistema assistencial piora a cada dia. Por isso, para o Cebes, é fundamental compreender a saúde como direito universal de cidadania, como política pública estratégica para o enfrentamento das ancestrais desigualdades nacionais que têm suas raízes na elite escravocrata aqui instalada.",
+      "A urgência das reformas que vêm sendo realizadas assim como o perverso processo de privatização predatória por parte do grande capital já não deixam dúvidas de que o ataque ultraneoliberal que sofremos se dá pela estratégica importância geopolítica do Brasil. Lutaremos incansavelmente por um projeto de País soberano, fundado nos direitos sociais e humanos de cidadania, ecofeminista, antirracista, libertário, compartilhado e radicalmente democrático.",
+      "Em 2018, nos 30 anos da Constituição Cidadã, reverenciamos o espírito de mobilização popular ocorrido em 1988 e convocamos pela retomada da unidade das forças políticas em convergência pela soberania nacional, pela radicalização da democracia a serviço dos interesses do povo e pela unidade latino-americana e mundial.",
+      "Finalizando, é preciso registrar que o V Simpósio Nacional do Cebes, realizado nos dias 23 e 24 de novembro, expressou de forma consistente o seu fortalecimento e o da construção democrática interna. A participação de núcleos na organização de pré-simpósios foi fundamental para a realização de um processo participativo, confluindo para a eleição de uma diretoria com diversidade e representatividade. Assim, olhando para o passado e com passos firmes ao futuro, o Cebes se coloca no cenário político nacional. Viva o Cebes!",
+      "Referências",
+      "STREECK, W. As crises do capitalismo democrático. Novos estud. - CEBRAP, São Paulo, n. 92, p. 35-56, mar. 2012. Disponível em: <http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0101-33002012000100004&lng=en&nrm=iso>. Acesso em: 7 jan. 2018.» http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0101-33002012000100004&lng=en&nrm=iso"
     ],
     "questoes": [
       {
         "enunciado": "Que acontecimento institucional abre o editorial?",
-        "resposta": "A mudança na direção do Cebes, definida no V Simpósio Nacional.",
-        "trecho": "mudança na direção do Cebes"
+        "resposta": "A mudança na direção do Cebes, definida no V Simpósio Nacional."
       },
       {
         "enunciado": "Qual posicionamento a publicação defende?",
@@ -447,12 +523,17 @@
     "titulo": "Sabonete de Reuter no Diário da Manhã",
     "fonte": {
       "credito": "Diário da Manhã · edição de 4 de junho de 1921, Hemeroteca Digital Brasileira",
-      "url": "https://hemeroteca-pdf.bn.gov.br/572748/per572748_1921_00242.pdf",
-      "nota": "Roteiro de leitura da peça · no PDF da edição, procure “Sabonete de Reuter”."
+      "url": "https://hemeroteca-pdf.bn.gov.br/572748/per572748_1921_00242.pdf#page=8",
+      "nota": "Anúncio integral da página 8, com transcrição em grafia histórica.",
+      "integral": true,
+      "permissao": {
+        "nome": "Domínio público",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/deed.pt-br"
+      }
     },
     "texto": [
-      "O anúncio associa o produto ao cuidado da pele e promete a purificação dos poros. Usa a interpelação direta ao público com o verbo “sentirá”, sugerindo que a experiência de uso confirmaria a promessa.",
-      "A peça integra uma edição de jornal impresso. Localize o nome do produto no anúncio e compare a maneira de apresentá-lo com a campanha do Zé Gotinha no acervo."
+      "Sentirão quanto o Sabonete de Reuter purifica os poros. E verão os magnificos resultados que dá para aformosear a cutis.",
+      "É ao mesmo tempo muito duradouro e de exquisito perfume."
     ],
     "questoes": [
       {
@@ -465,12 +546,11 @@
       },
       {
         "enunciado": "O que “purifica” faz o leitor associar ao produto?",
-        "resposta": "Limpeza ou remoção de impurezas da pele.",
-        "trecho": "purificação dos poros"
+        "resposta": "Limpeza ou remoção de impurezas da pele."
       },
       {
-        "enunciado": "Que efeito persuasivo tem o futuro do verbo “sentirá”?",
-        "resposta": "Projeta confiança no resultado e convida o leitor a imaginar o benefício após o uso."
+        "enunciado": "Que efeito persuasivo tem o futuro dos verbos “sentirão” e “verão”?",
+        "resposta": "Apresenta o benefício como resultado esperado e convida o leitor a imaginar que o perceberá ao experimentar o produto."
       },
       {
         "enunciado": "A promessa de purificar os poros constitui comprovação no anúncio? Por quê?",
@@ -499,7 +579,13 @@
           "R009"
         ]
       }
-    ]
+    ],
+    "visual": {
+      "tipo": "imagem",
+      "titulo": "Anúncio do Sabonete de Reuter",
+      "arquivo": "sabonete-reuter-1921.jpg",
+      "alt": "Anúncio em preto e branco. Uma mão segura um espelho com um rosto refletido. A marca Sabonete de Reuter aparece em destaque à direita, acompanhada da promessa de purificar os poros e aformosear a cútis."
+    }
   },
   {
     "genero": "Propaganda",
@@ -511,11 +597,12 @@
     "fonte": {
       "credito": "Ministério da Saúde · catálogo Zé Gotinha do Brasil, p. 62",
       "url": "https://bvsms.saude.gov.br/bvs/publicacoes/catalogo_ze_gotinha_brasil.pdf#page=64",
-      "nota": "Roteiro do cartaz histórico · localize a peça verde, com o jardim e a data de 20 de junho."
+      "nota": "Material de apoio · descrição do cartaz histórico do Clube do Zé Gotinha."
     },
     "texto": [
       "O cartaz verde reúne um chamado para levar crianças menores de cinco anos ao posto de vacinação e o personagem Zé Gotinha. A proteção mobilizada na campanha é contra a paralisia infantil.",
-      "O texto se dirige a quem pode levar as crianças ao posto, e a mascote cria um ponto de reconhecimento que também pode atrair a atenção do público infantil."
+      "O texto se dirige a quem pode levar as crianças ao posto, e a mascote cria um ponto de reconhecimento que também pode atrair a atenção do público infantil.",
+      "Na cena, a mascote e outros personagens aparecem em um jardim, junto a um portal com o nome do clube. A data em destaque é sábado, 20 de junho. O texto convoca com um verbo de ordem, “Leve”, e lembra os responsáveis de ter a caderneta de vacinação em mãos."
     ],
     "questoes": [
       {
@@ -574,11 +661,12 @@
     "fonte": {
       "credito": "#MUSEUdeMEMES · acervo da Universidade Federal Fluminense",
       "url": "https://museudememes.com.br/collection/nazare-confusa",
-      "nota": "Roteiro de leitura da montagem com quatro quadros · consulte a imagem no acervo."
+      "nota": "Material de apoio · descrição da montagem catalogada pelo #MUSEUdeMEMES."
     },
     "texto": [
       "O meme reutiliza o rosto de Nazaré Tedesco, personagem da novela Senhora do Destino, em diferentes expressões. Uma versão popular sobrepõe fórmulas e figuras matemáticas aos quadros.",
-      "Na circulação digital, essa versão funciona como reação visual diante de situações percebidas como difíceis de entender."
+      "Na circulação digital, essa versão funciona como reação visual diante de situações percebidas como difíceis de entender.",
+      "Em quatro quadros, o rosto é visto de perto e muda de expressão. Linhas, figuras geométricas e fórmulas aparecem sobre as imagens como se a personagem estivesse fazendo cálculos muito difíceis. A montagem costuma circular como resposta a mensagens, situações complicadas ou dúvidas de quem a publica."
     ],
     "questoes": [
       {
@@ -634,17 +722,25 @@
     "fonte": {
       "credito": "Presidência da República · Decreto nº 7.962, de 15 de março de 2013, arts. 1º, 2º, 4º e 5º",
       "url": "https://www2.camara.leg.br/legin/fed/decret/2013/decreto-7962-15-marco-2013-775557-publicacaooriginal-139266-pe.html",
-      "nota": "Roteiro de leitura do regulamento · consulte os artigos e seus incisos na fonte."
+      "nota": "Texto integral do decreto, conforme a publicação original.",
+      "integral": true,
+      "permissao": {
+        "nome": "Atos oficiais · Lei 9.610/1998, art. 8º",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9610.htm"
+      }
     },
     "texto": [
-      "O decreto regulamenta aspectos do Código de Defesa do Consumidor na contratação eletrônica. O artigo 2º enumera informações que devem ter destaque no meio utilizado para a oferta, incluindo identificação do fornecedor, características e despesas adicionais.",
-      "O artigo 4º trata de atendimento e facilidades para o consumidor. O artigo 5º trata do exercício do direito de arrependimento. Entre outras medidas, prevê que o consumidor possa manifestar o arrependimento pela mesma ferramenta usada para contratar."
+      "A PRESIDENTA DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, caput, inciso IV, da Constituição, e tendo em vista o disposto na Lei nº 8.078, de 11 de setembro de 1990,",
+      "DECRETA:\n\nArt. 1º Este Decreto regulamenta a Lei nº 8.078, de 11 de setembro de 1990, para dispor sobre a contratação no comércio eletrônico, abrangendo os seguintes aspectos:\n\nI - informações claras a respeito do produto, serviço e do fornecedor;\n\nII - atendimento facilitado ao consumidor; e\n\nIII - respeito ao direito de arrependimento.\n\nArt. 2º Os sítios eletrônicos ou demais meios eletrônicos utilizados para oferta ou conclusão de contrato de consumo devem disponibilizar, em local de destaque e de fácil visualização, as seguintes informações:\n\nI - nome empresarial e número de inscrição do fornecedor, quando houver, no Cadastro Nacional de Pessoas Físicas ou no Cadastro Nacional de Pessoas Jurídicas do Ministério da Fazenda;\n\nII - endereço físico e eletrônico, e demais informações necessárias para sua localização e contato;\n\nIII - características essenciais do produto ou do serviço, incluídos os riscos à saúde e à segurança dos consumidores;\n\nIV - discriminação, no preço, de quaisquer despesas adicionais ou acessórias, tais como as de entrega ou seguros;\n\nV - condições integrais da oferta, incluídas modalidades de pagamento, disponibilidade, forma e prazo da execução do serviço ou da entrega ou disponibilização do produto; e\n\nVI - informações claras e ostensivas a respeito de quaisquer restrições à fruição da oferta.\n\nArt. 3º Os sítios eletrônicos ou demais meios eletrônicos utilizados para ofertas de compras coletivas ou modalidades análogas de contratação deverão conter, além das informações previstas no art. 2º, as seguintes:\n\nI - quantidade mínima de consumidores para a efetivação do contrato;\n\nII - prazo para utilização da oferta pelo consumidor; e\n\nIII - identificação do fornecedor responsável pelo sítio eletrônico e do fornecedor do produto ou serviço ofertado, nos termos dos incisos I e II do art. 2º.\n\nArt. 4º Para garantir o atendimento facilitado ao consumidor no comércio eletrônico, o fornecedor deverá:\n\nI - apresentar sumário do contrato antes da contratação, com as informações necessárias ao pleno exercício do direito de escolha do consumidor, enfatizadas as cláusulas que limitem direitos;\n\nII - fornecer ferramentas eficazes ao consumidor para identificação e correção imediata de erros ocorridos nas etapas anteriores à finalização da contratação;\n\nIII - confirmar imediatamente o recebimento da aceitação da oferta;\n\nIV - disponibilizar o contrato ao consumidor em meio que permita sua conservação e reprodução, imediatamente após a contratação;\n\nV - manter serviço adequado e eficaz de atendimento em meio eletrônico, que possibilite ao consumidor a resolução de demandas referentes a informação, dúvida, reclamação, suspensão ou cancelamento do contrato;\n\nVI - confirmar imediatamente o recebimento das demandas do consumidor referidas no inciso, pelo mesmo meio empregado pelo consumidor; e\n\nVII - utilizar mecanismos de segurança eficazes para pagamento e para tratamento de dados do consumidor.\n\nParágrafo único. A manifestação do fornecedor às demandas previstas no inciso V do caput será encaminhada em até cinco dias ao consumidor.\n\nArt. 5º O fornecedor deve informar, de forma clara e ostensiva, os meios adequados e eficazes para o exercício do direito de arrependimento pelo consumidor.\n\n§ 1º O consumidor poderá exercer seu direito de arrependimento pela mesma ferramenta utilizada para a contratação, sem prejuízo de outros meios disponibilizados.\n\n§ 2º O exercício do direito de arrependimento implica a rescisão dos contratos acessórios, sem qualquer ônus para o consumidor.\n\n§ 3º O exercício do direito de arrependimento será comunicado imediatamente pelo fornecedor à instituição financeira ou à administradora do cartão de crédito ou similar, para que:\n\nI - a transação não seja lançada na fatura do consumidor; ou\n\nII - seja efetivado o estorno do valor, caso o lançamento na fatura já tenha sido realizado.\n\n§ 4º O fornecedor deve enviar ao consumidor confirmação imediata do recebimento da manifestação de arrependimento.\n\nArt. 6º As contratações no comércio eletrônico deverão observar o cumprimento das condições da oferta, com a entrega dos produtos e serviços contratados, observados prazos, quantidade, qualidade e adequação.\n\nArt. 7º A inobservância das condutas descritas neste Decreto ensejará aplicação das sanções previstas no art. 56 da Lei nº 8.078, de 1990.\n\nArt. 8º O Decreto nº 5.903, de 20 de setembro de 2006, passa a vigorar com as seguintes alterações:",
+      "\"Art. 10. .................................................................................\n\nParágrafo único. O disposto nos arts. 2º, 3º e 9º deste Decreto aplica-se às contratações no comércio eletrônico.\" (NR)",
+      "Art. 9º Este Decreto entra em vigor sessenta dias após a data de sua publicação.",
+      "Brasília, 15 de março de 2013; 192º da Independência e 125º da República.",
+      "DILMA ROUSSEFF\nJosé Eduardo Cardozo"
     ],
     "questoes": [
       {
         "enunciado": "O que o decreto regulamenta, segundo o artigo 1º?",
-        "resposta": "A contratação no comércio eletrônico sob as regras do Código de Defesa do Consumidor.",
-        "trecho": "regulamenta aspectos do Código de Defesa do Consumidor na contratação eletrônica"
+        "resposta": "A contratação no comércio eletrônico sob as regras do Código de Defesa do Consumidor."
       },
       {
         "enunciado": "Dê dois exemplos de informações de identificação do fornecedor previstas no artigo 2º.",
@@ -694,11 +790,52 @@
     "fonte": {
       "credito": "Kasandra Conceição Castro · revista Mana, v. 29, n. 2, 2023",
       "url": "https://www.scielo.br/j/mana/a/bjBknT5rNzkS7wvwyHKDzPw/?lang=pt",
-      "nota": "Síntese da resenha · consulte a ficha bibliográfica e a abertura do original."
+      "nota": "Texto integral, incluindo as referências.",
+      "integral": true,
+      "permissao": {
+        "nome": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/deed.pt-br"
+      }
     },
     "texto": [
-      "A resenhista apresenta Ailton Krenak, liderança indígena do Vale do Rio Doce, e informa que o livro se formou a partir de duas conferências e uma entrevista em Portugal. A obra questiona uma ideia de humanidade definida por padrões europeus.",
-      "Para Castro, o livro combina reflexão, comparação de modos de vida, provocação e crítica da modernidade. A resenhista destaca a contestação da separação entre humanidade e natureza."
+      "KRENAK, Ailton. Ideias para adiar o fim do mundo. São Paulo: Companhia das Letras. 104 p.",
+      "O texto Ideias para adiar o fim do mundo é, ao mesmo tempo, uma reflexão sobre o caminho e o destino aos quais a modernidade ocidental está conduzindo a humanidade, uma comparação com o modo de vida, por assim dizer, de povos não modernos, uma provocação, no sentido de um convite ao despertar de novas formas de consciência sobre rumo tomado e rumos possíveis e, ainda, uma crítica à própria modernidade.",
+      "Ailton Alves Lacerda Krenak ou, como é mais conhecido, Ailton Krenak, é uma liderança indígena brasileira, membro do povo Krenak, nasceu no Vale do Rio Doce, em Minas gerais, uma das regiões mais negativamente impactadas pela atividade mineradora, tanto nos aspectos físicos quanto nos bióticos, socioeconômicos e culturais. O livro Ideias para adiar o fim do mundo resultou de duas conferências e uma entrevista concedida em Portugal entre os anos de 2017 e 2019.",
+      "O texto propõe, inicialmente, três questões: como é que ao longo dos últimos 2 ou 3 mil anos nós construímos a ideia de humanidade? Será que ela não está na base de muitas escolhas erradas que fizemos, justificando a violência? Somos mesmo uma humanidade?",
+      "Krenak começa sublinhando que a concepção de humanidade que temos é de tipo eurocêntrica, logo, está restrita a um padrão de pensamento, cultura, organização social, econômica e narrativa histórica tipicamente europeu.",
+      "Neste cenário, organizações supraestatais e internacionais como ONU, Unesco, OEA são partes da estrutura desta humanidade pensada segundo o estilo europeu: “a humanidade que pensamos ser” (KRENAK 2017: 13). O autor sustenta que este clube da humanidade limita nossa capacidade de invenção, criação, existência e liberdade.",
+      "Mas, não apenas, sempre de acordo com o autor, este clube é também excludente, porque todos aqueles que não se enquadram no seu padrão de humanidade, dignidade, cidadania, cultura, relações sociais e econômicas é considerado sub-humano.",
+      "Hodiernamente, salienta, o padrão de humanidade hegemônico é o da modernidade, com sua lógica econômica acumulativa e ambientalmente predatória, sua cultura racional, seu modo de ser materialista, individualista e consumista, entre outros.",
+      "Deste modo, diz Krenak, a humanidade moderna exclui 70% daqueles que vivem em seu próprio seio do clube da humanidade, pois são pessoas para as quais foram negadas as condições mínimas de ser, querendo com isso se referir às condições básicas de dignidade, cidadania e emancipação histórica e espiritual.",
+      "A situação é contraditória, porque a modernidade promete àqueles que a ela se integrarem o reconhecimento de sua humanidade, mas os 70% que estão barrados no baile da humanidade foram criados pela própria dinâmica econômica da modernidade. Esta dinâmica foi a responsável pela expulsão do campo para as cidades da maior parte da população, a fim de transformá-la em força de trabalho na empresa capitalista e, ao mesmo tempo, capitalizar os recursos naturais.",
+      "Ao longo de seu texto faz uma crítica à outra face da humanidade moderna, que é também outra face da modernidade: o conceito de desenvolvimento sustentável.",
+      "Para Krenak, é esta mesma humanidade desumanizada que propaga e defende a ideia de sustentabilidade, um conceito que, em sua concepção, é um mito inventado pelas corporações empresariais para justificar a depredação da natureza, transformá-la em reserva de valor e confiná em espaços convencionados.",
+      "De acordo com o autor, o mito do desenvolvimento sustentável serve apenas para legitimar o assalto que as corporações fazem à nossa ideia de natureza; legitima o fracionamento da natureza e sua restrição a parques ambientais, áreas de proteção ou reservas.",
+      "Neste sentido, o desenvolvimento sustentável é uma forma de legitimar e, assim, sustentar a perpetuação do capitalismo, uma vez que, por este conceito, garante-se às corporações capitalistas o controle sobre todos os territórios e espaços da terra, que passam a existir sob uma espécie de regime de tutela do capital.",
+      "As raízes culturais desse processo estão na ideia de que somos a humanidade e a natureza é nosso objeto, ideia que nos alienou da compreensão de que somos parte deste grande organismo chamado Terra, o que nos levou a pensar que ela é uma coisa e nós somos outra, ou que ela é uma coisa e nós somos os sujeitos, que somos o centro e ela é a periferia.",
+      "Krenak faz uma breve crítica a esta ideia de separação entre humanidade e natureza com exemplos da cosmovisão das populações nativas, não modernas. Neste sentido, o autor afirma que tudo o que existe é natureza, que tudo o que pensamos é natureza, o que nos remete à ideia presente entre nativos yanomami de que tudo é natural na medida em que a própria natureza é cultural e vice-versa.",
+      "Krenak avança em sua crítica salientando que, na atual fase da modernidade, a globalização, as grandes corporações estão destruindo a natureza e construindo, em seu lugar, ambientes artificiais para nós vivermos. Elas homogeneízam a paisagem mundial, criando edifícios, shoppings centers, ruas pavimentadas, parques naturais, veículos espaciais, enfim, em suas palavras, criam “uma abstração civilizatória”, porque produzem uma vida descolada da terra e da natureza, uma vida que é insustentável, porque sem a terra e a natureza não há vida possível.",
+      "O autor sustenta que esse processo só é possível por meio da alienação das pessoas, que são colocadas em lugares artificiais para viver, mas elas precisam de remédios para suportar viver nestes ambientes, por conta do desenraizamento, da falta de referência que o distanciamento, cada vez maior, da natureza produz nelas.",
+      "Para o intelectual indígena, é um absurdo para estes povos viverem na abstração civilizatória que são os espaços artificiais, desenraizados e desnaturalizados das cidades e das metrópoles.",
+      "Mesmo as iniciativas, pelas estruturas políticas ocidentais, voltadas para, supostamente, valorizar a diversidade cultural da humanidade são tratadas de forma crítica por Krenak como contraditórias, pois ocorrem ao mesmo tempo em que o sistema ocidental destrói esta diversidade, principalmente as mais frágeis. Para o autor, sobram apenas aquelas que interessam às grandes corporações, porque elas facilitam o controle e a administração do todo.",
+      "Em uma de suas ideias para adiar o fim do mundo, Krenak defende que é exatamente esta ecologia que deveria integrar nossas experiências cotidianas, orientar nossas escolhas, tendo em mente sempre o lugar em que queremos viver, nosso lugar no mundo e nossa experiência comum enquanto comunidade humana.",
+      "De Kopenawa, Krenak retoma as lições do livro A queda do céu: palavras de um xamã yanomami (2010), no qual o líder yanomami pontua as diferenças entre a cultura ocidental e a do seu povo, para reforçar, ao mesmo tempo, que há lugar para todos os povos e todas as culturas conviverem neste planeta, assim como há diversos povos que não abrem mão de um modo de vida mais sintonizado com o espírito da floresta e com o cosmo natural.",
+      "Krenak sustenta, ainda, que este estilo de vida mais natural, integrado à natureza, é possível a todos, mas que não se trata de um modelo de existência semelhante ao do filme Avatar, de uma ficção, e sim de um modo de viver estritamente humano, inscrito em nossas potencialidades, e é isto que o modo de vida dos povos originários demonstra.",
+      "Contudo, este modo de vida já foi muito comprometido pelo avanço da modernidade econômica e cultural do Ocidente, e este comprometimento tem aumentado na atualidade com o avanço, principalmente, da mineração e do agronegócio sobre os territórios onde ainda resistem povos considerados não civilizados e que, portanto, não são tidos como parte do clube da humanidade moderna.",
+      "Ainda em sua crítica, Krenak diz que os tempos atuais são tempos especializados na criação de ausências, o que significa o esvaziamento dos sentidos de viver em sociedade e dos próprios sentidos da vida.",
+      "Mas este esvaziamento não é aleatório e sim parte da própria estratégia de sobrevivência e reprodução do capital, pois, para convencer as pessoas a viverem nos espaços superficiais e artificiais, a levarem uma existência superficial e artificial, as grandes corporações precisam transformá-las em zumbis, em seres destituídos de sentido, destituídos de uma existência dotada de propósito.",
+      "Para Krenak, o sentido mais profundo das pregações sobre o fim do mundo é aquele que a própria grande corporação capitalista moderna propaga hoje: destruir os sentidos da vida em sociedade, os sentidos da vida em si e levar as pessoas a desistirem dos próprios sonhos.",
+      "A lição mais importante oferecida pelo autor é de que nosso lugar no cosmo não é enquanto humanidade, mas enquanto terra, natureza, pois nossa existência só é viável e possível mediante a existência da terra e, ao mesmo tempo, somos apenas uma das partes que compõem o grande sistema natural, que somente é possível pela existência da terra.",
+      "Desta forma, orientar-se pela perspectiva de uma ecologia de saberes como a principal riqueza da humanidade, desatifilializar e reenraizar as pessoas à terra, à natureza, compreender que a humanidade é uma comunidade, e que a existência da humanidade está íntima, direta e fragilmente ligada à existência da terra e da natureza são as ideias necessárias para adiar o fim do mundo.",
+      "Destarte, as críticas levantadas por Krenak contra a humanidade e o modo de vida moderno nos remetem a certas passagens do célebre texto de Karl Marx sobre a acumulação primitiva de capital.",
+      "Ontem como hoje, o capital se projeta e avança sobre os não participantes do clube da humanidade de modo selvagem, predatório, violento. Mesmo quando se propõe à preservação de áreas habitadas por povos nativos o capital deixa seu lastro de destruição cultural e identitária entre estes povos.",
+      "O texto de Krenak, portanto, precisa ser compreendido num contexto mais amplo: ao mesmo tempo em que é um convite a abraçarmos ideias necessárias para adiar o fim do mundo, também nos convida a refletir sobre essas forças econômicas e culturais incivilizadas que reescrevem no presente a face predatória, selvagem, brutal e cruel do processo de acumulação primitiva de capital, o qual teve como principal alvo as riquezas naturais de povos nativos.",
+      "De outro modo, o texto de Krenak também nos proporciona outra reflexão importante: a de que esse processo de acumulação primitiva contemporâneo envolve não apenas formas de expropriação de riquezas econômicas, mas também de expropriação de riquezas culturais e da própria riqueza do existir, a riqueza existencial da humanidade, a riqueza de estar vivo, de dar sentido à vida em sociedade e de dotar a própria vida de sentido.",
+      "Em síntese, parece que a última e mais importante ideia de Krenak para adiar o fim do mundo é lutar, resistir ao desencanto e reencantar a humanidade, para que, como ele mesmo coloca, possamos nos sentar juntos para contar histórias uns aos outros.",
+      "Referências",
+      "KOPENAWA, Davi e Bruce Albert. A queda do céu. Palavras de um xamã yanomami. São Paulo: Cia. das Letras, 2015 [2010].",
+      "KRENAK, Ailton. Ideias para adiar o fim do mundo. São Paulo: Companhia das Letras, 2017.",
+      "MARX, Karl. O capital: crítica da economia política. 3. ed. São Paulo: Nova Cultural, 1988."
     ],
     "questoes": [
       {
@@ -754,15 +891,18 @@
     "fonte": {
       "credito": "Mariane Clementino Barbosa · A Redação do Enem 2024, Cartilha do Participante do Inep, exemplo 7, p. 53",
       "url": "https://download.inep.gov.br/publicacoes/institucionais/avaliacoes_e_exames_da_educacao_basica/a_redacao_no_enem_2024_cartilha_do_participante.pdf#page=55",
-      "nota": "Síntese da redação publicada · leia o texto da participante antes do comentário oficial.",
-      "complemento": {
-        "titulo": "Ler a mesma redação em página alternativa",
-        "url": "https://dequestoes.com.br/enem/2023/redacao/7/"
+      "nota": "Redação integral da participante, com a autoria e a fonte indicadas.",
+      "integral": true,
+      "permissao": {
+        "nome": "Reprodução autorizada com crédito pelo Inep",
+        "url": "https://download.inep.gov.br/publicacoes/institucionais/avaliacoes_e_exames_da_educacao_basica/a_redacao_no_enem_2024_cartilha_do_participante.pdf#page=4"
       }
     },
     "texto": [
-      "A redação aborda a invisibilidade do trabalho de cuidado feito por mulheres. Começa com uma situação da série Grey’s Anatomy e aponta dois obstáculos no Brasil: a desinformação da população e a ineficiência estatal.",
-      "O desenvolvimento relaciona a divisão histórica de tarefas ao primeiro obstáculo e discute as limitações de políticas no segundo. A intervenção propõe que o governo federal promova oficinas nas escolas para dar visibilidade ao tema entre jovens."
+      "A série estadunidense “Grey's Anatomy” retrata o cotidiano e as intempéries enfrentadas por um grupo de médicos em Seattle. Dentre essas, a protagonista Meredith sofre com o distanciamento de seus amigos após precisar abdicar de sua carreira de cirurgiã para cuidar de seus filhos e de sua casa, uma vez que seu marido não estava disposto a fazer o mesmo. Fora da ficção, o cenário não é muito diferente, tendo em vista os desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil. Isso ocorre devido à carência de conhecimento da população e à ineficiência estatal no que se refere ao tema.",
+      "Em primeira análise, observa-se a ignorância como agravante da problemática. Até meados do século XX, quando os direitos femininos não estavam completamente assegurados, a mentalidade social estava relacionada à divisão de trabalho por gênero, em que os serviços da esfera pública, realizados fora de casa, eram de dominância masculina, enquanto os domésticos estavam destinados às mulheres. Assim, tendo por base o filósofo alemão Immanuel Kant, o qual aponta a necessidade de educação para a mudança de comportamento e de mentalidade dos indivíduos, o cenário atual é de permanência da invisibilidade do trabalho de cuidado, haja vista a ausência de ações educativas para reverter o quadro.",
+      "Ademais, é válido ressaltar a inércia governamental a respeito da temática. Assim como abordado na produção “Grey’s Anatomy”, mesmo com a crescente inserção das mulheres no mercado de trabalho, faz-se necessária a adoção de medidas que regulamentem os trabalhos de cuidado realizados pelas mulheres no Brasil, a fim de que haja a equidade entre gêneros e a valorização dos indivíduos. Entretanto, em consonância com o filósofo Darcy Ribeiro, as leis nacionais são robustas em teoria, mas ineficientes na prática, demonstrando a fragilidade do Estado brasileiro e a consequente persistência do problema no país.",
+      "Portanto, a partir dos fatos citados, atribui-se ao Governo Federal a responsabilidade de implementar o programa de ação social “Mulheres em foco”, que, a partir de oficinas educativas e integradas em escolas públicas e privadas de todo o país, terá por objetivo levar mais conhecimento e visibilidade acerca do trabalho de cuidado realizado por mulheres no Brasil para jovens de 10 a 18 anos. Desse modo, espera-se que os desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil sejam superados."
     ],
     "questoes": [
       {
@@ -772,7 +912,7 @@
       {
         "enunciado": "Que duas causas formam a tese da participante?",
         "resposta": "Falta de conhecimento da população sobre o assunto e ineficiência do Estado.",
-        "trecho": "a desinformação da população e a ineficiência estatal"
+        "trecho": "à carência de conhecimento da população e à ineficiência estatal"
       },
       {
         "enunciado": "Qual a função argumentativa do episódio de Grey’s Anatomy?",
@@ -817,12 +957,13 @@
     "titulo": "Distribuição da população brasileira por idade, 2012 e 2022",
     "fonte": {
       "credito": "IBGE · apresentação sobre características gerais dos moradores, PNAD Contínua",
-      "url": "https://agenciadenoticias.ibge.gov.br/media/com_mediaibge/arquivos/1cd893a10b3cabf31fc31e994531632f.pdf#page=3",
-      "nota": "Gráfico redesenhado com dados publicados · o recorte mostra quatro faixas do gráfico de 2012 e 2022."
+      "url": "https://agenciadenoticias.ibge.gov.br/media/com_mediaibge/arquivos/1cd893a10b3cabf31fc31e994531632f.pdf#page=32",
+      "nota": "Gráfico completo, redesenhado com os dados publicados pelo IBGE.",
+      "integral": true
     },
     "texto": [
-      "Cada par de barras corresponde a uma faixa etária. O comprimento representa a participação daquele grupo no total da população brasileira no ano, em porcentagem.",
-      "As faixas da figura são um recorte. Consulte a apresentação completa para ver os outros grupos."
+      "Cada par de barras representa a mesma faixa etária em 2012 e 2022. Os valores correspondem à participação percentual do grupo na população residente naquele ano.",
+      "No gráfico publicado, o IBGE chama atenção para a redução da participação dos grupos abaixo de 30 anos."
     ],
     "questoes": [
       {
@@ -834,8 +975,8 @@
         "resposta": "10,5%."
       },
       {
-        "enunciado": "Qual faixa do recorte recuou de 2012 para 2022?",
-        "resposta": "De 0 a 4 anos, de 7,4% para 6,8%."
+        "enunciado": "Escolha duas faixas etárias que recuaram de 2012 para 2022 e indique os valores.",
+        "resposta": "Por exemplo, de 0 a 4 anos (7,4% para 6,8%) e de 5 a 9 anos (7,8% para 6,8%). Outras faixas abaixo de 30 anos também apresentam queda."
       },
       {
         "enunciado": "Quanto a participação de pessoas de 65 anos ou mais aumentou, em pontos percentuais?",
@@ -850,8 +991,8 @@
         "resposta": "Permite comparar a mesma faixa etária em dois momentos."
       },
       {
-        "enunciado": "Que papel cumpre o aviso de que o gráfico é um recorte?",
-        "resposta": "Evita interpretar os quatro grupos como se cobrissem toda a população ou somassem 100%."
+        "enunciado": "O que os rótulos de ano ajudam a evitar na comparação entre duas barras da mesma faixa?",
+        "resposta": "Evitam inverter o sentido da mudança, pois indicam qual valor corresponde a 2012 e qual corresponde a 2022."
       },
       {
         "enunciado": "Qual conclusão é verificável: “a proporção de idosos subiu” ou “o país envelheceu rápido demais”?",
@@ -871,7 +1012,7 @@
     ],
     "visual": {
       "tipo": "series",
-      "titulo": "População residente por faixa de idade (%) · recorte",
+      "titulo": "Distribuição da população residente (%) por faixa etária",
       "maximo": 18,
       "series": [
         "2012",
@@ -884,6 +1025,36 @@
           6.8
         ],
         [
+          "5 a 9 anos",
+          7.8,
+          6.8
+        ],
+        [
+          "10 a 13 anos",
+          6.7,
+          5.4
+        ],
+        [
+          "14 a 17 anos",
+          7.1,
+          5.6
+        ],
+        [
+          "18 a 19 anos",
+          3.4,
+          2.9
+        ],
+        [
+          "20 a 24 anos",
+          8.7,
+          7.8
+        ],
+        [
+          "25 a 29 anos",
+          8.8,
+          8.0
+        ],
+        [
           "30 a 39 anos",
           15.8,
           15.9
@@ -892,6 +1063,16 @@
           "40 a 49 anos",
           13.0,
           14.2
+        ],
+        [
+          "50 a 59 anos",
+          10.0,
+          11.4
+        ],
+        [
+          "60 a 64 anos",
+          3.6,
+          4.6
         ],
         [
           "65 anos ou mais",
@@ -911,10 +1092,11 @@
     "fonte": {
       "credito": "IBGE · divulgação de 28 de dezembro de 2022, com dados coletados até 25 de dezembro",
       "url": "https://ftp.ibge.gov.br/Censos/Censo_Demografico_2022/Previa_da_Populacao/POP2022_Brasil_e_UFs.pdf",
-      "nota": "Recorte da tabela divulgada pelo IBGE · valores preliminares, em habitantes."
+      "nota": "Tabela completa da prévia do Censo 2022, em habitantes.",
+      "integral": true
     },
     "texto": [
-      "A tabela apresenta a prévia para o Brasil e as cinco grandes regiões. Os dados foram publicados antes dos primeiros resultados do Censo Demográfico de 2022 divulgados em junho de 2023."
+      "A tabela é uma divulgação preliminar do Censo 2022, com dados coletados até 25 de dezembro de 2022. O valor nacional aparece na primeira linha, seguido pelas regiões e por seus estados."
     ],
     "questoes": [
       {
@@ -922,7 +1104,7 @@
         "resposta": "207.750.291 habitantes."
       },
       {
-        "enunciado": "Qual região tem o maior valor e qual tem o menor?",
+        "enunciado": "Entre as cinco grandes regiões, qual tem o maior valor e qual tem o menor?",
         "resposta": "Sudeste, com 87.348.223; Centro-Oeste, com 16.492.326."
       },
       {
@@ -931,8 +1113,7 @@
       },
       {
         "enunciado": "Que sentido tem “prévia” no título?",
-        "resposta": "Divulgação preliminar, anterior à apuração e publicação dos resultados posteriores.",
-        "trecho": "publicados antes dos primeiros resultados"
+        "resposta": "Divulgação preliminar, anterior à apuração e publicação dos resultados posteriores."
       },
       {
         "enunciado": "Por que o gênero tabela facilita a consulta a esses dados?",
@@ -964,7 +1145,7 @@
     ],
     "visual": {
       "tipo": "tabela",
-      "titulo": "Prévia por grandes regiões, em habitantes",
+      "titulo": "Brasil, grandes regiões e unidades da Federação",
       "cabecalho": [
         "Área",
         "População"
@@ -975,24 +1156,132 @@
           "207.750.291"
         ],
         [
-          "Norte",
+          "Região Norte",
           "17.834.762"
         ],
         [
-          "Nordeste",
+          "Rondônia",
+          "1.616.379"
+        ],
+        [
+          "Acre",
+          "829.780"
+        ],
+        [
+          "Amazonas",
+          "3.952.262"
+        ],
+        [
+          "Roraima",
+          "634.805"
+        ],
+        [
+          "Pará",
+          "8.442.962"
+        ],
+        [
+          "Amapá",
+          "774.268"
+        ],
+        [
+          "Tocantins",
+          "1.584.306"
+        ],
+        [
+          "Região Nordeste",
           "55.389.382"
         ],
         [
-          "Sudeste",
+          "Maranhão",
+          "6.800.605"
+        ],
+        [
+          "Piauí",
+          "3.270.174"
+        ],
+        [
+          "Ceará",
+          "8.936.431"
+        ],
+        [
+          "Rio Grande do Norte",
+          "3.303.953"
+        ],
+        [
+          "Paraíba",
+          "4.030.961"
+        ],
+        [
+          "Pernambuco",
+          "9.051.113"
+        ],
+        [
+          "Alagoas",
+          "3.125.254"
+        ],
+        [
+          "Sergipe",
+          "2.211.868"
+        ],
+        [
+          "Bahia",
+          "14.659.023"
+        ],
+        [
+          "Região Sudeste",
           "87.348.223"
         ],
         [
-          "Sul",
+          "Minas Gerais",
+          "20.732.660"
+        ],
+        [
+          "Espírito Santo",
+          "3.975.100"
+        ],
+        [
+          "Rio de Janeiro",
+          "16.615.526"
+        ],
+        [
+          "São Paulo",
+          "46.024.937"
+        ],
+        [
+          "Região Sul",
           "30.685.598"
         ],
         [
-          "Centro-Oeste",
+          "Paraná",
+          "11.835.379"
+        ],
+        [
+          "Santa Catarina",
+          "7.762.154"
+        ],
+        [
+          "Rio Grande do Sul",
+          "11.088.065"
+        ],
+        [
+          "Região Centro-Oeste",
           "16.492.326"
+        ],
+        [
+          "Mato Grosso do Sul",
+          "2.833.742"
+        ],
+        [
+          "Mato Grosso",
+          "3.784.239"
+        ],
+        [
+          "Goiás",
+          "6.950.976"
+        ],
+        [
+          "Distrito Federal",
+          "2.923.369"
         ]
       ]
     }
@@ -1007,17 +1296,18 @@
     "fonte": {
       "credito": "Prefeitura de São Paulo / Covisa · ilustração de M. O. Matos Jr., cartilha Aedes aegypti",
       "url": "https://drive.prefeitura.sp.gov.br/cidade/secretarias/upload/chamadas/aedes_aegypt_2020_mobile_1581100855.pdf#page=10",
-      "nota": "Diagrama redesenhado a partir da peça · no PDF, procure a seção “Ciclo de vida do Aedes aegypti”."
+      "nota": "Diagrama completo reconstruído. A ilustração da fonte é de M. O. Matos Jr.",
+      "integral": true
     },
     "texto": [
-      "A peça municipal apresenta ovos, larva, pupa e mosquito adulto ao redor de uma seta circular. Cada imagem é acompanhada do nome da fase.",
-      "A mesma página traz o canal de atendimento 156 e identifica os órgãos responsáveis pela comunicação."
+      "Ciclo de vida do Aedes aegypti",
+      "Ovos, larva, pupa e adulto são as quatro fases indicadas. A seta circular mostra que o ciclo se repete.",
+      "Para obter mais orientações sobre a presença do Aedes aegypti, a Prefeitura de São Paulo indica o serviço SP156, por telefone ou pelo portal."
     ],
     "questoes": [
       {
         "enunciado": "Quais são as quatro fases identificadas no esquema?",
-        "resposta": "Ovos, larva, pupa e adulto.",
-        "trecho": "ovos, larva, pupa e mosquito adulto"
+        "resposta": "Ovos, larva, pupa e adulto."
       },
       {
         "enunciado": "Por que a seta do original é circular?",
@@ -1040,16 +1330,16 @@
         "resposta": "Daria a impressão de um processo com final definitivo e ocultaria a renovação do ciclo."
       },
       {
-        "enunciado": "Como desenhos e legendas trabalham juntos?",
-        "resposta": "Os desenhos mostram a aparência de cada fase; a legenda permite associar a imagem ao nome correspondente."
+        "enunciado": "Como nomes e setas trabalham juntos no esquema?",
+        "resposta": "Os nomes identificam as fases e as setas mostram a ordem em que aparecem e se repetem."
       },
       {
         "enunciado": "O telefone 156 descreve uma fase ou serve de informação complementar? Explique.",
         "resposta": "É informação complementar para obter orientação do município."
       },
       {
-        "enunciado": "Que pistas do suporte indicam a instituição que fala ao público?",
-        "resposta": "A identificação da Secretaria Municipal da Saúde, da Covisa, do SUS e o serviço de atendimento municipal."
+        "enunciado": "Que instituição é responsável por orientar o público e que pista permite reconhecê-la?",
+        "resposta": "A Prefeitura de São Paulo, identificada na fonte e pelo serviço municipal SP156."
       },
       {
         "enunciado": "O que o esquema oferece de diferente de um parágrafo que enumera as quatro fases?",
@@ -1089,17 +1379,24 @@
     "fonte": {
       "credito": "Wikcionário em português · entrada “saudade”, seção Substantivo",
       "url": "https://pt.wiktionary.org/wiki/saudade",
-      "nota": "Síntese do verbete · observe as acepções, a tabela de número e os recursos de navegação da fonte."
+      "nota": "Seção Substantivo integral da entrada em português, com formatação adaptada.",
+      "integral": true,
+      "permissao": {
+        "nome": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.pt-br"
+      },
+      "complemento": {
+        "titulo": "Revisão consultada",
+        "url": "https://pt.wiktionary.org/wiki/saudade?oldid=3214144"
+      }
     },
     "texto": [
-      "A entrada apresenta saudade como substantivo feminino, cujo plural é saudades. Distingue sentidos ligados à lembrança afetuosa e ao sentimento pela distância ou ausência de alguém ou de algo.",
-      "O texto dispõe as acepções em lista. Há também separação silábica e links para palavras relacionadas."
+      "Substantivo\nsau.da.de, feminino\n• memória ou recordação grata de pessoas, familiares ou objetos\n• (Sentimento) sentimento experimentado entre duas ou mais pessoas que estão distantes, ou que ficam muito tempo sem se ver\n• lembrança\n• lembrança de pessoas ou coisas distantes ou não mais existentes, acompanhada da vontade de tornar a vê-las ou possuí-las\n• condição em que se tem sentimento de perda, lastimação, amargura, diante de aparente possibilidade de poder ter obtido o que desejava e parecia alcançável, que não se concretizou\n• Ela mudara de cidade e eu fiquei na saudade. Achei-me o cara mais injustiçado do planeta terra. (Cássio Ironaldo De Moraes, Infância Sem Maldades, Clube de Autores, pág. 97, 2010)\nExpressões\n• Saudade do Iguaçu:\nTradução\nTraduções\n• Alemão: Sehnsucht (de), Heimweh (de)\n• Cabo-verdiano: sodade\n• Córnico: hireth (kw)\n• Esperanto: saŭdado (eo)\n• Finlandês: koti-ikävä (fi)  \n• Francês: nostalgie (fr), manque (fr)\n• Galês: hiraeth (cy)\n• Inglês: longing (en), yearning (en), homesickness (en)\n• Latim: solitate (la)\n• Sueco: hemlängtan (sv)  \nVerbetes derivados\n• saudoso"
     ],
     "questoes": [
       {
         "enunciado": "Qual é a classe da palavra e qual é seu plural?",
-        "resposta": "Substantivo. O plural é saudades.",
-        "trecho": "substantivo feminino, cujo plural é saudades"
+        "resposta": "Substantivo. O plural é saudades."
       },
       {
         "enunciado": "Como a tabela ajuda a encontrar o plural?",
@@ -1137,10 +1434,26 @@
         ]
       },
       {
-        "enunciado": "Que sinais de edição colaborativa e de navegação digital podem ser observados na página?",
-        "resposta": "Links internos, histórico de edição e áreas de discussão ou edição, além das seções comuns de dicionário."
+        "enunciado": "Por que a ficha indica a versão de origem do verbete em um dicionário colaborativo?",
+        "resposta": "Porque a entrada pode mudar com novas edições. A indicação da fonte permite verificar a redação e o histórico."
       }
-    ]
+    ],
+    "visual": {
+      "tipo": "tabela",
+      "titulo": "Flexão do substantivo",
+      "cabecalho": [
+        "Gênero",
+        "Singular",
+        "Plural"
+      ],
+      "dados": [
+        [
+          "Feminino",
+          "saudade",
+          "saudades"
+        ]
+      ]
+    }
   },
   {
     "genero": "Relato",
@@ -1150,19 +1463,137 @@
     "id": "R018",
     "titulo": "Relato do encontro a bordo na Carta de Pero Vaz de Caminha",
     "fonte": {
-      "credito": "Pero Vaz de Caminha · Carta a D. Manuel, 1500, passagem do encontro na nau",
+      "credito": "Pero Vaz de Caminha · Carta a D. Manuel, 1500. Edição Dominus, 1963. Digitalização NUPILL/UFSC, Biblioteca Virtual do Estudante Brasileiro e Escola do Futuro/USP.",
       "url": "https://www.bibliotecajuridica.sp.gov.br/wp-content/uploads/sites/5/2024/09/Carta-A-Pero-Vaz-de-Caminha.pdf",
-      "nota": "Roteiro do trecho narrativo · procure no PDF o episódio do colar, do castiçal e das contas de rosário."
+      "nota": "Carta integral. Para as questões, localize o encontro a bordo e os gestos diante do colar, do castiçal e do rosário.",
+      "integral": true,
+      "permissao": {
+        "nome": "Domínio público",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/deed.pt-br"
+      }
     },
     "texto": [
-      "Caminha relata a entrada de dois indígenas na embarcação. Um deles olha o colar do capitão e indica a terra com as mãos. O escrivão interpreta o gesto como possível referência à existência de ouro. A reação ao castiçal sugere aos portugueses uma associação semelhante com a prata.",
-      "O relato registra também a oferta de objetos, alimentos e bebidas. Quando comenta a interpretação das contas e do colar, Caminha admite que o desejo dos portugueses influenciava a leitura que faziam dos gestos."
+      "Senhor, posto que o Capitão-mor desta Vossa frota, e assim os outros capitães escrevam a Vossa Alteza a notícia do achamento desta Vossa terra nova, que se agora nesta navegação achou, não deixarei de também dar disso minha conta a Vossa Alteza, assim como eu melhor puder, ainda que -- para o bem contar e falar -- o saiba pior que todos fazer!",
+      "Todavia tome Vossa Alteza minha ignorância por boa vontade, a qual bem certo creia que, para aformosentar nem afear, aqui não há de pôr mais do que aquilo que vi e me pareceu.",
+      "Da marinhagem e das singraduras do caminho não darei aqui conta a Vossa Alteza -- porque o não saberei fazer -- e os pilotos devem ter este cuidado.",
+      "E portanto, Senhor, do que hei de falar começo: E digo quê: A partida de Belém foi -- como Vossa Alteza sabe, segunda-feira 9 de março. E sábado, 14 do dito mês, entre as 8 e 9 horas, nos achamos entre as Canárias, mais perto da Grande Canária. E ali andamos todo aquele dia em calma, à vista delas, obra de três a quatro léguas. E domingo, 22 do dito mês, às dez horas mais ou menos, houvemos vista das ilhas de Cabo Verde, a saber da ilha de São Nicolau, segundo o dito de Pero Escolar, piloto.",
+      "Na noite seguinte à segunda-feira amanheceu, se perdeu da frota Vasco de Ataíde com a sua nau, sem haver tempo forte ou contrário para poder ser !",
+      "Fez o capitão suas diligências para o achar, em umas e outras partes. Mas... não apareceu mais !",
+      "E assim seguimos nosso caminho, por este mar de longo, até que terça-feira das Oitavas de Páscoa, que foram 21 dias de abril, topamos alguns sinais de terra, estando da dita Ilha -- segundo os pilotos diziam, obra de 660 ou 670 léguas -- os quais eram muita quantidade de ervas compridas, a que os mareantes chamam botelho, e assim mesmo outras a que dão o nome de rabo-de-asno. E quarta-feira seguinte, pela manhã, topamos aves a que chamam furabuchos.",
+      "Neste mesmo dia, a horas de véspera, houvemos vista de terra! A saber, primeiramente de um grande monte, muito alto e redondo; e de outras serras mais baixas ao sul dele; e de terra chã, com grandes arvoredos; ao qual monte alto o capitão pôs o nome de O Monte Pascoal e à terra A Terra de Vera Cruz!",
+      "Mandou lançar o prumo. Acharam vinte e cinco braças. E ao sol-posto umas seis léguas da terra, lançamos ancoras, em dezenove braças -- ancoragem limpa. Ali ficamo-nos toda aquela noite. E quinta-feira, pela manhã, fizemos vela e seguimos em direitura à terra, indo os navios pequenos diante -- por dezessete, dezesseis, quinze, catorze, doze, nove braças -- até meia légua da terra, onde todos lançamos ancoras, em frente da boca de um rio. E chegaríamos a esta ancoragem às dez horas, pouco mais ou menos.",
+      "E dali avistamos homens que andavam pela praia, uns sete ou oito, segundo disseram os navios pequenos que chegaram primeiro.",
+      "Então lançamos fora os batéis e esquifes. E logo vieram todos os capitães das naus a esta nau do Capitão-mor. E ali falaram. E o Capitão mandou em terra a Nicolau Coelho para ver aquele rio. E tanto que ele começou a ir-se para lá, acudiram pela praia homens aos dois e aos três, de maneira que, quando o batel chegou à boca do rio, já lá estavam dezoito ou vinte.",
+      "Pardos, nus, sem coisa alguma que lhes cobrisse suas vergonhas. Traziam arcos nas mãos, e suas setas.",
+      "Vinham todos rijamente em direção ao batel. E Nicolau Coelho lhes fez sinal que pousassem os arcos.",
+      "E eles os depuseram. Mas não pôde deles haver fala nem entendimento que aproveitasse, por o mar quebrar na costa. Somente arremessou-lhe um barrete vermelho e uma carapuça de linho que levava na cabeça, e um sombreiro preto. E um deles lhe arremessou um sombreiro de penas de ave, compridas, com uma copazinha de penas vermelhas e pardas, como de papagaio. E outro lhe deu um ramal grande de continhas brancas, miúdas que querem parecer de aljôfar, as quais peças creio que o Capitão manda a Vossa Alteza. E com isto se volveu às naus por ser tarde e não poder haver deles mais fala, por causa do mar. À noite seguinte ventou tanto sueste com chuvaceiros que fez caçar as naus. E especialmente a Capitaina. E sexta pela manhã, às oito horas, pouco mais ou menos, por conselho dos pilotos, mandou o Capitão levantar ancoras e fazer vela. E fomos de longo da costa, com os batéis e esquifes amarrados na popa, em direção norte, para ver se achávamos alguma abrigada e bom pouso, onde nós ficássemos, para tomar água e lenha. Não por nos já minguar, mas por nos prevenirmos aqui. E quando fizemos vela estariam já na praia assentados perto do rio obra de sessenta ou setenta homens que se haviam juntado ali aos poucos. Fomos ao longo, e mandou o Capitão aos navios pequenos que fossem mais chegados à terra e, se achassem pouso seguro para as naus, que amainassem.",
+      "E velejando nós pela costa, na distância de dez léguas do sítio onde tínhamos levantado ferro, acharam os ditos navios pequenos um recife com um porto dentro, muito bom e muito seguro, com uma mui larga entrada. E meteram-se dentro e amainaram. E as naus foram-se chegando, atrás deles. E um pouco antes de sol-pôsto amainaram também, talvez a uma légua do recife, e ancoraram a onze braças.",
+      "E estando Afonso Lopez, nosso piloto, em um daqueles navios pequenos, foi, por mandado do Capitão, por ser homem vivo e destro para isso, meter-se logo no esquife a sondar o porto dentro. E tomou dois daqueles homens da terra que estavam numa almadia: mancebos e de bons corpos. Um deles trazia um arco, e seis ou sete setas. E na praia andavam muitos com seus arcos e setas; mas não os aproveitou. Logo, já de noite, levou-os à Capitaina, onde foram recebidos com muito prazer e festa.",
+      "A feição deles é serem pardos, um tanto avermelhados, de bons rostos e bons narizes, bem feitos.",
+      "Andam nus, sem cobertura alguma. Nem fazem mais caso de encobrir ou deixa de encobrir suas vergonhas do que de mostrar a cara. Acerca disso são de grande inocência. Ambos traziam o beiço de baixo furado e metido nele um osso verdadeiro, de comprimento de uma mão travessa, e da grossura de um fuso de algodão, agudo na ponta como um furador. Metem-nos pela parte de dentro do beiço; e a parte que lhes fica entre o beiço e os dentes é feita a modo de roque de xadrez. E trazem-no ali encaixado de sorte que não os magoa, nem lhes põe estorvo no falar, nem no comer e beber.",
+      "Os cabelos deles são corredios. E andavam tosquiados, de tosquia alta antes do que sobre-pente, de boa grandeza, rapados todavia por cima das orelhas. E um deles trazia por baixo da solapa, de fonte a",
+      "fonte, na parte detrás, uma espécie de cabeleira, de penas de ave amarela, que seria do comprimento de um coto, mui basta e mui cerrada, que lhe cobria o toutiço e as orelhas. E andava pegada aos cabelos, pena por pena, com uma confeição branda como, de maneira tal que a cabeleira era mui redonda e mui basta, e mui igual, e não fazia míngua mais lavagem para a levantar.",
+      "O Capitão, quando eles vieram, estava sentado em uma cadeira, aos pés uma alcatifa por estrado; e bem vestido, com um colar de ouro, mui grande, ao pescoço. E Sancho de Tovar, e Simão de Miranda, e Nicolau Coelho, e Aires Corrêa, e nós outros que aqui na nau com ele íamos, sentados no chão, nessa alcatifa. Acenderam-se tochas. E eles entraram. Mas nem sinal de cortesia fizeram, nem de falar ao Capitão; nem a alguém. Todavia um deles fitou o colar do Capitão, e começou a fazer acenos com a mão em direção à terra, e depois para o colar, como se quisesse dizer-nos que havia ouro na terra. E também olhou para um castiçal de prata e assim mesmo acenava para a terra e novamente para o castiçal, como se lá também houvesse prata!",
+      "Mostraram-lhes um papagaio pardo que o Capitão traz consigo; tomaram-no logo na mão e acenaram para a terra, como se os houvesse ali.",
+      "Mostraram-lhes um carneiro; não fizeram caso dele.",
+      "Mostraram-lhes uma galinha; quase tiveram medo dela, e não lhe queriam pôr a mão. Depois lhe pegaram, mas como espantados.",
+      "Deram-lhes ali de comer: pão e peixe cozido, confeitos, fartéis, mel, figos passados. Não quiseram comer daquilo quase nada; e se provavam alguma coisa, logo a lançavam fora.",
+      "Trouxeram-lhes vinho em uma taça; mal lhe puseram a boca; não gostaram dele nada, nem quiseram mais.",
+      "Trouxeram-lhes água em uma albarrada, provaram cada um o seu bochecho, mas não beberam; apenas lavaram as bocas e lançaram-na fora.",
+      "Viu um deles umas contas de rosário, brancas; fez sinal que lhas dessem, e folgou muito com elas, e lançou-as ao pescoço; e depois tirou-as e meteu-as em volta do braço, e acenava para a terra e novamente para as contas e para o colar do Capitão, como se dariam ouro por aquilo.",
+      "Isto tomávamos nós nesse sentido, por assim o desejarmos! Mas se ele queria dizer que levaria as contas e mais o colar, isto não queríamos nós entender, por que lho não havíamos de dar! E depois tornou as contas a quem lhas dera. E então estiraram-se de costas na alcatifa, a dormir sem procurarem maneiras de encobrir suas vergonhas, as quais não eram fanadas; e as cabeleiras delas estavam bem rapadas e feitas.",
+      "O Capitão mandou pôr por baixo da cabeça de cada um seu coxim; e o da cabeleira esforçava-se por não a estragar. E deitaram um manto por cima deles; e consentindo, aconchegaram-se e adormeceram.",
+      "Sábado pela manhã mandou o Capitão fazer vela, fomos demandar a entrada, a qual era mui larga e tinha seis a sete braças de fundo. E entraram todas as naus dentro, e ancoraram em cinco ou seis braças -- ancoradouro que é tão grande e tão formoso de dentro, e tão seguro que podem ficar nele mais de duzentos navios e naus. E tanto que as naus foram distribuídas e ancoradas, vieram os capitães todos a esta nau do Capitão-mor. E daqui mandou o Capitão que Nicolau Coelho e Bartolomeu Dias fossem em terra e levassem aqueles dois homens, e os deixassem ir com seu arco e setas, aos quais mandou dar a cada um uma camisa nova e uma carapuça vermelha e um rosário de contas brancas de osso, que foram levando nos braços, e um cascavel e uma campainha. E mandou com eles, para lá ficar, um mancebo degredado, criado de dom João Telo, de nome Afonso Ribeiro, para lá andar com eles e saber de seu viver e maneiras. E a mim mandou que fosse com Nicolau Coelho. Fomos assim de frecha direitos à praia. Ali acudiram logo perto de duzentos homens, todos nus, com arcos e setas nas mãos. Aqueles que nós levamos acenaram-lhes que se afastassem e depusessem os arcos. E eles os depuseram. Mas não se afastaram muito. E mal tinham pousado seus arcos quando saíram os que nós levávamos, e o mancebo degredado com eles. E saídos não pararam mais; nem esperavam um pelo outro, mas antes corriam a quem mais correria. E passaram um rio que aí corre, de água doce, de muita água que lhes dava pela braga. E muitos outros com eles. E foram assim correndo para além do rio entre umas moitas de palmeiras onde estavam outros. E ali pararam. E naquilo tinha ido o degredado",
+      "com um homem que, logo ao sair do batel, o agasalhou e levou até lá. Mas logo o tornaram a nós. E com ele vieram os outros que nós leváramos, os quais vinham já nus e sem carapuças.",
+      "E então se começaram de chegar muitos; e entravam pela beira do mar para os batéis, até que mais não podiam. E traziam cabaças d'água, e tomavam alguns barris que nós levávamos e enchiam-nos de água e traziam-nos aos batéis. Não que eles de todo chegassem a bordo do batel. Mas junto a ele, lançavamnos da mão. E nós tomávamo-los. E pediam que lhes dessem alguma coisa.",
+      "Levava Nicolau Coelho cascavéis e manilhas. E a uns dava um cascavel, e a outros uma manilha, de maneira que com aquela encarna quase que nos queriam dar a mão. Davam-nos daqueles arcos e setas em troca de sombreiros e carapuças de linho, e de qualquer coisa que a gente lhes queria dar.",
+      "Dali se partiram os outros, dois mancebos, que não os vimos mais.",
+      "Dos que ali andavam, muitos -- quase a maior parte --traziam aqueles bicos de osso nos beiços.",
+      "E alguns, que andavam sem eles, traziam os beiços furados e nos buracos traziam uns espelhos de pau, que pareciam espelhos de borracha. E alguns deles traziam três daqueles bicos, a saber um no meio, e os dois nos cabos.",
+      "E andavam lá outros, quartejados de cores, a saber metade deles da sua própria cor, e metade de tintura preta, um tanto azulada; e outros quartejados d'escaques.",
+      "Ali andavam entre eles três ou quatro moças, bem novinhas e gentis, com cabelos muito pretos e compridos pelas costas; e suas vergonhas, tão altas e tão cerradinhas e tão limpas das cabeleiras que, de as nós muito bem olharmos, não se envergonhavam.",
+      "Ali por então não houve mais fala ou entendimento com eles, por a barbana deles ser tamanha que se não entendia nem ouvia ninguém. Acenamos-lhes que se fossem. E assim o fizeram e passaram-se para além do rio. E saíram três ou quatro homens nossos dos batéis, e encheram não sei quantos barris d'água que nós levávamos. E tornamo-nos às naus. E quando assim vínhamos, acenaram-nos que voltássemos. Voltamos, e eles mandaram o degredado e não quiseram que ficasse lá com eles, o qual levava uma bacia pequena e duas ou três carapuças vermelhas para lá as dar ao senhor, se o lá houvesse. Não trataram de lhe tirar coisa alguma, antes mandaram-no com tudo. Mas então Bartolomeu Dias o fez outra vez tornar, que lhe desse aquilo. E ele tornou e deu aquilo, em vista de nós, a aquele que o da primeira agasalhara. E então veio-se, e nós levamo-lo.",
+      "Esse que o agasalhou era já de idade, e andava por galanteria, cheio de penas, pegadas pelo corpo, que parecia seteado como São Sebastião. Outros traziam carapuças de penas amarelas; e outros, de vermelhas; e outros de verdes. E uma daquelas moças era toda tingida de baixo a cima, daquela tintura e certo era tão bem feita e tão redonda, e sua vergonha tão graciosa que a muitas mulheres de nossa terra, vendo-lhe tais feições envergonhara, por não terem as suas como ela. Nenhum deles era fanado, mas todos assim como nós.",
+      "E com isto nos tornamos, e eles foram-se. À tarde saiu o Capitão-mor em seu batel com todos nós outros capitães das naus em seus batéis a folgar pela baía, perto da praia. Mas ninguém saiu em terra, por o Capitão o não querer, apesar de ninguém estar nela. Apenas saiu -- ele com todos nós -- em um ilhéu grande que está na baía, o qual, aquando baixamar, fica mui vazio. Com tudo está de todas as partes cercado de água, de sorte que ninguém lá pode ir, a não ser de barco ou a nado. Ali folgou ele, e todos nós, bem uma hora e meia. E pescaram lá, andando alguns marinheiros com um chinchorro; e mataram peixe miúdo, não muito. E depois volvemo-nos às naus, já bem noite.",
+      "Ao domingo de Pascoela pela manhã, determinou o Capitão ir ouvir missa e sermão naquele ilhéu. E mandou a todos os capitães que se arranjassem nos batéis e fossem com ele. E assim foi feito. Mandou armar um pavilhão naquele ilhéu, e dentro levantar um altar mui bem arranjado. E ali com todos nós outros fez dizer missa, a qual disse o padre frei Henrique, em voz entoada, e oficiada com aquela mesma voz pelos outros padres e sacerdotes que todos assistiram, a qual missa, segundo meu parecer, foi ouvida por todos com muito prazer e devoção.",
+      "Ali estava com o Capitão a bandeira de Cristo, com que saíra de Belém, a qual esteve sempre bem alta, da parte do Evangelho.",
+      "Acabada a missa, desvestiu-se o padre e subiu a uma cadeira alta; e nós todos lançados por essa areia.",
+      "E pregou uma solene e proveitosa pregação, da história evangélica; e no fim tratou da nossa vida, e do achamento desta terra, referindo-se à Cruz, sob cuja obediência viemos, que veio muito a propósito, e fez muita devoção.",
+      "Enquanto assistimos à missa e ao sermão, estaria na praia outra tanta gente, pouco mais ou menos, como a de ontem, com seus arcos e setas, e andava folgando. E olhando-nos, sentaram. E depois de acabada a missa, quando nós sentados atendíamos a pregação, levantaram-se muitos deles e tangeram corno ou buzina e começaram a saltar e dançar um pedaço. E alguns deles se metiam em almadias -duas ou três que lá tinham -- as quais não são feitas como as que eu vi; apenas são três traves, atadas juntas. E ali se metiam quatro ou cinco, ou esses que queriam, não se afastando quase nada da terra, só até onde podiam tomar pé.",
+      "Acabada a pregação encaminhou-se o Capitão, com todos nós, para os batéis, com nossa bandeira alta.",
+      "Embarcamos e fomos indo todos em direção à terra para passarmos ao longo por onde eles estavam, indo na dianteira, por ordem do Capitão, Bartolomeu Dias em seu esquife, com um pau de uma almadia que lhes o mar levara, para o entregar a eles. E nós todos trás dele, a distância de um tiro de pedra.",
+      "Como viram o esquife de Bartolomeu Dias, chegaram-se logo todos à água, metendo-se nela até onde mais podiam. Acenaram-lhes que pousassem os arcos e muitos deles os iam logo pôr em terra; e outros não os punham.",
+      "Andava lá um que falava muito aos outros, que se afastassem. Mas não já que a mim me parecesse que lhe tinham respeito ou medo. Este que os assim andava afastando trazia seu arco e setas. Estava tinto de tintura vermelha pelos peitos e costas e pelos quadris, coxas e pernas até baixo, mas os vazios com a barriga e estômago eram de sua própria cor. E a tintura era tão vermelha que a água lha não comia nem desfazia. Antes, quando saía da água, era mais vermelho. Saiu um homem do esquife de Bartolomeu Dias e andava no meio deles, sem implicarem nada com ele, e muito menos ainda pensavam em fazer-lhe mal. Apenas lhe davam cabaças d'água; e acenavam aos do esquife que saíssem em terra. Com isto se volveu Bartolomeu Dias ao Capitão. E viemo-nos às naus, a comer, tangendo trombetas e gaitas, sem os mais constranger. E eles tornaram-se a sentar na praia, e assim por então ficaram.",
+      "Neste ilhéu, onde fomos ouvir missa e sermão, espraia muito a água e descobre muita areia e muito cascalho. Enquanto lá estávamos foram alguns buscar marisco e não no acharam. Mas acharam alguns camarões grossos e curtos, entre os quais vinha um muito grande e muito grosso; que em nenhum tempo o vi tamanho. Também acharam cascas de berbigões e de amêijoas, mas não toparam com nenhuma peça inteira. E depois de termos comido vieram logo todos os capitães a esta nau, por ordem do Capitão-mor, com os quais ele se aportou; e eu na companhia. E perguntou a todos se nos parecia bem mandar a nova do achamento desta terra a Vossa Alteza pelo navio dos mantimentos, para a melhor mandar descobrir e saber dela mais do que nós podíamos saber, por irmos na nossa viagem.",
+      "E entre muitas falas que sobre o caso se fizeram foi dito, por todos ou a maior parte, que seria muito bem. E nisto concordaram. E logo que a resolução foi tomada, perguntou mais, se seria bem tomar aqui por força um par destes homens para os mandar a Vossa Alteza, deixando aqui em lugar deles outros dois destes degredados.",
+      "E concordaram em que não era necessário tomar por força homens, porque costume era dos que assim à força levavam para alguma parte dizerem que há de tudo quanto lhes perguntam; e que melhor e muito melhor informação da terra dariam dois homens desses degredados que aqui deixássemos do que eles dariam se os levassem por ser gente que ninguém entende. Nem eles cedo aprenderiam a falar para o saberem tão bem dizer que muito melhor estoutros o não digam quando cá Vossa Alteza mandar.",
+      "E que portanto não cuidássemos de aqui por força tomar ninguém, nem fazer escândalo; mas sim, para os de todo amansar e apaziguar, unicamente de deixar aqui os dois degredados quando daqui partíssemos.",
+      "E assim ficou determinado por parecer melhor a todos.",
+      "Acabado isto, disse o Capitão que fôssemos nos batéis em terra. E ver-se-ia bem, quejando era o rio.",
+      "Mas também para folgarmos.",
+      "Fomos todos nos batéis em terra, armados; e a bandeira conosco. Eles andavam ali na praia, à boca do rio, para onde nós íamos; e, antes que chegássemos, pelo ensino que dantes tinham, puseram todos os arcos, e acenaram que saíssemos. Mas, tanto que os batéis puseram as proas em terra, passaram-se logo todos além do rio, o qual não é mais ancho que um jogo de mancal. E tanto que desembarcamos, alguns dos nossos passaram logo o rio, e meteram-se entre eles. E alguns aguardavam; e outros se afastavam. Com tudo, a coisa era de maneira que todos andavam misturados. Eles davam desses arcos com suas setas por sombreiros e carapuças de linho, e por qualquer coisa que lhes davam. Passaram além tantos dos nossos e andaram assim misturados com eles, que eles se esquivavam, e afastavam-se; e iam alguns para cima, onde outros estavam. E então o Capitão fez que o tomassem ao colo dois homens e passou o rio, e fez tornar a todos. A gente que ali estava não seria mais que aquela do costume. Mas logo que o Capitão chamou todos para trás, alguns se chegaram a ele, não por o reconhecerem por Senhor, mas porque a gente, nossa, já passava para aquém do rio. Ali falavam e traziam muitos arcos e continhas, daquelas já ditas, e resgatavam-nas por qualquer coisa, de tal maneira que os nossos levavam dali para as naus muitos arcos, e setas e contas.",
+      "E então tornou-se o Capitão para aquém do rio. E logo acudiram muitos à beira dele.",
+      "Ali veríeis galantes, pintados de preto e vermelho, e quartejados, assim pelos corpos como pelas pernas, que, certo, assim pareciam bem. Também andavam entre eles quatro ou cinco mulheres, novas, que assim nuas, não pareciam mal. Entre elas andava uma, com uma coxa, do joelho até o quadril e a nádega, toda tingida daquela tintura preta; e todo o resto da sua cor natural. Outra trazia ambos os joelhos com as curvas assim tintas, e também os colos dos pés; e suas vergonhas tão nuas, e com tanta inocência assim descobertas, que não havia nisso desvergonha nenhuma.",
+      "Também andava lá outra mulher, nova, com um menino ou menina, atado com um pano aos peitos, de modo que não se lhe viam senão as perninhas. Mas nas pernas da mãe, e no resto, não havia pano algum.",
+      "Em seguida o Capitão foi subindo ao longo do rio, que corre rente à praia. E ali esperou por um velho que trazia na mão uma pá de almadia. Falou, enquanto o Capitão estava com ele, na presença de todos nós; mas ninguém o entendia, nem ele a nós, por mais coisas que a gente lhe perguntava com respeito a ouro, porque desejávamos saber se o havia na terra.",
+      "Trazia este velho o beiço tão furado que lhe cabia pelo buraco um grosso dedo polegar. E trazia metido no buraco uma pedra verde, de nenhum valor, que fechava por fora aquele buraco. E o Capitão lha fez tirar. E ele não sei que diabo falava e ia com ela para a boca do Capitão para lha meter. Estivemos rindo um pouco e dizendo chalaças sobre isso. E então enfadou-se o Capitão, e deixou-o. E um dos nossos deu-lhe pela pedra um sombreiro velho; não por ela valer alguma coisa, mas para amostra. E depois houve-a o Capitão, creio, para mandar com as outras coisas a Vossa Alteza.",
+      "Andamos por aí vendo o ribeiro, o qual é de muita água e muito boa. Ao longo dele há muitas palmeiras, não muito altas; e muito bons palmitos. Colhemos e comemos muitos deles.",
+      "Depois tornou-se o Capitão para baixo para a boca do rio, onde tínhamos desembarcado.",
+      "E além do rio andavam muitos deles dançando e folgando, uns diante os outros, sem se tomarem pelas mãos. E faziam-no bem. Passou-se então para a outra banda do rio Diogo Dias, que fora almoxarife de Sacavém, o qual é homem gracioso e de prazer. E levou consigo um gaiteiro nosso com sua gaita. E meteu-se a dançar com eles, tomando-os pelas mãos; e eles folgavam e riam e andavam com ele muito bem ao som da gaita. Depois de dançarem fez ali muitas voltas ligeiras, andando no chão, e salto real, de que se eles espantavam e riam e folgavam muito. E conquanto com aquilo os segurou e afagou muito, tomavam logo uma esquiveza como de animais montezes, e foram-se para cima.",
+      "E então passou o rio o Capitão com todos nós, e fomos pela praia, de longo, ao passo que os batéis iam rentes à terra. E chegamos a uma grande lagoa de água doce que está perto da praia, porque toda aquela ribeira do mar é apaulada por cima e sai a água por muitos lugares.",
+      "E depois de passarmos o rio, foram uns sete ou oito deles meter-se entre os marinheiros que se recolhiam aos batéis. E levaram dali um tubarão que Bartolomeu Dias matou. E levavam-lho; e lançou-o na praia.",
+      "Bastará que até aqui, como quer que se lhes em alguma parte amansassem, logo de uma mão para outra se esquivavam, como pardais do cevadouro. Ninguém não lhes ousa falar de rijo para não se esquivarem mais. E tudo se passa como eles querem -- para os bem amansarmos !",
+      "Ao velho com quem o Capitão havia falado, deu-lhe uma carapuça vermelha. E com toda a conversa que com ele houve, e com a carapuça que lhe deu tanto que se despediu e começou a passar o rio, foise logo recatando. E não quis mais tornar do rio para aquém. Os outros dois o Capitão teve nas naus, aos quais deu o que já ficou dito, nunca mais aqui apareceram -- fatos de que deduzo que é gente bestial e de pouco saber, e por isso tão esquiva. Mas apesar de tudo isso andam bem curados, e muito limpos. E naquilo ainda mais me convenço que são como aves, ou alimárias montezinhas, as quais o ar faz melhores penas e melhor cabelo que às mansas, porque os seus corpos são tão limpos e tão gordos e tão formosos que não pode ser mais! E isto me faz presumir que não tem casas nem moradias em que se recolham; e o ar em que se criam os faz tais. Nós pelo menos não vimos até agora nenhumas casas, nem coisa que se pareça com elas.",
+      "Mandou o Capitão aquele degredado, Afonso Ribeiro, que se fosse outra vez com eles. E foi; e andou lá um bom pedaço, mas a tarde regressou, que o fizeram eles vir: e não o quiseram lá consentir. E deram-lhe arcos e setas; e não lhe tomaram nada do seu. Antes, disse ele, que lhe tomara um deles umas continhas amarelas que levava e fugia com elas, e ele se queixou e os outros foram logo após ele, e lhas tomaram e tornaram-lhas a dar; e então mandaram-no vir. Disse que não vira lá entre eles senão umas choupaninhas de rama verde e de feteiras muito grandes, como as de Entre Douro e Minho. E assim nos tornamos às naus, já quase noite, a dormir.",
+      "Segunda-feira, depois de comer, saímos todos em terra a tomar água. Ali vieram então muitos; mas não tantos como as outras vezes. E traziam já muito poucos arcos. E estiveram um pouco afastados de nós; mas depois pouco a pouco misturaram-se conosco; e abraçavam-nos e folgavam; mas alguns deles se esquivavam logo. Ali davam alguns arcos por folhas de papel e por alguma carapucinha velha e por qualquer coisa. E de tal maneira se passou a coisa que bem vinte ou trinta pessoas das nossas se foram com eles para onde outros muitos deles estavam com moças e mulheres. E trouxeram de lá muitos arcos e barretes de penas de aves, uns verdes, outros amarelos, dos quais creio que o Capitão há de mandar uma amostra a Vossa Alteza.",
+      "E segundo diziam esses que lá tinham ido, brincaram com eles. Neste dia os vimos mais de perto e mais à nossa vontade, por andarmos quase todos misturados: uns andavam quartejados daquelas tinturas, outros de metades, outros de tanta feição como em pano de ras, e todos com os beiços furados, muitos com os ossos neles, e bastantes sem ossos. Alguns traziam uns ouriços verdes, de árvores, que na cor queriam parecer de castanheiras, embora fossem muito mais pequenos. E estavam cheios de uns grãos vermelhos, pequeninos que, esmagando-se entre os dedos, se desfaziam na tinta muito vermelha de que andavam tingidos. E quanto mais se molhavam, tanto mais vermelhos ficavam.",
+      "Todos andam rapados até por cima das orelhas; assim mesmo de sobrancelhas e pestanas.",
+      "Trazem todos as testas, de fonte a fonte, tintas de tintura preta, que parece uma fita preta da largura de dois dedos.",
+      "E o Capitão mandou aquele degredado Afonso Ribeiro e a outros dois degredados que fossem meter-se entre eles; e assim mesmo a Diogo Dias, por ser homem alegre, com que eles folgavam. E aos degredados ordenou que ficassem lá esta noite.",
+      "Foram-se lá todos; e andaram entre eles. E segundo depois diziam, foram bem uma légua e meia a uma povoação, em que haveria nove ou dez casas, as quais diziam que eram tão compridas, cada uma, como esta nau capitaina. E eram de madeira, e das ilhargas de tábuas, e cobertas de palha, de razoável",
+      "altura; e todas de um só espaço, sem repartição alguma, tinham de dentro muitos esteios; e de esteio a esteio uma rede atada com cabos em cada esteio, altas, em que dormiam. E de baixo, para se aquentarem, faziam seus fogos. E tinha cada casa duas portas pequenas, uma numa extremidade, e outra na oposta. E diziam que em cada casa se recolhiam trinta ou quarenta pessoas, e que assim os encontraram; e que lhes deram de comer dos alimentos que tinham, a saber muito inhame, e outras sementes que na terra dá, que eles comem. E como se fazia tarde fizeram-nos logo todos tornar; e não quiseram que lá ficasse nenhum. E ainda, segundo diziam, queriam vir com eles. Resgataram lá por cascavéis e outras coisinhas de pouco valor, que levavam, papagaios vermelhos, muito grandes e formosos, e dois verdes pequeninos, e carapuças de penas verdes, e um pano de penas de muitas cores, espécie de tecido assaz belo, segundo Vossa Alteza todas estas coisas verá, porque o Capitão vo-las há de mandar, segundo ele disse. E com isto vieram; e nós tornamo-nos às naus.",
+      "Terça-feira, depois de comer, fomos em terra, fazer lenha, e para lavar roupa. Estavam na praia, quando chegamos, uns sessenta ou setenta, sem arcos e sem nada. Tanto que chegamos, vieram logo para nós, sem se esquivarem. E depois acudiram muitos, que seriam bem duzentos, todos sem arcos. E misturaram-se todos tanto conosco que uns nos ajudavam a acarretar lenha e metê-las nos batéis. E lutavam com os nossos, e tomavam com prazer. E enquanto fazíamos a lenha, construíam dois carpinteiros uma grande cruz de um pau que se ontem para isso cortara. Muitos deles vinham ali estar com os carpinteiros. E creio que o faziam mais para verem a ferramenta de ferro com que a faziam do que para verem a cruz, porque eles não tem coisa que de ferro seja, e cortam sua madeira e paus com pedras feitas como cunhas, metidas em um pau entre duas talas, mui bem atadas e por tal maneira que andam fortes, porque lhas viram lá. Era já a conversação deles conosco tanta que quase nos estorvavam no que havíamos de fazer.",
+      "E o Capitão mandou a dois degredados e a Diogo Dias que fossem lá à aldeia e que de modo algum viessem a dormir às naus, ainda que os mandassem embora. E assim se foram.",
+      "Enquanto andávamos nessa mata a cortar lenha, atravessavam alguns papagaios essas árvores; verdes uns, e pardos, outros, grandes e pequenos, de sorte que me parece que haverá muitos nesta terra.",
+      "Todavia os que vi não seriam mais que nove ou dez, quando muito. Outras aves não vimos então, a não ser algumas pombas-seixeiras, e pareceram-me maiores bastante do que as de Portugal. Vários diziam que viram rolas, mas eu não as vi. Todavia segundo os arvoredos são mui muitos e grandes, e de infinitas espécies, não duvido que por esse sertão haja muitas aves!",
+      "E cerca da noite nós volvemos para as naus com nossa lenha.",
+      "Eu creio, Senhor, que não dei ainda conta aqui a Vossa Alteza do feitio de seus arcos e setas. Os arcos são pretos e compridos, e as setas compridas; e os ferros delas são canas aparadas, conforme Vossa Alteza verá alguns que creio que o Capitão a Ela há de enviar.",
+      "Quarta-feira não fomos em terra, porque o Capitão andou todo o dia no navio dos mantimentos a despejá-lo e fazer levar às naus isso que cada um podia levar. Eles acudiram à praia, muitos, segundo das naus vimos. Seriam perto de trezentos, segundo Sancho de Tovar que para lá foi. Diogo Dias e Afonso Ribeiro, o degredado, aos quais o Capitão ontem ordenara que de toda maneira lá dormissem, tinham voltado já de noite, por eles não quererem que lá ficassem. E traziam papagaios verdes; e outras aves pretas, quase como pegas, com a diferença de terem o bico branco e rabos curtos. E quando Sancho de Tovar recolheu à nau, queriam vir com ele, alguns; mas ele não admitiu senão dois mancebos, bem dispostos e homens de prol. Mandou pensar e curá-los mui bem essa noite. E comeram toda a ração que lhes deram, e mandou dar-lhes cama de lençóis, segundo ele disse. E dormiram e folgaram aquela noite. E não houve mais este dia que para escrever seja.",
+      "Quinta-feira, derradeiro de abril, comemos logo, quase pela manhã, e fomos em terra por mais lenha e água. E em querendo o Capitão sair desta nau, chegou Sancho de Tovar com seus dois hóspedes. E por ele ainda não ter comido, puseram-lhe toalhas, e veio-lhe comida. E comeu. Os hóspedes, sentaram-no cada um em sua cadeira. E de tudo quanto lhes deram, comeram mui bem, especialmente lacão cozido frio, e arroz. Não lhes deram vinho por Sancho de Tovar dizer que o não bebiam bem.",
+      "Acabado o comer, metemo-nos todos no batel, e eles conosco. Deu um grumete a um deles uma armadura grande de porco montês, bem revolta. E logo que a tomou meteu-a no beiço; e porque se lhe",
+      "não queria segurar, deram-lhe uma pouca de cera vermelha. E ele ajeitou-lhe seu adereço da parte de trás de sorte que segurasse, e meteu-a no beiço, assim revolta para cima; e ia tão contente com ela, como se tivesse uma grande jóia. E tanto que saímos em terra, foi-se logo com ela. E não tornou a aparecer lá.",
+      "Andariam na praia, quando saímos, oito ou dez deles; e de aí a pouco começaram a vir. E parece-me que viriam este dia a praia quatrocentos ou quatrocentos e cinqüenta. Alguns deles traziam arcos e setas; e deram tudo em troca de carapuças e por qualquer coisa que lhes davam. Comiam conosco do que lhes dávamos, e alguns deles bebiam vinho, ao passo que outros o não podiam beber. Mas querme parecer que, se os acostumarem, o hão de beber de boa vontade! Andavam todos tão bem dispostos e tão bem feitos e galantes com suas pinturas que agradavam. Acarretavam dessa lenha quanta podiam, com mil boas vontades, e levavam-na aos batéis. E estavam já mais mansos e seguros entre nós do que nós estávamos entre eles.",
+      "Foi o Capitão com alguns de nós um pedaço por este arvoredo até um ribeiro grande, e de muita água, que ao nosso parecer é o mesmo que vem ter à praia, em que nós tomamos água. Ali descansamos um pedaço, bebendo e folgando, ao longo dele, entre esse arvoredo que é tanto e tamanho e tão basto e de tanta qualidade de folhagem que não se pode calcular. Há lá muitas palmeiras, de que colhemos muitos e bons palmitos.",
+      "Ao sairmos do batel, disse o Capitão que seria bom irmos em direitura à cruz que estava encostada a uma árvore, junto ao rio, a fim de ser colocada amanhã, sexta-feira, e que nos puséssemos todos de joelhos e a beijássemos para eles verem o acatamento que lhe tínhamos. E assim fizemos. E a esses dez ou doze que lá estavam, acenaram-lhes que fizessem o mesmo; e logo foram todos beijá-la.",
+      "Parece-me gente de tal inocência que, se nós entendêssemos a sua fala e eles a nossa, seriam logo cristãos, visto que não têm nem entendem crença alguma, segundo as aparências. E portanto se os degredados que aqui hão de ficar aprenderem bem a sua fala e os entenderem, não duvido que eles, segundo a santa tenção de Vossa Alteza, se farão cristãos e hão de crer na nossa santa fé, à qual praza a Nosso Senhor que os traga, porque certamente esta gente é boa e de bela simplicidade. E imprimirse-á facilmente neles qualquer cunho que lhe quiserem dar, uma vez que Nosso Senhor lhes deu bons corpos e bons rostos, como a homens bons. E o Ele nos para aqui trazer creio que não foi sem causa. E portanto Vossa Alteza, pois tanto deseja acrescentar a santa fé católica, deve cuidar da salvação deles.",
+      "E prazerá a Deus que com pouco trabalho seja assim!",
+      "Eles não lavram nem criam. Nem há aqui boi ou vaca, cabra, ovelha ou galinha, ou qualquer outro animal que esteja acostumado ao viver do homem. E não comem senão deste inhame, de que aqui há muito, e dessas sementes e frutos que a terra e as árvores de si deitam. E com isto andam tais e tão rijos e tão nédios que o não somos nós tanto, com quanto trigo e legumes comemos.",
+      "Nesse dia, enquanto ali andavam, dançaram e bailaram sempre com os nossos, ao som de um tamboril nosso, como se fossem mais amigos nossos do que nós seus. Se lhes a gente acenava, se queriam vir às naus, aprontavam-se logo para isso, de modo tal, que se os convidáramos a todos, todos vieram. Porém não levamos esta noite às naus senão quatro ou cinco; a saber, o Capitão-mor, dois; e Simão de Miranda, um que já trazia por pagem; e Aires Gomes a outro, pagem também. Os que o Capitão trazia, era um deles um dos seus hóspedes que lhe haviam trazido a primeira vez quando aqui chegamos -- o qual veio hoje aqui vestido na sua camisa, e com ele um seu irmão; e foram esta noite mui bem agasalhados tanto de comida como de cama, de colchões e lençóis, para os mais amansar.",
+      "E hoje que é sexta-feira, primeiro dia de maio, pela manhã, saímos em terra com nossa bandeira; e fomos desembarcar acima do rio, contra o sul onde nos pareceu que seria melhor arvorar a cruz, para melhor ser vista. E ali marcou o Capitão o sítio onde haviam de fazer a cova para a fincar. E enquanto a iam abrindo, ele com todos nós outros fomos pela cruz, rio abaixo onde ela estava. E com os religiosos e sacerdotes que cantavam, à frente, fomos trazendo-a dali, a modo de procissão. Eram já aí quantidade deles, uns setenta ou oitenta; e quando nos assim viram chegar, alguns se foram meter debaixo dela, ajudar-nos. Passamos o rio, ao longo da praia; e fomos colocá-la onde havia de ficar, que será obra de dois tiros de besta do rio. Andando-se ali nisto, viriam bem cento cinqüenta, ou mais.",
+      "Plantada a cruz, com as armas e a divisa de Vossa Alteza, que primeiro lhe haviam pregado, armaram altar ao pé dela. Ali disse missa o padre frei Henrique, a qual foi cantada e oficiada por esses já ditos.",
+      "Ali estiveram conosco, a ela, perto de cinqüenta ou sessenta deles, assentados todos de joelho assim como nós. E quando se veio ao Evangelho, que nos erguemos todos em pé, com as mãos levantadas, eles se levantaram conosco, e alçaram as mãos, estando assim até se chegar ao fim; e então tornaramse a assentar, como nós. E quando levantaram a Deus, que nos pusemos de joelhos, eles se puseram assim como nós estávamos, com as mãos levantadas, e em tal maneira sossegados que certifico a Vossa Alteza que nos fez muita devoção.",
+      "Estiveram assim conosco até acabada a comunhão; e depois da comunhão, comungaram esses religiosos e sacerdotes; e o Capitão com alguns de nós outros. E alguns deles, por o Sol ser grande, levantaram-se enquanto estávamos comungando, e outros estiveram e ficaram. Um deles, homem de cinqüenta ou cinqüenta e cinco anos, se conservou ali com aqueles que ficaram. Esse, enquanto assim estávamos, juntava aqueles que ali tinham ficado, e ainda chamava outros. E andando assim entre eles, falando-lhes, acenou com o dedo para o altar, e depois mostrou com o dedo para o céu, como se lhes dissesse alguma coisa de bem; e nós assim o tomamos!",
+      "Acabada a missa, tirou o padre a vestimenta de cima, e ficou na alva; e assim se subiu, junto ao altar, em uma cadeira; e ali nos pregou o Evangelho e dos Apóstolos cujo é o dia, tratando no fim da pregação desse vosso prosseguimento tão santo e virtuoso, que nos causou mais devoção.",
+      "Esses que estiveram sempre à pregação estavam assim como nós olhando para ele. E aquele que digo, chamava alguns, que viessem ali. Alguns vinham e outros iam-se; e acabada a pregação, trazia Nicolau Coelho muitas cruzes de estanho com crucifixos, que lhe ficaram ainda da outra vinda. E houveram por bem que lançassem a cada um sua ao pescoço. Por essa causa se assentou o padre frei Henrique ao pé da cruz; e ali lançava a sua a todos -- um a um -- ao pescoço, atada em um fio, fazendo-lha primeiro beijar e levantar as mãos. Vinham a isso muitos; e lançavam-nas todas, que seriam obra de quarenta ou cinqüenta. E isto acabado -- era já bem uma hora depois do meio dia -- viemos às naus a comer, onde o Capitão trouxe consigo aquele mesmo que fez aos outros aquele gesto para o altar e para o céu, (e um seu irmão com ele). A aquele fez muita honra e deu-lhe uma camisa mourisca; e ao outro uma camisa destoutras.",
+      "E segundo o que a mim e a todos pareceu, esta gente, não lhes falece outra coisa para ser toda cristã, do que entenderem-nos, porque assim tomavam aquilo que nos viam fazer como nós mesmos; por onde pareceu a todos que nenhuma idolatria nem adoração têm. E bem creio que, se Vossa Alteza aqui mandar quem entre eles mais devagar ande, que todos serão tornados e convertidos ao desejo de Vossa Alteza. E por isso, se alguém vier, não deixe logo de vir clérigo para os batizar; porque já então terão mais conhecimentos de nossa fé, pelos dois degredados que aqui entre eles ficam, os quais hoje também comungaram.",
+      "Entre todos estes que hoje vieram não veio mais que uma mulher, moça, a qual esteve sempre à missa, à qual deram um pano com que se cobrisse; e puseram-lho em volta dela. Todavia, ao sentar-se, não se lembrava de o estender muito para se cobrir. Assim, Senhor, a inocência desta gente é tal que a de Adão não seria maior -- com respeito ao pudor.",
+      "Ora veja Vossa Alteza quem em tal inocência vive se se convertera, ou não, se lhe ensinarem o que pertence à sua salvação.",
+      "Acabado isto, fomos perante eles beijar a cruz. E despedimo-nos e fomos comer.",
+      "Creio, Senhor, que, com estes dois degredados que aqui ficam, ficarão mais dois grumetes, que esta noite se saíram em terra, desta nau, no esquife, fugidos, os quais não vieram mais. E cremos que ficarão aqui porque de manhã, prazendo a Deus fazemos nossa partida daqui.",
+      "Esta terra, Senhor, parece-me que, da ponta que mais contra o sul vimos, até à outra ponta que contra o norte vem, de que nós deste porto houvemos vista, será tamanha que haverá nela bem vinte ou vinte e cinco léguas de costa. Traz ao longo do mar em algumas partes grandes barreiras, umas vermelhas, e outras brancas; e a terra de cima toda chã e muito cheia de grandes arvoredos. De ponta a ponta é toda praia... muito chã e muito formosa. Pelo sertão nos pareceu, vista do mar, muito grande; porque a estender olhos, não podíamos ver senão terra e arvoredos -- terra que nos parecia muito extensa.",
+      "Até agora não pudemos saber se há ouro ou prata nela, ou outra coisa de metal, ou ferro; nem lha vimos. Contudo a terra em si é de muito bons ares frescos e temperados como os de Entre-Douro-eMinho, porque neste tempo d'agora assim os achávamos como os de lá. Águas são muitas; infinitas.",
+      "Em tal maneira é graciosa que, querendo-a aproveitar, dar-se-á nela tudo; por causa das águas que tem!",
+      "Contudo, o melhor fruto que dela se pode tirar parece-me que será salvar esta gente. E esta deve ser a principal semente que Vossa Alteza em ela deve lançar. E que não houvesse mais do que ter Vossa Alteza aqui esta pousada para essa navegação de Calicute bastava. Quanto mais, disposição para se nela cumprir e fazer o que Vossa Alteza tanto deseja, a saber, acrescentamento da nossa fé!",
+      "E desta maneira dou aqui a Vossa Alteza conta do que nesta Vossa terra vi. E se a um pouco alonguei, Ela me perdoe. Porque o desejo que tinha de Vos tudo dizer, mo fez pôr assim pelo miúdo.",
+      "E pois que, Senhor, é certo que tanto neste cargo que levo como em outra qualquer coisa que de Vosso serviço for, Vossa Alteza há de ser de mim muito bem servida, a Ela peço que, por me fazer singular mercê, mande vir da ilha de São Tomé a Jorge de Osório, meu genro -- o que d'Ela receberei em muita mercê.",
+      "Beijo as mãos de Vossa Alteza.",
+      "Deste Porto Seguro, da Vossa Ilha de Vera Cruz, hoje, sexta-feira, primeiro dia de maio de 1500.",
+      "Pero Vaz de Caminha."
     ],
     "questoes": [
       {
         "enunciado": "Qual objeto do capitão atrai a atenção de um dos visitantes?",
-        "resposta": "Um colar de ouro.",
-        "trecho": "colar do capitão"
+        "resposta": "Um colar de ouro."
       },
       {
         "enunciado": "Onde ocorre a cena e quem a narra?",
@@ -1215,7 +1646,7 @@
     "fonte": {
       "credito": "Fiocruz · 4º seminário preparatório do IX Congresso Interno, 10 de novembro de 2021",
       "url": "https://www.youtube.com/watch?v=1Ys_cNhXVHk",
-      "nota": "Roteiro de escuta · veja a abertura e a exposição de Helena Nader. A síntese abaixo pode apoiar a tomada de notas.",
+      "nota": "Material de apoio · síntese dos pontos da abertura e da exposição de Helena Nader.",
       "complemento": {
         "titulo": "Ler a síntese do seminário na Fiocruz",
         "url": "https://cee.fiocruz.br/ciencia-inovacao-desenvolvimento-social-equidade-dialogo-nos-desafios-da-fiocruz-do-futuro/"
@@ -1223,7 +1654,8 @@
     },
     "texto": [
       "Nísia Trindade Lima abre a discussão situando a Fiocruz em um projeto de ciência para o país. Ela associa desenvolvimento sustentável a equidade, democracia, ciência e inovação. Carlos Gadelha realiza a mediação do encontro.",
-      "Na exposição, Helena Nader recorre a uma linha do tempo de 1918 a 2019 para comparar crises sanitárias. A pesquisadora defende conectar saúde humana e ambiental e questiona como ampliar o acesso a tecnologias no SUS."
+      "Na exposição, Helena Nader recorre a uma linha do tempo de 1918 a 2019 para comparar crises sanitárias. A pesquisadora defende conectar saúde humana e ambiental e questiona como ampliar o acesso a tecnologias no SUS.",
+      "Na exposição, a linha do tempo vai da pandemia de 1918 ao aparecimento da Covid-19 em 2019. Ao comparar as crises, Nader distingue os avanços científicos das limitações na resposta das políticas públicas. Ao perguntar como fazer as tecnologias de saúde chegarem ao SUS, propõe um problema para o debate."
     ],
     "questoes": [
       {
@@ -1231,7 +1663,7 @@
         "resposta": "Os desafios da ciência e da inovação e sua relação com o futuro da Fiocruz."
       },
       {
-        "enunciado": "Quem apresenta e quem desenvolve a comparação entre crises sanitárias? Como se reconhece a troca de papéis na gravação?",
+        "enunciado": "Quem apresenta o encontro e quem desenvolve a comparação entre crises sanitárias? Como se distinguem os papéis?",
         "resposta": "A presidência participa da abertura e a mediação, feita por Carlos Gadelha, organiza as falas. Helena Nader desenvolve a comparação em sua exposição. A apresentação dos participantes e a mudança de locutor mostram a transição."
       },
       {
@@ -1279,11 +1711,36 @@
     "fonte": {
       "credito": "Machado de Assis · Várias histórias, 1896",
       "url": "https://pt.wikisource.org/wiki/Um_Ap%C3%B3logo",
-      "nota": "Síntese do conto de feição alegórica · acompanhe os diálogos e o desfecho no original."
+      "nota": "Texto integral da edição indicada.",
+      "integral": true,
+      "permissao": {
+        "nome": "Domínio público",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/deed.pt-br"
+      }
     },
     "texto": [
-      "Agulha e linha discutem sobre qual realiza o trabalho mais importante. A agulha afirma abrir o caminho no pano, enquanto a linha alega que é ela quem permanece unindo as partes da roupa.",
-      "Depois da costura, a linha vai ao baile no vestido da baronesa e a agulha fica na caixa. Um alfinete comenta o ocorrido. No fim, o narrador conta o caso a um professor, que o relaciona à própria experiência."
+      "Era uma vez uma agulha, que disse a um novelo de linha:",
+      "— Por que está você com esse ar, toda cheia de si, toda enrolada, para fingir que vale alguma coisa neste mundo?",
+      "— Deixe-me, senhora.",
+      "— Que a deixe? Que a deixe, por quê? Porque lhe digo que está com um ar insuportável? Repito que sim, e falarei sempre que me der na cabeça.",
+      "— Que cabeça, senhora? A senhora não é alfinete, é agulha. Agulha não tem cabeça. Que lhe importa o meu ar? Cada qual tem o ar que Deus lhe deu. Importe-se com a sua vida e deixe a dos outros.",
+      "— Mas você é orgulhosa.",
+      "— Decerto que sou.",
+      "— Mas por quê?",
+      "— É boa! Porque coso. Então os vestidos e enfeites de nossa ama, quem é que os cose, senão eu?",
+      "— Você? Esta agora é melhor. Você é que os cose? Você ignora que quem os cose sou eu, e muito eu?",
+      "— Você fura o pano, nada mais; eu é que coso, prendo um pedaço ao outro, dou feição aos babados...",
+      "— Sim, mas que vale isso? Eu é que furo o pano, vou adiante, puxando por você, que vem atrás, obedecendo ao que eu faço e mando...",
+      "— Também os batedores vão adiante do imperador.",
+      "— Você é imperador?",
+      "— Não digo isso. Mas a verdade é que você faz um papel subalterno, indo adiante; vai só mostrando o caminho, vai fazendo o trabalho obscuro e ínfimo. Eu é que prendo, ligo, ajunto...",
+      "Estavam nisto, quando a costureira chegou à casa da baronesa. Não sei se disse que isto se passava em casa de uma baronesa, que tinha a modista ao pé de si, para não andar atrás dela. Chegou a costureira, pegou do pano, pegou da agulha, pegou da linha, enfiou a linha na agulha, e entrou a coser. Uma e outra iam andando orgulhosas, pelo pano adiante, que era a melhor das sedas, entre os dedos da costureira, ágeis como os galgos de Diana — para dar a isto uma cor poética. E dizia a agulha:",
+      "— Então, senhora linha, ainda teima no que dizia há pouco? Não repara que esta distinta costureira só se importa comigo; eu é que vou aqui entre os dedos dela, unidinha a eles, furando abaixo e acima. A linha não respondia nada; ia andando. Buraco aberto pela agulha era logo enchido por ela, silenciosa e ativa como quem sabe o que faz, e não está para ouvir palavras loucas. A agulha vendo que ela não lhe dava resposta, calou-se também, e foi andando. E era tudo silêncio na saleta de costura; não se ouvia mais que o plic-plic plic-plic da agulha no pano. Caindo o sol, a costureira dobrou a costura, para o dia seguinte; continuou ainda nesse e no outro, até que no quarto acabou a obra, e ficou esperando o baile.",
+      "Veio a noite do baile, e a baronesa vestiu-se. A costureira, que a ajudou a vestir-se, levava a agulha espetada no corpinho, para dar algum ponto necessário. E quando compunha o vestido da bela dama, e puxava a um lado ou outro, arregaçava daqui ou dali, alisando, abotoando, acolchetando, a linha, para mofar da agulha, perguntou-lhe:",
+      "— Ora agora, diga-me quem é que vai ao baile, no corpo da baronesa, fazendo parte do vestido e da elegância? Quem é que vai dançar com ministros e diplomatas, enquanto você volta para a caixinha da costureira, antes de ir para o balaio das mucamas? Vamos, diga lá.",
+      "Parece que a agulha não disse nada; mas um alfinete, de cabeça grande e não menor experiência, murmurou à pobre agulha:",
+      "— Anda, aprende, tola. Cansas-te em abrir caminho para ela e ela é que vai gozar da vida, enquanto aí ficas na caixinha de costura. Faze como eu, que não abro caminho para ninguém. Onde me espetam, fico.",
+      "Contei esta história a um professor de melancolia, que me disse, abanando a cabeça: — Também eu tenho servido de agulha a muita linha ordinária!"
     ],
     "questoes": [
       {
@@ -1292,8 +1749,7 @@
       },
       {
         "enunciado": "O que acontece com as duas depois que o vestido fica pronto?",
-        "resposta": "A linha permanece na roupa levada ao baile. A agulha volta à caixa.",
-        "trecho": "a linha vai ao baile no vestido da baronesa e a agulha fica na caixa"
+        "resposta": "A linha permanece na roupa levada ao baile. A agulha volta à caixa."
       },
       {
         "enunciado": "Qual argumento a agulha usa a favor da própria importância?",
@@ -1321,7 +1777,8 @@
       },
       {
         "enunciado": "Onde se manifesta a ironia no destino da agulha?",
-        "resposta": "Ela reivindica protagonismo por abrir o caminho, mas fica esquecida quando o produto do trabalho recebe destaque."
+        "resposta": "Ela reivindica protagonismo por abrir o caminho, mas fica esquecida quando o produto do trabalho recebe destaque.",
+        "trecho": "no corpo da baronesa"
       },
       {
         "enunciado": "Que tema humano o conto desenvolve por meio da costura?",
@@ -1339,17 +1796,37 @@
     "fonte": {
       "credito": "Machado de Assis · série Bons Dias!, Gazeta de Notícias, maio de 1888",
       "url": "https://pt.wikisource.org/wiki/Cr%C3%B4nica_da_Aboli%C3%A7%C3%A3o",
-      "nota": "Síntese da crônica · leia o episódio de Pancrácio na íntegra, incluindo a despedida final."
+      "nota": "Texto integral da edição indicada.",
+      "integral": true,
+      "permissao": {
+        "nome": "Domínio público",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/deed.pt-br"
+      }
     },
     "texto": [
-      "O narrador diz que libertou Pancrácio antes da abolição legal. Oferece que ele permaneça em sua casa por um pagamento pequeno e descreve a continuidade das agressões mesmo após a alforria.",
-      "Ao revelar que quer tornar-se deputado, o narrador planeja transformar o episódio em propaganda de sua suposta grandeza, inclusive imaginando uma versão em que Pancrácio se torna professor."
+      "BONS DIAS!",
+      "Eu pertenço a uma família de profetas après coup, post factum, depois do gato morto, ou como melhor nome tenha em holandês. Por isso digo juro se necessário for, que toda a história desta lei de 13 de maio estava por mim prevista, tanto que na segunda-feira, antes mesmo dos debates, tratei de alforriar um molecote que tinha, pessoa de seus dezoito anos, mais ou menos. Alforriá-lo era nada; entendi que, perdido por mil, perdido por mil e quinhentos, e dei um jantar.",
+      "Neste jantar, a que meus amigos deram o nome de banquete, em falta de outro melhor, reuni umas cinco pessoas, conquanto as notícias dissessem trinta e três (anos de Cristo), no intuito de lhe dar um aspecto simbólico.",
+      "No golpe do meio (coupe do milieu, mas eu prefiro falar a minha língua) levantei-me eu com a taça de champanha e declarei que acompanhando as idéias pregadas por Cristo, há dezoito séculos restituía a liberdade ao meu escravo Pancrácio; que entendia a que a nação inteira devia acompanhar as mesmas idéias e imitar o meu exemplo; finalmente, que a liberdade era um dom de Deus que os homens não podiam roubar sem pecado.",
+      "Pancrácio, que estava à espreita, entrou na sala, como um furacão, e veio abraçar-me os pés. Um dos meus amigos (creio que é ainda meu sobrinho) pegou de outra taça e pediu à ilustre assembéia que correspondesse ao ato que acabava de publicar brindando ao primeiro dos cariocas. Ouvi cabisbaixo: fiz outro discurso agradecendo, e entreguei a carta ao molecote. Todos os lenços comovidos apanharam as lágrimas de admiração. Caí na cadeira e não vi mais nada. De noite, recebi muitos cartões. Creio que estão pintando o meu retrato, e suponho que a óleo.",
+      "No dia seguinte, chamei o Pancrácio e disse-lhe com rara franqueza:",
+      "— Tu és livre, podes ir para onde quiseres. Aqui tens casa amiga, já conhecida e tens mais um ordenado, um ordenado que...",
+      "— Oh! meu senhô! Fico.",
+      "— Um ordenado pequeno, mas que há de crescer. Tudo cresce neste mundo: tu cresceste imensamente. Quando nasceste eras um pirralho deste tamanho; hoje estás mais alto que eu. Deixa ver; olha, és mais alto quatro dedos...",
+      "— Artura não qué dizê nada, não, senhô...",
+      "— Pequeno ordenado, repito, uns seis mil-réis: mas é de grão em grão que a galinha enche o seu papo. Tu vales muito mais que uma galinha.",
+      "— Eu vaio um galo, sim, senhô.",
+      "— Justamente. Pois seis mil-réis. No fim de um ano, se andares bem, conta com oito. Oito ou sete.",
+      "Pancrácio aceitou tudo: aceitou até um peteleco que lhe dei no dia seguinte, por me não escovar bem as botas; efeitos da liberdade. Mas eu expliquei-lhe que o peteleco, sendo um impulso natural, não podia anular o direito civil adquirido por um título que lhe dei. Ele continuava livre, eu de mau humor; eram dois estados naturais, quase divinos.",
+      "Tudo compreendeu o meu bom Pancrácio: daí para cá, tenho-lhe despedido alguns pontapés, um ou outro puxão de orelhas, e chamo-lhe besta quando lhe não chamo filho do diabo; cousas todas que ele recebe humildemente, e (Deus me perdoe!) creio que até alegre.",
+      "O meu plano está feito; quero ser deputado, e, na circular que mandarei aos meus eleitores, direi que, antes, muito antes de abolição legal, já eu em casa, na modéstia da familia, libertava um escravo, ato que comoveu a toda a gente que dele teve notícia; que esse escravo, tendo aprendido a ler, escrever e contar, (simples suposição) é então professor de filosofia no Rio das Cobras: que os homens puros, grandes e verdadeiramente políticos, não são os que obedecem à lei, mas os que se antecipam a ela, dizendo ao escravo: és livre, antes que o digam os poderes públicos, sempre retardatários, trôpegos e incapazes de restaurar a justiça na terra, para satisfação do céu.",
+      "Boas noites."
     ],
     "questoes": [
       {
         "enunciado": "Que vantagem política o narrador espera obter ao divulgar seu gesto?",
         "resposta": "Quer valorizar sua imagem junto aos eleitores e tornar-se deputado.",
-        "trecho": "quer tornar-se deputado"
+        "trecho": "quero ser deputado"
       },
       {
         "enunciado": "Qual contradição estrutura a experiência narrada depois da alforria?",
@@ -1357,7 +1834,8 @@
       },
       {
         "enunciado": "Por que a expressão “efeitos da liberdade”, depois de um peteleco, produz ironia?",
-        "resposta": "A expressão sugere uma conquista, mas é aplicada a uma agressão que revela a persistência da dominação."
+        "resposta": "A expressão sugere uma conquista, mas é aplicada a uma agressão que revela a persistência da dominação.",
+        "trecho": "efeitos da liberdade"
       },
       {
         "enunciado": "A condição de professor atribuída a Pancrácio é apresentada como fato consumado?",
@@ -1402,11 +1880,41 @@
     "fonte": {
       "credito": "Monteiro Lobato · Fábulas de Narizinho, edição de 1921, p. 7–10",
       "url": "https://pt.wikisource.org/wiki/Fabulas_de_Narizinho/A_cigarra_e_a_formiga",
-      "nota": "Síntese das duas versões de Lobato · leia a passagem da formiga acolhedora e a da formiga que recusa ajuda."
+      "nota": "Texto integral da edição indicada.",
+      "integral": true,
+      "permissao": {
+        "nome": "Domínio público",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/deed.pt-br"
+      }
     },
     "texto": [
-      "Quando as chuvas chegam, uma cigarra procura abrigo. Uma formiga a acolhe, lembrando que sua música alegrava o trabalho das vizinhas. A cigarra anima o formigueiro durante o período chuvoso.",
-      "O narrador conta em seguida um caso diferente, situado no inverno europeu: uma formiga recusa até emprestar alimento. A cigarra morre, e a primavera perde a contribuição de seu canto. No fim, o narrador compara artistas a cigarras."
+      "Houve uma joven cigarra, de côres rebrilhantes, que tinha por costume chiar ao pé dum formigueiro. Só parava quando cansadinna; e era então seu divertimento observar as formigas operosas, na eterna faina de abastecer as tulhas de Formigopolis.",
+      "Mas o bom tempo, afinal, passou, e vieram as chuvas finas de Setembro. Os animaes todos, arrepiados, passavam o dia cochilando nas tócas, á espera de que cessasse o horrivel chuvisqueiro.",
+      "A pobre cigarra, sem abrigo em seu galhinho secco, e mettida em grandes apuros, deliberou soccorrer-se de alguem.",
+      "Manquitolando, com uma asa a arrastar, dirigiu-se a Formigopolis. Bateu — tic, tic, tic...",
+      "Surge uma formiga friorenta, embrulhada em fichú de paina.",
+      "— Que quer você? pergunta ella, examinando a triste mendiga, suja de lama e a tossir, a tossir...",
+      "— Venho em busca de agasalho. A garôa não cessa e eu...",
+      "A formiga olhou-a d'alto a baixo, franziu a testa e disse:",
+      "— E que fazia você durante o bom tempo que não construia a sua casa?",
+      "A pobre cigarra, treme—tremendo, respondeu depois dum accesso de tosse:",
+      "— Eu cantava, bem sabe...",
+      "— Ah!... exclamou a formiga, recordando—se. Era você, então, quem cantava. nessa arvore secca, emquanto nós labutavamos para abastecer as tulhas?",
+      "— Isso mesmo, era eu...",
+      "— Pois entre, amiguinha! Nunca poderemos esquecer as boas horas que sua cantoria nos proporcionou. Aquelle chiado nos divertia e nos alliviava o trabalho. Diziamos sempre: que felicidade ter como vizinha a uma tão gentil cantora! Entre, pois, amiga, que aqui tem cama e mesa emquanto o mau tempo durar.",
+      "A cigarra entrou, sarou da tosse e voltou a ser a alegre cantora dos dias de sol quente e ceu azul. E durante toda a temporada chuvosa encheu o formigueiro de alegria com a vibração das suas musicas chiantes.",
+      "Mais tarde, quando o sol reappareceu e a cigarra partiu, confessaram as formiguinhas, saudosas, nunca terem passado uma estação das aguas mais divertida que aquella...",
+      "⁂",
+      "Já houve, entretanto, uma formiga má que não soube comprehender a cigarra e friamente a repelliu de sua porta.",
+      "Foi isso na Europa, em pleno inverno, quando a neve recobria o mundo com o seu cruel manto de gelo.",
+      "A cigarra, como de costume, cantara sem parar o estio inteiro, e o inverno viera pilhal-a desprovida de tudo, sem casa onde abrigar-se, nem folhinhas que comesse.",
+      "Desesperada, bateu á porta da formiga e pediu — emprestado, notem! — uns miseraveis restos de comida. Pagaria. Pagaria com juros altos, essa comida de emprestimo, logo que o tempo lh'o permittisse.",
+      "Mas a formiga era uma usuraria sem entranhas. Além disso, invejosa. Como não soubesse cantar tinha odio de morte á cigarra por vel-a querida de todos os seres.",
+      "— Que fazia você, durante o bom tempo?",
+      "— Eu... eu cantava!...",
+      "— Cantava? Pois dance agora! e fechou-lhe a porta no nariz.",
+      "Resultado: a cigarra alli morreu, entanguidinha; e quando regressou a primavera, o mundo apresentava um aspecto mais triste. E' que faltava na symphonia das cousas a nota estridente daquella cigarra morta em consequencia da avareza da formiga. No entanto, se a usuraria morresse, ninguem daria pela falta della!",
+      "Os artistas — poetas, pintores, musicos — são as cigarras da humanidade."
     ],
     "questoes": [
       {
@@ -1416,7 +1924,7 @@
       {
         "enunciado": "O que leva a primeira formiga a oferecer acolhimento?",
         "resposta": "Ela se lembra de como o canto da cigarra distraía e aliviava o trabalho das formigas.",
-        "trecho": "sua música alegrava o trabalho das vizinhas"
+        "trecho": "Aquelle chiado nos divertia e nos alliviava o trabalho"
       },
       {
         "enunciado": "Que diferença há entre os desfechos?",
@@ -1462,24 +1970,31 @@
     "fonte": {
       "credito": "Gonçalves Dias · Primeiros Cantos, 1846, p. 9–10",
       "url": "https://pt.wikisource.org/wiki/Can%C3%A7%C3%A3o_do_Ex%C3%ADlio_(Gon%C3%A7alves_Dias)",
-      "nota": "Primeira estrofe em domínio público · grafia atualizada. Consulte o poema completo na fonte."
+      "nota": "Poema integral com a epígrafe e a grafia da edição de 1846.",
+      "integral": true,
+      "permissao": {
+        "nome": "Domínio público",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/deed.pt-br"
+      }
     },
     "texto": [
-      "Minha terra tem palmeiras,\nOnde canta o sabiá;\nAs aves, que aqui gorjeiam,\nNão gorjeiam como lá.",
-      "Na sequência, o poema retoma as lembranças da terra, amplia a comparação e termina com o desejo de voltar. A edição de referência registra Coimbra e julho de 1843 como lugar e data da composição."
+      "Kennst du das Land, wo die Citronen blühen,\nIm dunkeln Laub die Gold⸗Orangen glühen,\nKennst du es wohl? — Dahin, dahin!\nMöcht’ich — ziehn. Göthe.",
+      "Minha terra tem palmeiras,\nOnde canta o Sabiá;\nAs aves, que aqui gorgeião,\nNão gorgeião como lá.\n\nNosso céo tem mais estrellas,\nNossas varzeas tem mais flores,\nNossos bosques tem mais vida,\nNossa vida mais amores.",
+      "Em scismar — sósinho — á noite —\nMais prazer encontro eu lá;\nMinha terra tem palmeiras,\nOnde canta o Sabiá.\n\nMinha terra tem primores,\nQue taes não encontro eu cá;\nEm scismar — sósinho — á noite —\nMais prazer encontro eu lá;\nMinha terra tem palmeiras,\nOnde canta o Sabiá.\n\nNão permitta Deos que eu morra,\nSem que eu volte para lá;\nSem que eu desfructe os primores\nQue não encontro por cá;\nSem qu’inda aviste as palmeiras,\nOnde canta o Sabiá.",
+      "Coimbra — Julho 1843."
     ],
     "questoes": [
       {
         "enunciado": "Quais elementos da natureza identificam a terra evocada no início?",
         "resposta": "As palmeiras e o sabiá.",
-        "trecho": "Minha terra tem palmeiras,\nOnde canta o sabiá"
+        "trecho": "Minha terra tem palmeiras,\nOnde canta o Sabiá;"
       },
       {
         "enunciado": "A que lugares os advérbios “aqui” e “lá” remetem?",
         "resposta": "“Aqui” indica o lugar onde a voz poética está. “Lá” indica a terra natal lembrada de longe."
       },
       {
-        "enunciado": "O que significa “gorjeiam”?",
+        "enunciado": "O que significa “gorgeião” (hoje, “gorjeiam”)?",
         "resposta": "Cantam ou emitem sons melodiosos, como as aves."
       },
       {
@@ -1525,14 +2040,17 @@
     "fonte": {
       "credito": "Charles M. Schulz · tira de 25 de abril de 1960, seleção de favoritas do GoComics",
       "url": "https://featureassets.gocomics.com/assets/ba30f050f87d013014e9001dd8b71c47?optimizer=image&quality=85&width=1200",
-      "nota": "Roteiro e apoio de vocabulário em português · abra a tira publicada para observar os quatro quadros.",
+      "nota": "Material de apoio · descrição dos quatro quadros e vocabulário em português.",
       "complemento": {
         "titulo": "Consultar a publicação no GoComics",
         "url": "https://www.gocomics.com/peanuts/1960/04/25"
       }
     },
     "texto": [
-      "Lucy se aproxima de Snoopy. Ela acaricia o cão, abraça-o e, ao sair, expressa uma ideia de felicidade ligada ao contato com um cachorro quentinho. O original está em inglês."
+      "Quadro 1. Lucy se aproxima sorrindo. Snoopy está sentado na grama.",
+      "Quadro 2. Lucy se inclina e passa a mão na cabeça de Snoopy.",
+      "Quadro 3. Lucy o abraça com o rosto relaxado e emite um som de satisfação: “MMMM!”.",
+      "Quadro 4. Lucy se afasta e associa a felicidade a um cão quentinho: “Happiness is a warm puppy…”."
     ],
     "questoes": [
       {
@@ -1541,8 +2059,7 @@
       },
       {
         "enunciado": "Que mudança nas ações de Lucy se vê do primeiro ao terceiro quadro?",
-        "resposta": "Ela primeiro se aproxima, depois acaricia o cachorro e por fim o abraça.",
-        "trecho": "acaricia o cão, abraça-o"
+        "resposta": "Ela primeiro se aproxima, depois acaricia o cachorro e por fim o abraça."
       },
       {
         "enunciado": "O que a expressão de Lucy antes da última fala sugere?",
@@ -1588,7 +2105,12 @@
     "fonte": {
       "credito": "Angelo Agostini · Revista Illustrada, n. 427, 18 de fevereiro de 1886",
       "url": "https://commons.wikimedia.org/wiki/File:SCENAS_da_escravid%C3%A3o_patrocinadas_pelo_partido_da_Ordem,_sob_o_glorioso_e_s%C3%A1bio_reinado_do_Senhor_D._Pedro_11_o_Grande..._Revista_Ilustrada,_Rio_de_Janei-_ro,_n._427,_18_fev._1886.jpg",
-      "nota": "Charge histórica em domínio público · a página contém representações de violência escravista."
+      "nota": "Página integral da publicação. O texto abaixo orienta a leitura da imagem.",
+      "integral": true,
+      "permissao": {
+        "nome": "Domínio público",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/deed.pt-br"
+      }
     },
     "texto": [
       "A composição reúne cenas acompanhadas por legendas, sob um título que faz um elogio aparente ao reinado de D. Pedro II e menciona o partido da Ordem. A publicação ocorreu dois anos antes da abolição legal da escravidão no Brasil.",
@@ -1657,7 +2179,12 @@
     "fonte": {
       "credito": "Winsor McCay · New York Herald, 15 de outubro de 1905",
       "url": "https://commons.wikimedia.org/wiki/File:Little_Nemo_1905-10-15.jpg",
-      "nota": "Página de HQ em domínio público · roteiro de leitura em português. A imagem mantém o inglês original."
+      "nota": "Página integral da publicação. O texto abaixo orienta a leitura da imagem.",
+      "integral": true,
+      "permissao": {
+        "nome": "Domínio público",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/deed.pt-br"
+      }
     },
     "texto": [
       "Um mensageiro convida Nemo a visitar o rei Morfeu. O menino monta Somnus, recebe recomendações de cuidado e é desafiado por um canguru verde para uma corrida. A montaria dispara e tropeça em uma estrela.",

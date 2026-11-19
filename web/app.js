@@ -101,26 +101,6 @@ function options(values, selected) {
     .join('');
 }
 
-const colors = {
-  Cotidiano: '#e4edc9',
-  Imprensa: '#f6e4cb',
-  'Vida pública': '#e0e8f2',
-  'Estudo e pesquisa': '#d9ece6',
-  'Arte e literatura': '#eee0ed',
-};
-const hero = `<section class="hero">
-  <div class="hero-copy"><p class="eyebrow">Língua portuguesa · 6º ao 9º ano</p><h1>Biblioteca de leitura</h1>
-  <p>Leia textos e materiais publicados. Cada ficha traz dez questões e um gabarito comentado.</p></div>
-  <div class="hero-art" aria-hidden="true"><svg viewBox="0 0 470 290" preserveAspectRatio="xMidYMid slice">
-    <defs><pattern id="dots" width="15" height="15" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#749377"/></pattern></defs>
-    <rect width="470" height="290" fill="url(#dots)"/><circle cx="259" cy="155" r="118" fill="#dceda4"/>
-    <g transform="translate(133 72) rotate(-8 106 80)"><path d="M15 29 Q65 17 113 50 Q157 17 211 29 V145 Q153 134 113 162 Q69 134 15 145Z" fill="#172e26"/>
-    <path d="M15 20 Q65 8 113 41 Q157 8 211 20 V136 Q153 125 113 153 Q69 125 15 136Z" fill="#f9f8e9"/>
-    <path d="M113 41v111M34 48q32 0 61 14M34 65q32 0 61 14M34 82q32 0 61 14M132 62q29-14 60-14M132 79q29-14 60-14M132 96q29-14 60-14" fill="none" stroke="#688476" stroke-width="2.5" stroke-linecap="round"/>
-    <path d="M159 22l20-4v49l-10-6-10 9z" fill="#d98b51"/></g>
-    <path d="M368 59v26m-13-13h26M102 199v20m-10-10h20" stroke="#dceda4" stroke-width="3" stroke-linecap="round"/>
-  </svg></div></section>`;
-
 function filtered() {
   const pool =
     activeCollection && collection()
@@ -150,8 +130,7 @@ function cards() {
     lastList
       .map(
         (r) => `<article class="card">
-    <div class="card-art" style="--tile:${colors[r.campo]}"><b aria-hidden="true">${r.icone}</b><span>${esc(r.genero)}</span></div>
-    <div class="card-body"><h3><a href="#ficha/${r.id}">${esc(r.titulo)}</a></h3>
+    <div class="card-body"><p class="card-genre">${esc(r.genero)}</p><h2><a href="#ficha/${r.id}">${esc(r.titulo)}</a></h2>
     <p>${esc(r.campo)} · ${r.questoes.length} questões</p><div class="card-meta">
     <span>${r.ano}º ano · ${unlocked(r) ? 'Concluída' : r.id}</span>
     ${button('Salvar', 'save', 'quiet', `data-id="${r.id}" aria-label="Salvar ${esc(r.titulo)} em coleção"`)}
@@ -162,16 +141,15 @@ function cards() {
 
 function catalog() {
   if (!collection()) activeCollection = '';
-  app.innerHTML = `${activeCollection ? '' : hero}
-    <section class="section-head"><div><h2>${activeCollection ? esc(collection().nome) : 'Acervo'}</h2><p id="result" role="status"></p></div>
-    ${buttons(`${activeCollection ? button('Voltar ao acervo', 'leave') : ''}${button('Imprimir lote', 'batch', 'quiet', 'id="batch"')}`)}</section>
-    <div class="filters">
-    <label>Buscar<input id="busca" type="search" placeholder="Título, gênero ou código" value="${esc(query.busca)}"></label>
+  app.innerHTML = `
+    <div class="section-head catalog-heading"><div><h1>${activeCollection ? esc(collection().nome) : 'Acervo de leitura'}</h1><p id="result" role="status"></p></div>
+    ${buttons(`${activeCollection ? button('Voltar ao acervo', 'leave') : ''}${button('Imprimir lote', 'batch', 'quiet', 'id="batch"')}`)}</div>
+    <div class="catalog-layout">
+    <aside class="filters" aria-label="Filtros do acervo">
+    <label>Buscar<input id="busca" type="search" placeholder="Título ou código" value="${esc(query.busca)}"></label>
     <label>Gênero<select id="genero">${options([['', 'Todos'], ...sets(catalogReadings, 'genero').map((x) => [x, x])], query.genero)}</select></label>
     <label>Campo<select id="campo">${options([['', 'Todos'], ...sets(catalogReadings, 'campo').map((x) => [x, x])], query.campo)}</select></label>
     <label>Ano sugerido<select id="ano">${options([['', 'Todos'], ...sets(catalogReadings, 'ano').map((x) => [x, x + 'º ano'])], query.ano)}</select></label>
-    </div>
-    <div class="reader-nav"><button type="button" data-action="clear">Limpar filtros</button>
     <label>Ordenar <select id="ordem">${options(
       [
         ['acervo', 'Ordem do acervo'],
@@ -179,8 +157,11 @@ function catalog() {
         ['ano', 'Ano'],
       ],
       query.ordem,
-    )}</select></label></div>
-    <div id="cards" class="grid"></div>`;
+    )}</select></label>
+    <button type="button" data-action="clear">Limpar filtros</button>
+    </aside>
+    <div id="cards" class="grid"></div>
+    </div>`;
   for (const key of Object.keys(query))
     document
       .getElementById(key)
@@ -191,7 +172,7 @@ function catalog() {
   cards();
 }
 
-function visual(r) {
+function visual(r, interactive) {
   const v = r.visual;
   if (!v) return '';
   let html;
@@ -200,7 +181,8 @@ function visual(r) {
       ${v.dados.map((row) => `<tr>${row.map((x) => `<td>${esc(x)}</td>`).join('')}</tr>`).join('')}</tbody></table>`;
   } else if (v.tipo === 'imagem') {
     const imagePath = './fontes/' + encodeURIComponent(v.arquivo);
-    html = `<a class="source-image" href="${imagePath}" target="_blank" rel="noopener" aria-label="Ampliar imagem"><img src="${imagePath}" alt="${esc(v.alt)}"></a>`;
+    html = `<div class="source-image"><img src="${imagePath}" alt="${esc(v.alt)}"></div>
+      ${interactive ? button('Ampliar imagem', 'image-size', 'quiet screen-only', 'aria-pressed="false"') : ''}`;
   } else if (v.tipo === 'series') {
     const percent = (n) =>
       n.toLocaleString('pt-BR', { minimumFractionDigits: 1 }) + '%';
@@ -265,8 +247,10 @@ function sourceNote(r) {
   return `<aside class="source-note" aria-label="Fonte da leitura">
     <p><strong>${esc(source.credito)}</strong></p>
     <p>${esc(source.nota)}</p>
-    <div class="source-links">${link(source.url, 'Abrir material original')}
-    ${source.complemento ? link(source.complemento.url, source.complemento.titulo) : ''}</div>
+    <details class="source-reference"><summary>Referência</summary>
+    <div class="source-links">${link(source.url, 'Publicação original')}
+    ${source.permissao ? link(source.permissao.url, source.permissao.nome) : ''}
+    ${source.complemento ? link(source.complemento.url, source.complemento.titulo) : ''}</div></details>
     <span class="only-print source-url">${esc(source.url)}</span>
   </aside>`;
 }
@@ -297,7 +281,7 @@ function sheet(r, show, interactive) {
   <p class="eyebrow">${esc(r.genero)} · ${r.ano}º ano · ${r.id}</p><h1>${esc(r.titulo)}</h1>
   ${sourceNote(r)}
   <div class="text">${r.texto.map((p) => `<p>${marked(p, r, show)}</p>`).join('')}</div>
-  ${f.figuras ? visual(r) : ''}
+  ${f.figuras ? visual(r, interactive) : ''}
   <section class="activity"><h2>${!interactive && show ? 'Gabarito comentado' : 'Atividade'}</h2>
   <form id="${interactive ? 'activity-form' : 'print-' + r.id}">
   ${r.questoes
@@ -353,7 +337,7 @@ function reader(r, retain = false) {
   const f = config(r);
   const offset = window.scrollY;
   app.innerHTML = `<div class="reader-nav"><a href="#catalogo">Voltar ao acervo</a>
-    <div class="actions">${i > 0 ? `<a class="button" href="#ficha/${list[i - 1].id}">Anterior</a>` : ''}
+    <div class="actions">${button('Ir às questões', 'questions')}${i > 0 ? `<a class="button" href="#ficha/${list[i - 1].id}">Anterior</a>` : ''}
     ${i < list.length - 1 ? `<a class="button" href="#ficha/${list[i + 1].id}">Próxima</a>` : ''}</div></div>
   <div class="reader-grid">
     ${sheet(r, unlocked(r) && solutionVisible, true)}
@@ -785,7 +769,7 @@ document.querySelector('#ajuda').addEventListener('click', () =>
     'Como usar o Nexo',
     `
   <p>Busque uma ficha por título, gênero ou código. Use os filtros para encontrar leituras por ano e campo de atuação.</p>
-  <p>Em cada ficha, abra o material original da fonte indicada. Algumas atividades também pedem a consulta de outra ficha.</p>
+  <p>Leia o material na ficha. Os créditos ficam no início da leitura. Algumas questões pedem a comparação com outra ficha do acervo.</p>
   <p>Escreva todas as respostas e selecione <strong>Enviar respostas</strong> para abrir o gabarito comentado. Os trechos destacados ajudam a conferir algumas respostas.</p>
   <p>Imprima uma ficha ou um lote. No navegador, escolha <strong>Salvar como PDF</strong> no diálogo de impressão. No visor também é possível baixar a fonte Typst para editar e compilar.</p>
   <p>As respostas, coleções e preferências ficam neste dispositivo. Exporte uma cópia de segurança em Coleções.</p>
@@ -799,6 +783,18 @@ document.addEventListener('click', (e) => {
   const { action, id, key, index, delta } = trigger.dataset;
   const r = currentReading;
   switch (action) {
+    case 'questions':
+      app.querySelector('#q-0').focus();
+      break;
+    case 'image-size': {
+      const image = trigger.closest('figure').querySelector('.source-image');
+      const expanded = image.classList.toggle('source-image-expanded');
+      trigger.textContent = expanded ? 'Reduzir imagem' : 'Ampliar imagem';
+      trigger.setAttribute('aria-pressed', String(expanded));
+      image.tabIndex = expanded ? 0 : -1;
+      if (expanded) image.focus();
+      break;
+    }
     case 'close':
       modal.close();
       break;

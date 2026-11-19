@@ -26,8 +26,9 @@ for reading in readings:
         source = reading["fonte"]
         assert source["credito"] and source["nota"], reading["id"]
         validate_source(source)
-        if "complemento" in source:
-            validate_source(source["complemento"])
+        for key in ("complemento", "permissao"):
+            if key in source:
+                validate_source(source[key])
     visual = reading.get("visual", {})
     if visual.get("tipo") == "imagem":
         assert (web / "fontes" / visual["arquivo"]).is_file() and visual["alt"], reading["id"]

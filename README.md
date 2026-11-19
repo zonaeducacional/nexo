@@ -1,6 +1,6 @@
 # Nexo
 
-Biblioteca de leitura em português do Brasil para os anos finais do Ensino Fundamental. O acervo reúne 26 gêneros em fichas baseadas em materiais publicados, com 10 questões abertas por ficha e 260 ao todo. Cada ficha credita a fonte e identifica seu trecho, síntese ou roteiro de leitura. Os textos integrais e as peças de terceiros podem ser consultados nos links da ficha. Veja o [alinhamento pedagógico](ALINHAMENTO.md) com o Saeb e a BNCC.
+Biblioteca de leitura em português do Brasil para os anos finais do Ensino Fundamental. O acervo reúne 26 gêneros em fichas baseadas em materiais publicados, com 10 questões abertas por ficha e 260 ao todo. A leitura de cada ficha acontece dentro do aplicativo. Os materiais disponibilizados na íntegra e os materiais de apoio são identificados nos créditos. A publicação original e as condições de reprodução ficam em **Referência**. Veja o [alinhamento pedagógico](ALINHAMENTO.md) com o Saeb e a BNCC.
 
 O gabarito orientativo de cada ficha aparece após o envio de todas as respostas preenchidas. As respostas abertas são conferidas pelo próprio estudante ou pelo professor. As tentativas, coleções e modelos ficam no armazenamento local e podem ser exportados. No GitHub Pages, o bloqueio é pedagógico. Quem examinar os arquivos públicos poderá acessar as respostas.
 
@@ -26,7 +26,7 @@ cargo tauri dev
 cargo tauri build
 ```
 
-O Tauri empacota os arquivos das fichas para consulta offline. Os materiais originais vinculados a sites externos exigem internet. Os instaladores são gerados em `src-tauri/target/release/bundle/`.
+O Tauri empacota os textos, questões e imagens das fichas para consulta offline. Os links de referência exigem internet. Os instaladores são gerados em `src-tauri/target/release/bundle/`.
 
 ## Impressão e Typst
 
